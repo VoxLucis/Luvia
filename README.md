@@ -19,3 +19,14 @@
 初始資料是 2026-11-22 選錄的可追溯新聞；自動新增者均標示「自動蒐集・未查核」，只代表標題候選清單，**不會自動捏造深度分析或確定產業影響**。RSS 源可能臨時失效、變更格式或連結跳轉，需定期檢查 Actions 記錄。初始資料和後續蒐集候選可能有重複。
 
 如需 AI 摘要、可靠度分級、跨週差異報告與直接寄信，需要另接內容解析、模型 API、資料庫與排程服務，現在未啟用。收藏採本機瀏覽器 localStorage，不會跨裝置同步。網站預設不需要使用者帳密，若公開部署則所有資料公開。
+
+
+## V2: 動態彙整及 AI 判讀
+
+- 公司卡片不再是固定介紹：會統計最近 60 日、依標題/公司比對的候選文章，附來源連結。這是「新聞彙整」，不等於建廠已確認。
+- 首頁新增近 14 日分類彙整。
+- 可選 AI 週報：建立 GitHub Repository 的 Settings → Secrets and variables → Actions → New repository secret，Name 填 `OPENAI_API_KEY`，Value 填 OpenAI Platform API 金鑰。不要將金鑰寫入程式碼或頁面。
+- GitHub Actions 每週先跑新聞蒐集 `update_news.py`，再跑 `ai_analyze.py`。未設金鑰時會跳過 AI 判讀，但仍更新 RSS。
+- AI 只讀新聞標題和中繼資料，**沒有讀取原文全文**，不可當成經查證的產業事實。每則分析會附原始候選來源。
+- OpenAI API 使用量另計費，ChatGPT 訂閱費不包含 API 額度。
+- 修改後需將 V2 所有檔案上傳到 GitHub 儲存庫根目錄，覆蓋 `index.html`、`.github/workflows/weekly.yml`，新增 `ai_analyze.py`。保留原有 data 資料夾。
