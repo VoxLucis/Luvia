@@ -22,7 +22,7 @@ if not chosen:
     print('No recent news candidates; skipping AI analysis.')
     raise SystemExit(0)
 model=os.getenv('OPENAI_MODEL','gpt-4.1-mini')
-instructions="""你是謹慎的半導體產業情報編輯。輸入只有新聞標題及中繼資料，沒有文章全文！不得編造投資金額、廠址、時程、已確認訂單或來源。以繁體中文輸出合法 JSON 物件，不要 Markdown，格式：{"week_summary":"兩到四句總覽，聲明僅為標題推論","disclaimer":"僅根據RSS標題初步整理，未核對全文和官方公告，設備需求為假設","signals":[{"id":"輸入的id","headline":"20字內事件標題","company":"企業名稱","priority":"高/中/低","evidence_level":"僅新聞標題，未驗證","summary":"最多80字，明確指出是標題顯示、不能確證","equipment_implication":"最多90字，講可能關注的檢測設備類別，無關就寫尚無直接訊號"}]}。只選最相關的最多8則，不要重複。只引用清單中真實存在的id。拒絕把新聞候選視為官方證據。"""
+instructions="""你是謹慎的半導體產業情報編輯。輸入只有新聞標題及中繼資料，沒有文章全文！不得編造投資金額、廠址、時程、已確認訂單或來源。以繁體中文輸出合法 json 物件，不要 Markdown，格式：{"week_summary":"兩到四句總覽，聲明僅為標題推論","disclaimer":"僅根據RSS標題初步整理，未核對全文和官方公告，設備需求為假設","signals":[{"id":"輸入的id","headline":"20字內事件標題","company":"企業名稱","priority":"高/中/低","evidence_level":"僅新聞標題，未驗證","summary":"最多80字，明確指出是標題顯示、不能確證","equipment_implication":"最多90字，講可能關注的檢測設備類別，無關就寫尚無直接訊號"}]}。只選最相關的最多8則，不要重複。只引用清單中真實存在的id。拒絕把新聞候選視為官方證據。"""
 payload={'model':model,'instructions':instructions,'input':'候選新聞（未核實）：'+json.dumps(chosen,ensure_ascii=False),'max_output_tokens':6500,'text':{'format':{'type':'json_object'}}}
 req=urllib.request.Request('https://api.openai.com/v1/responses',data=json.dumps(payload).encode('utf-8'),headers={'Authorization':'Bearer '+key,'Content-Type':'application/json'},method='POST')
 try:
