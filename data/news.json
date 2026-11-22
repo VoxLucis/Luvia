@@ -1,11 +1,1354 @@
 {
-  "updated_at": "2026-11-22T21:34:00+08:00",
-  "mode": "curated-seed",
+  "updated_at": "2026-11-22T22:10:43.052654+08:00",
+  "mode": "automated-candidates",
   "items": [
-    {"id":"tsmc-arizona-20261015","title":"台積電亞利桑那州第二座晶圓廠進入設備搬入與安裝階段","summary":"台積電於 2026 年第三季法說會表示，亞利桑那第二座晶圓廠已完成建設，正進行設備搬入與安裝；日本第二廠規劃 2028 年以 3 奈米量產。","category":"擴廠動態","company":"台積電","region":"美國","date":"2026-10-15","source":"TSMC Q3 2026 Earnings Call","url":"https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf","status":"官方證實","impact":"設備搬入階段比單純宣布投資更接近實際設備採購與驗證需求。","tags":["tool move-in","3nm","Arizona"]},
-    {"id":"ase-kaohsiung-20261113","title":"日月光高雄路竹先進封裝廠一期啟用、二期動土","summary":"日月光於 11 月 13 日啟用路竹先進封裝廠第一期並同步啟動第二期工程，持續擴充 AI 相關封裝產能。","category":"擴廠動態","company":"日月光","region":"台灣","date":"2026-11-13","source":"Taiwan News","url":"https://www.taiwannews.com.tw/news/6475880","status":"媒體報導","impact":"關注封裝檢測、載盤檢測及高產能自動化導入機會；尚不等同已有設備訂單。","tags":["advanced packaging","Kaohsiung","AI"]},
-    {"id":"ase-capex-20261030","title":"日月光提高 2026 年資本支出預算至 115 億美元","summary":"日月光因先進封裝需求增加，上調年度資本支出預算；需要與實際工程進度及設備採購資訊交叉驗證。","category":"供應鏈與資本支出","company":"日月光","region":"台灣","date":"2026-10-30","source":"Taipei Times","url":"https://www.taipeitimes.com/News/biz/archives/2026/10/30/2003866836","status":"媒體報導","impact":"資本支出增加是設備需求領先訊號，但未必直接對應特定檢測設備。","tags":["capex","LEAP","packaging"]},
-    {"id":"tsmc-subsidies-20261114","title":"台積電海外擴產獲多國政府補助支持","summary":"2026 年前九個月台積電獲美、日、德、中等地政府合計約新台幣 1,676 億元補助，用於全球擴產相關支出。","category":"政治與政策","company":"台積電","region":"全球","date":"2026-11-14","source":"Focus Taiwan","url":"https://focustaiwan.tw/business/202611140005","status":"媒體報導","impact":"跨國補助可改善建廠資金壓力，同時使產能布局更受各國政策條件影響。","tags":["subsidies","CHIPS","globalization"]},
-    {"id":"onto-photonics-202611","title":"Onto Innovation 探討 AI 時代矽光子製程控制挑戰","summary":"Onto Innovation 在 2026 年 11 月發布矽光子製程控制相關技術內容，提及量測、缺陷與良率資料整合。","category":"檢測設備","company":"Onto Innovation","region":"全球","date":"2026-11-10","source":"Onto Innovation","url":"https://ontoinnovation.com/wp-content/uploads/2026/11/Website-Content-Overcoming-Silicon-Photonics-Process-Control-Challenges-in-the-AI-Era-Formatted.pdf","status":"官方發布","impact":"可觀察檢測與 metrology 資料整合是否形成新一輪軟硬體產品需求。","tags":["silicon photonics","metrology","process control"]}
+    {
+      "id": "f3fffdddd9216f872a",
+      "title": "BIS Buys a New Toaster: Replacing the AI Diffusion Rule and Telling Chip Sellers to Know Thy Customer’s Customer – Part I - The National Law Review",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-21",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHdCOTF3NE5PbkpGemR0WjFJbmxjTUJacllSX3lLMjZUTTBXemFRdzc4cEFfSW5RRENhWC1xNjFOSUdtcE1uc29FWnZWSnAxQ196VGU1SF9RRHlSN2xheEQyWHlVTDFObzloNlN2T3QxUnQ3OVV5ZTVwdHoya3lCZi1RNXJ3TmZyX053WlpudFRyTm1Fc0lhZlpiRkRjU1VMa0Q1ZVdKZHJ4dUJTZElHYmQ3dE5wUdIBuwFBVV95cUxNcXQ5dklkbVVKUXlsQ2o0bHFtS0pXZWJtRkxtNmxaMkxvclhYeGlYdEMzQWdFT0Z5eUdBbktqNlFPSDFfTVdDRTdvQjJqVk1XajRuVWJfZ1J3ZENOOWhMbWRkdk8wa0FxWmxSc2RVdmhrSHZuYjNMOUJfNWZfMExiYmZWS0N6S2Z0bm1VRFFZSFFHRkQ5U0FhQ1Z4NnUtT2hLQ0Vvc25QN2QwVjZ4YUd3LUZ5YW1xbGY0cnB3?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "d360a81e822ff01b7c",
+      "title": "Air Showers Market Forecast to 2035, Driven by Semiconductor Fab Expansion and Pharma Sterility Rules - IndexBox",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-21",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlM0eUpPb1F3ZjBneXVZVWVSMUV3WlJoajluTU0wMXhrcnlyMF93b0pJcGw0NkNRQ1JjWnBDOFlSUFgwOWFQa1BMeEVkek85UVEtcmlVanJVM1lLNnBjMlhFUWJxNkFYcWNsMjlPd0hyajVuZTJMaHlnV3Mwd3huakFQcHU3aTRWT2s5Z0RqclI1ZWFQU2h2UTVHbVczWWhhZG00enFIVjBBRVFlSFdiWEdOTkdPSDg3TU41SEN0ek1ya1Q5aUI3Mll3?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "c4e92b863488d2d335",
+      "title": "U.S. Tightens Controls on Chinese Access to AI Chips - Businesskorea",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "韓國",
+      "date": "2026-11-20",
+      "source": "Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90M0c2LU9ya0tJenBTeldKLVNUT09zQm9sWVhpRTBrOFQ1OUZ3a3pTYU9JUXVrTjE5UU1YZ2M1b1FSOTFjazFwOE4zYUh0WmJBYndvTDg5QUZzTldCaVFEMGxTY0gxdDMtanhDcFAyYWdzQXZJ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "b2d1f6904b3d025993",
+      "title": "China’s Semiconductor Equipment Growth Reverses: International Suppliers Take the Lead in 3Q 2026 - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "中國",
+      "date": "2026-11-20",
+      "source": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3E0WWd6ckIzek9CczJ0ZEZuTk1pcTE3RUpRNzJJSWg1bVdmX2dqZXBSR0tCd2I4VHk5dWx1ZjRHWng5RmI0VXFGSHgtblF2d3B0UkptVDRNa2pyNnZtVWNiUEFlSjZTQWF0QzFqQWdNRmpfalEzbWx3ODAydDI2TGNqeWw2UQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "b0805b14c81b9a4641",
+      "title": "SK hynix (SKHY) Stock Price, News & Analysis - Stock Titan",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "SK hynix",
+      "region": "全球",
+      "date": "2026-11-20",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IQmlobldFcHE1OUotYnZlSVZoRlZjSVlRZTd3LUdDMGVrYkd2d0FvY3ZIcTlaQTZzYkxsbVVOSG9QbFlTbjEtUlhZOUhnMWxtSlpB?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "7d0ea9777018bc1ecf",
+      "title": "Semiconductor Foundry: U.S. Chip Tariffs and Production - Kings Research",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-20",
+      "source": "Kings Research",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnSVM1Rjc3eXNETEpfQ0RpMDREVmpjNjdmNGt2X01DaXNkRkJFeWJmN3U2aW91VmhCY0dyY1VsRVVhTFdoZ1N6R1lwc3ZqWVZzSUtWSERHT0xlNnMtYTlzLXZSYlV6OVQ0cnZFdTVkVHF3LUJURXZiYW01NFQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "CHIPS"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "5cb6a2c20471d711c9",
+      "title": "The New 16nm Divide: How U.S. Export Controls Are Redrawing the Global Semiconductor Manufacturing Map - semivision",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-20",
+      "source": "semivision",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13dFNvaWN5TDZFSFVzMzRfZXBlNDdfMUtQYkVWSWJJNEs4RG0wd2xVVW1oTjkzVmZncWc3Rm5uVUxCWXVsU0RDYWtaRlNjTGJWQ3FIazZLcUNabTZWS2FNZWRkMUQzNFRudUU1VEZFLUNCTE0td3liUVBqYmhabGs?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "3de84dc7acf0effb8b",
+      "title": "Onto Innovation Inc. (ONTO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "檢測設備",
+      "company": "Onto Innovation",
+      "region": "全球",
+      "date": "2026-11-20",
+      "source": "Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySGFZZjN0NkhWQklQeUw2ZHdORDcyNldTX1lzVElYODVqWkVWUl9uS3ZhV0xVQ1NiWXpOamlCeGtqSjlfclVjLXRhZHhCa2lvclE?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "KLA"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "e5b6b9600b1525cdb3",
+      "title": "Multiple Catalysts Ignite Pre-Market AMAT Share Surge - TradingPedia",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "TradingPedia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmRjUWtaM2h2Sk9wMXVYR3lyNkM4ZGF5eE93d1g1QXlMdGFuQWpIR3ZCVW12NWRObllvRU0yZFVGTUU1YTJZcjRBZWZUdmkxTUhJaFhGZ1pWM3FfbmRHb2pkT04zNGNzMEFXMExtWlVrTHVKVHBCZEQ5WWU4VDQ3bkJBekR3OU1Ud21SYzFQUzJCX2pOaWhVYzNR?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "SEMI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "b8d5336fb4a89d3194",
+      "title": "The semiconductor equipment track has changed. - eu.36kr.com",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RWnBjYzk2RkdRRDNzSkhQOFRKU2F0ckwydzUyei03aFNRWFZzT3lNQzZLLUVsR1VIQTBqWjhZRFRtLW10M0NReFJGd0JKMFV6cV9F?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "ac7b97b081a3baee2c",
+      "title": "Can AI Make Its Own Manufacturing Decisions? - Semiconductor Engineering",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFYlhaeVZVal9VRWJ5c0t2QXRkWFJObTcwbjAtay1OVDUxdU5YdEh3MU5zNkpuejM1T0diNVBiejdzLWtqRVRQRzNKZmdvU29fS3NHZWY2ZWpDZEc0XzZocDdmMlNVUDVXVmNBbXdLZ3haTkE3T01oc1hlNnM?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "86af3e126270ee081a",
+      "title": "Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic - The Motley Fool",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "Intel",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORmVJVmhFaG0zeHlYMEp4WDhKWWkyRFA3UFNqTzhWMzNGVmhoWFgyZS1ISjlSRlU3b2NHVzNFNEhvaDVBeS1NanpjUEFQT3pTMDBmc2lVbW5YRklTMDJuWE1aamgySnJNdDNRemRMQ2U1Njh5eTZqaWFsb3g2WllZNEFKa0ZzVm9hbU1oTG5nTWE5b2lEbExFdkxfWklpRlpTUThFYnRMQlVZWTI0VDV4ZThCOUsxOHcwVkR2eE41QkNQTTlaSFM5aTU4RURMbFA2UDVuRktRWmZVRENkNTdQZk9kMnFuWGUwakE?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "33b3307c29553f1482",
+      "title": "Singapore's seven WEF Lighthouse Factories: How they’re shaping the future of manufacturing in Southeast Asia - Singapore Economic Development Board (EDB)",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTFndm1EeWRpM1M3Y3VUbE9SRmZaU0xqcTRTX19Ua0szVHI4dDJDanFzc1c4WXoxRzdHZHMxXzU2bHY5aUV4N1BYYlZMMk5nX2FWSkxRelBSSzVZazF3VVZJb0xtcWhFTHY4VUsxb1B5RDFudThoenJLZ0hzb3RKQ1haZEhkdWhVTlIxT25HUmVTQ3AzQmlhdkhhRkhwMlJnX0lYVmc2c0d3M2RNRXBuSjFyQmFJeU1mSlJxUm5lRWlzbkgzc1JFVVNpMk9BN0dUUDJJekVodkI?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "1446046c77fe0f99b0",
+      "title": "Onto Innovation vs. KLA: Which Semiconductor Stock is a Better Buy? - TradingView",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "KLA",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVdDUEpjZzVKeDlIUkpVNmVpVjNTZEJKZ0tuUkt1aTFZTFZBTU1ROFhXc2U4MXNpS0ZYNWhXT09yaU4tamZiZFV5NkRGSFBkbVJwcnRZZUxRQTJwRHRWaW5IUGRqeXotSUlmeWhQSUNxbThDXzBQNWFuYW1KdmpLMEFpWjFmQ1RqUUwwY19lNFpoVXNiZmdmSDFXSGZOS2NGVWppbUd3NGQ0bWFXY1NVcnVBT082Nm82U3pvZw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "0697783a60c3b10edb",
+      "title": "Lam Research Corp Stock (LRCX) Moved Down by 3.39% on Nov 19: A Full Analysis - TradingKey",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "Lam Research",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1oxcnBsbGNWNnNPSmNRczVZajRBY05idnVnZ1BTWE4zT3AyLVJ1ZHRTOEEwVmRyR1podEpLUG8za3gxOTJRSGhwQW85YV85bFNuUTFockFVZ01DdTNGT3E1WGRXU2xCYTAwWGhmQkk2cnNmLV9YM1Y1ckFlRHBnOEQzaTRBakxVcDFN?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "065fd4e8061c91499d",
+      "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation - Semiconductor Engineering",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXNSVEJQbFNQa2szQkh1M0daZFhRcmt3NEs5M0hPallVai1tcU5JWTFod0ZpVTZ4MUR6aTZUUXVreXh5NktlZEN2TXVCR3lib05QeWU5dUwxVFZhM2YxZGNYbDhSUzFLRDJ3UVhwOHZuZno1NmVwTVVDMHJVajZlMDhGNWc0SnRBMEoxYjczSEMxZ1VLS01Z?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "c98b77956fd43c82b3",
+      "title": "Nova (NasdaqGS:NVMI) Stock Forecast & Analyst Predictions - Simply Wall St",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ySnlWWEdMX0hkcXNiMnZvUVNWMC1XMzNULWpTZ2lCRU1DbllJRDJaOGdPdTVTV3NQSkZyeDNzcTFodDRhakJpTDZEZUhYSlBNOXh4SDNmNC12enVEUTlONHpITGpiLXlCbTVBWnF6M3RvS3ZVenBwMTZ3?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "SEMI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "c093a887e4bbbc9136",
+      "title": "Semiconductor Inspection And Measurement Equipment Market Report: Demand, Trends, Share, And Forecast to 2030 - The National Law Review",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkZQT2ZfVVF5Y2dlQVI4ZWVPX2tJNnFja0p3Y3FYRVlrTmVRUlRqcEk1RDNXdmtVVHdpMFV3dnFkcXlnMFNwRXV5aDNIMldvTEh3YWpmdlluQ1ptakpzdnc5NEtDTDlrSmhWRE1JYjZybjVaZU5GZTNWcURPQ0xIT3dUYWQzR3VGbjd6ZC1ZRzVrRTlyZVhKRHFWMS1YWjJLSE9xODFPSlRoSzRvdUt3Xw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "bc209ccb8dd3f89c5d",
+      "title": "Introducing CCHP: Actively Managed Exposure to China's Semiconductor Supply Chain - Global X ETFs",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "中國",
+      "date": "2026-11-18",
+      "source": "Global X ETFs",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWW80bzdIc1Iyd0RtbFpibjgyOENKc0JVaEtNaGljZFUtYWpUQlpEUzU5a3ZrdWlHTlpoYi1STTVISFRnbTkyVVNFNnJCMkZfSlZMOUx3SC0wVHptRzhvMTB5RW04RFBpMmM3dVlFRHZpOEhlNVItSUZLVFdaVm84MWJPN1I4XzFPYXd5N2ppQkJ6ODJiWi1FcXg0X1M2dGxuWkN1UlJsR0Z4ck1fRGtYd2RpRURCLWprQm5uT0trZjN4dnlPVzlROWxyTEpnZw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "SEMI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "b0c8c42db16235babd",
+      "title": "Probe Equipment Market To 2035: AI and EV Testing Demand Drives Expansion - News and Statistics - IndexBox",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON29SNHN2d0FIUl9vemw5Y3VoRnpSVGRvYlVZTkc1REZheDRhU0pId28yWUZKSDlxQXhOLVhIaUw1aDhHQkdkZjBjMEdCY3pNZHQ0QUg3cTZTcjB5VXNaZVQ5Y2NiNlB6VVNmM21JbUU4OTJtSEJVWjNKUEE5WFZCRmRyQXJJOVRMNGxRemNfUy1SSmpTQlRLa3hYQXRiUnFoM2ptVkhaLXYyMjEtc1RaUQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "SEMI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "a6bad0578f3af336d5",
+      "title": "Smart Silicon: Building India’s Semiconductor Capabilities Through AI - orfonline.org",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "orfonline.org",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZTgxVEl2YllvdHJJUnNtbW9nVFU3MmpvU0VxWG1HQWQySUxLcHY3OFFRZWhyVXE4NWp4bGppbC0yaS15dlllWXI1TWo1OU0tTEZ6MGVnSzFoaG5BVXdqS016ckQtQ0JkdngtbVdfcUhfNVRrWUxsanlRbWNlRW5UeGw0UzU5bUxsejdlZmVsbV9fYkVBejlhNWU0SmI5TnpWWjlsVk9MTUNIYTA?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "77e4efbf720e4c3367",
+      "title": "BIS Targets Remote Access to Advanced Computing: New Controls for Semiconductor Companies and Data Centers - JD Supra",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTA5WE5uaG0yY2pWWG8tclZ6ODBKVGV3RVdiRlI0M25kSDNTdnNUd3ZOT3hlVHpPTEJyM1oyRDlXalVzc1YxSml0amFuYWNnYjBzRm1CNWpoUXJnd0ZIOERtdVVMakRWZEViemY0TjRaelhWVkhLYUlCc3JYS01DVEhFbVpxcGs?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "61379e54b1c02a4d17",
+      "title": "Bernstein Lifts 2028 Wafer-Fab Equipment Forecast to $279 Billion, Names AMAT, KLAC, LRCX and ASML Top Picks - BigGo Finance",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "KLA",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44VnVPZU5XTUptcmlpUl9yR2NaS1JWbjJOandPOFJtNUlCRXZJVUg0bXpLUktVRnZycUxyaFI3SmtqSUNVTVNWM0NHazQ0WTRKcHJGX045QmFqcURsWFNWYXloSjlsUkVMcWwzQkh4VElFRkNjTnc?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "SEMI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "141b66c7a356ffa329",
+      "title": "Tristar AI Raises $12.4 Million to Expand Real-Time AI Visual Inspection - Metrology and Quality News",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "Metrology and Quality News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbW1zaGhTUVRSc0xydUp2ZFRwWHBDZFRnRHJiNjZMYXF5UVV6WkVfU25UeEpZQW1zT3Q4ZVcwcmU5SWo3SDFvYlZIS005SndBc19PM0VjWUZPR0licWFNNzJVNnA1U1NKcXlWUHBWc2ZLVWFlT3BWZFdoMFFIanRWOWxJN2ZieUk2bXhUdlpaa2ZISm9IVUJSMV9zaw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "0ad7540f6e8cb89092",
+      "title": "US Government Restricts Remote Access to Advanced AI Chips and Formally Rescinds the AI Diffusion Rule - WilmerHale",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "WilmerHale",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTENidkgzNlk2VWxOSE5OUlVJdVJISkZNU2lTLVhjUFE0b3FaYThNUVlnSnA0Uk8yQy0xTXVxOEgyZ1NOVFd0M01oQWlHX2hNbzJMOG1JcW5HNUR0X09GN1ZCY2NyeGVGdDRobVB2d2IyUzljalp0MVFOYUROWHFuTk0waThtVkpJYXdjTTNBeERGczluVXpvbFlfRjRxVVBIZmdWMHU1bkJCY1NfOEFXSDI3OVVDQjdEUWRha3dYM3JXMk4wTWFKdFE3aU5MNHlQZWF6MEkxTVFvaE43ZDhRVUNYWUdPaU1UZzJlR1lyUmdqMEJhakRr?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "017ae552401ba37209",
+      "title": "Eugene forecasts chip equipment upcycle beyond 2027, favors front-end stocks - Chosunbiz",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1VHQWMtdW11SWxsX1RwWGxMajZDcEJjVU1JMjNPNUR6UmgzWWRFV05qdDZhS1BFelBTekxrczh2UWxabGVyb3ZNTEdSUHN5SzREZWI0SDh0ejRaZ3E3ZTMwREh2RE9PLUY2WUh6T2VWX1hBUXZmMUVTdzdUVURxY9IBlAFBVV95cUxNQmdKSDJ1R1JRN0V0TklnZmQyaFVPTmJpdWl4S3JTQUJxRW5BVHk5dzlXNWNTTnI4SHB5Qkp5c2tfTGl4MUhFY0J5RHVkMlhoV2dYUmxESHl1Z29CQ3BESXVNdFFfVzZpV0xrbHVqQVQzTUNsVnRFMk13NzlTSWZLWXJybGN6WTRvWEVWbE5WVnh1SHUw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "a6c5eaa97cd43bde0f",
+      "title": "Samsung, SK hynix, and Micron form unlikely alliance to standardize robot charging as chipmakers push toward unmanned chip fabs — standard specs would allow manufacturer-agnostic charging equipment - Tom's Hardware",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "Samsung",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPZkpzbF9CMl9BMkhqcnk2SGE4Sk9QVWJ6YlYxVzVib052c3NqWUdneUR0U3B3NnJoYzhmYzhTeVVUbWdpc2o3R1owbG9jbEVmZ3djbVdNaWVCRVpEcU1NbVFCTzNMaW5BRzZTQjhaSFcwcXBVZFZPbU94eUpZa1JtSktTalZDQkpCUDRkenpXT0lwb3M5NFN0Snd0OFpWUTljRU80V0UzbWtLVV9scWNkQmV2bFpDT1MwWldESWJTZ1lrbUwtY1UzajUtcHl0QXlMeGQ2dGluNFE1bWNodDFCRldkOVB4X2JTTnN2RjRaUDVuRGs1REZ6RzJNN294TlY3NzEyQXJJZ3hwMDRwVFhwbGxFNkpMZ3ZpdjFhR3lab0xjNE1MOHJXNzU3NmR0S3c3bVZSQUg2aXl6Qlo2NEw3ZU5YR0gxTXdRU3JwOUpkbTZtT25JSUVDZW9vNjhjMExITDVyaTBSYTJwSEk?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "68c77edb021501b37a",
+      "title": "Opto Semiconductors Market To 2035: Automotive Sensing, Advanced LEDs and AI Data Centers Drive Growth - SNS Insider",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "SNS Insider",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UbDlBdnF2bVZBaWJJal9aMG5GbEVjU1pEbHNWcnRtbWdIdVNDc3ZaV3hmMjdXeHdsV3I3REpqdUEteXQ0UUFnRVJrcm9XdFIzTlFHNXNvTTFJc2g3TnZrMmZxRG9fdGVzUlJqeG5iUTVEclZCbGpUNnpETnNlc2c?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "52bb7080f4f8aab164",
+      "title": "Perfluoroalkoxy Seals Market To 2035: Semiconductor Demand Drives Growth - News and Statistics - IndexBox",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQams3REhPNDhSeURwZGR6WDlYaUFxTkhJbHl0eTBBcy14ZF92dEMwLWs4OTlUMXRSamlQdnFEWHFTUVpsdmtaX3B6MUVmRWtQbDBrSjRuVUt3OG9KZ3VRVGxBWDZBeS1NZkt5ZmloV21KZlVoZ2UtQk94QjZ2UWNHemNnX0hTMjFXSkcyRVVkMVZZazlOMlJKV2FWeXVfUVVMVHdBQ2JQaTZTVkU3SkRqazZTZmFCcXJUZVE?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "SEMI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "37f9b677f4eaf9c7f9",
+      "title": "BIS targets remote access to advanced chips through overseas data centers - Nixon Peabody",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "Nixon Peabody",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY2N4YzA4ZlVNMDhVX0owdXlYcWZ6Y0Z4Y3hwYW1RUFpSUDVUX21wbHV2VDVvVURqdkJRZFRaTjduX1BMZlUyY0tuVDNXd0xzUVZ0Mms0bXpxeFdmaUlIMEVORDFIR3Npb1JZYm82eDM3bXV1RnZ5S2l5SXlOZ3RMTU1tdnRPVEdPUWljd3c3WVNxSzZmRm04ZnR0LWc4RW1YeDVQMEFmakNYeGxEZkY4MWJJWG1lanpoaElEdFhkT1VJUkYwZ2VPaQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "35c10005684a5c7564",
+      "title": "AI Expansion Puts Pedal to the Metal, but Morgan Stanley Says the $300 Billion Wafer Equipment Target for 2028 May Fall Just Short - BigGo Finance",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZWhlNGpIRGZ4ZUdobUVhQ05rVVhRNmdmSGFJc3RyRU01VXdqeXNqS3NaNzR4Qmt3T0V4ODZ4SV9vU2YwYmZkMW80TVRKTHR0NWx6RUJ1Sml5eW9LRTRNcVExLWlVZGdxS1RId1ppRjYta0JJYXc?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "3425a4305dc25b4ffc",
+      "title": "2027 Manufacturing Industry Outlook - Deloitte",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaExYSjNBLW1OTXdrTXBMazNIdEp6LVFYSUl0aWt4cUY1dEIxVFN6Q1plNm5KWUd5eDJHbk9BSVpLX01FdktXMl9JOG4tVnVpU2dhX0ZxckVOOVdQejZXWk1FTXdvMko0cmJCTld4QmNHWDNyVjBqSU1vMkp0RFNIb05oWmVMTVNSRk1ra3F0bmc4TmtwcFoyUnl0X3lfTk9WbEdGU3BKRmxRSmlwaTJqRzRoZGozVmlZMnc?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "14ac0240488e55d621",
+      "title": "Tesla Beats Q3 as Capex Misses by $3.2B [2026] - shattered.io",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xRVo0Q1BMNHQ1ZlFNN2gyc1hXUHd3cEFHRXB1OTlPUXFTcEF0VnEzLVJOd2x0VlNiQUtiLWZteEMwYzRqT2FZV19nT1BjYzlRXzNkNGQ4T18yYkFsVm9mNzg5eTJVRHBNbFJSZGVFUFA2SUE?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "00a6cb31672d89bfdd",
+      "title": "Chip geopolitics: New instrument of global power | Hindustan Times - Hindustan Times",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWVctQXN0UTAwbWRJcGNZbmlsdGZBS09PRTNVbHFWMWVLMG4yWDdiSDNVbDJGOGdQU01Kb1JCSWpTZXNQYkJpQ3otSXJjdnNVWWRtdzJQclhtWXV4bGVwYkdWZm94Z2FyY19jTGZiRDNXd296LUNGWkFWQ3hQVS1lSHZyNWJhLVlKUWU2anNCcnJBM0NZd1RiV293dG1IbVcxUmlBR3hjMFkwOTJyMjIyUkpWaHgyVHFEQkticUdxTTZQRG9jS3VDOVdoT0LSAdIBQVVfeXFMT0VfSndKVmpmemNSWHotQUNpZEZMZEloeGJrZXVNaXVBUjFJOERvUHdwcF9iSjdDUjVxc3dfa2lvU1FMb1FweExFWHFOMGgxbGhZbElSQjg2RmZEajdrRXo4UG1iV3JXSDBsMUlFRDBVS1o1VjJBZUFOTU1taUpSSnJUYUNHQy1SaDlkZlhnMV9USFFJVTlVWUl0cXF0c0x4OUpTLUViaTVCVDBGSngzUS00Mi1KM3NCUEZscGFrMllMTFNabU5Mbkg3MzRvMHFLT2d3?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "CHIPS"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "f08e6388a49cc35d96",
+      "title": "Relentless Capital Expenditure Fails to Buy Storage Companies a Single Peaceful Night’s Sleep - 36Kr",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-16",
+      "source": "36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJLWVFZmZmNTZoQ1N0WVNxM2RjODhOdUd6RFd5ZGNmREJDbVdVc0IwQ1AzbXZtb01pU0E4ZG9OOFR0Y2x0dXdKR2I4QmxnbEh2TDVn?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "ee42ca37d38a349a2d",
+      "title": "Trump administration seeks to restrict China’s remote chip access after Nvidia scandal - The Hill",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "中國",
+      "date": "2026-11-16",
+      "source": "The Hill",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFpTX1l1WHRSR0Y0S1FZaWoyRzRNNS0ybnR3LTY0LWl1MFltbEktQm5qaGJtQmQ1MGZIeW9LZmxHUWxXekVfSkh3aWtlY200a1VZZEYtSVlVMVlyUWNIb05RcnhrODVxZ2tpcjg5cXVORnRIQ25uM2lWMHpsOVR2cDRuY3NFUzJ4SlHSAY8BQVVfeXFMUGl6dmpWYW9MMjZGT3YwYU9oVGlOMGJZUzZtYjliWVkteDlNa0plenFUdWJTbU41MnlvbXBtU1lfX2J0dlRsbHUxUWRoSmI3WEZrSTc2VUZRTDVuQlViRjg2TkQ2ZTdUaU9rZ04zOGFQVHoySjdxelBLQzVOTG80WjNSMV82VXFlNE4wb0NyeW8?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "d37714f0981ded2103",
+      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout - NPR",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-16",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWZfUU1JVEVmLVN3WGtNQi1GejRsTHFIeFBIamVtcDMzNGg0WV96R0VFSGF4ODYzYkZhQVVJWGFsT3pmT1RDZXFMUkJ0Z3pEdFYtVlZIOGRYM3pETGwwVEQwM1IyZlNBajJYOVdvLWc3MVdzVE9zN04tSDZoZGk0V21YSEpoWmE0SnNoMQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "d325ace38e8906c592",
+      "title": "After Nvidia scandal, Commerce Department moves to curb remote access to AI chips - CBS News",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-16",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdExOdWF1TUJkSHUySjhXbUZmV05xRC1KdlFfWmJUX1dxMjNENXhIR1c0bHJhUWZtOXNyb1BPcmdUR1ZzUjJRdXZLM3pjdkhaOVhTeTlYMnpfZlZPdFZaREVuME9XLVlmNFAtbVFwTGZ4ZFlZR09feXlDeGJzeVdhaGtrS3Z6X2NNOVlrOXlhcEV2SlFIcTBkdXZlSVJmaEE?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "8e094401be44a523ea",
+      "title": "AI Infrastructure Boom Creates Compelling Growth Opportunities Across Semiconductor Supply Chain - The Globe and Mail",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-16",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNSVQzUDJMNngxTFZoMU5iamFEVE9wNXAydUlqeGpsRzAxdGdRVzdtaTZHS1A0Qm5VWlM0dzhMTlVKQlQzdHltZXE2SzQ3MXY3TTdCU1RuVnU1RjZtdzU4M2pUNE5lNDcybGRqeXNqckhEMXVkTDhPZjBoMjBtOFV1UUFOVFNpQVlVSHNlY1VwbEJVT0c0SUNGTG83Ykl1eUJiX3JZN01rMy1FR2drX2tDdndfUVlrcjdHX2plQmY5MjdxQW8xZEpwamNRcVVwYzdSTjI2SnJIUGFETG0zUUZtZkJjMmtVQ1p4OW1rQ0d0RWpmYjFlTzlqaXhzb0FFa2pwcVgySkcwTGpBYUVHQnc?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "tsmc-subsidies-20261114",
+      "title": "台積電海外擴產獲多國政府補助支持",
+      "summary": "2026 年前九個月台積電獲美、日、德、中等地政府合計約新台幣 1,676 億元補助，用於全球擴產相關支出。",
+      "category": "政治與政策",
+      "company": "台積電",
+      "region": "全球",
+      "date": "2026-11-14",
+      "source": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202611140005",
+      "status": "媒體報導",
+      "impact": "跨國補助可改善建廠資金壓力，同時使產能布局更受各國政策條件影響。",
+      "tags": [
+        "subsidies",
+        "CHIPS",
+        "globalization"
+      ]
+    },
+    {
+      "id": "e50837ffb268f4a6f1",
+      "title": "Non Magnetic Connectors Market To 2035: Medical Imaging and Semiconductor Fab Drive Growth - News and Statistics - IndexBox",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-14",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWFqSzVFU2kwTS1DNFF5VjViV1B2NEx1eWVoTUZYemVBM1ZOX2k3TVpUNXFVNzFSV0F2czh0NDJQNlBUeklhbHVhNGxaemNmSVBjelUyWXZ1RG5vTElMUkxFenZCcXBhcm8wWjBDYTZpUGhmel9Xd090SFhqeUFLYzdUVTV3UGJRMU5mUHg4SkRhWlB3UTh5T2hkMDVxanZWdHpTMFFJR2VZc3lYVlEyck9DTFhEaEZDZXIwb1VGX0RXd3U3N01CSG5zbUVzMWEzMUs3QWZ0c3pnNTE1NDluOTliYkFLeERFVWRoTQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "SEMI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "3ffd4514873dcdb780",
+      "title": "Overseas expansion of Taiwan’s TSMC gets NT$168 billion boost - Taiwan News",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "台積電",
+      "region": "台灣",
+      "date": "2026-11-14",
+      "source": "Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92VHI2MVpTVFliMlh6ZTV1ZnVCbno2X2VqVHo5TG1wMnU4WUxPUjBQQXFRUXFwNkdiT3g3VjJZUldLOFYxRDhHcm1EcDluc3FqNU1tVA?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "TSMC"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "ase-kaohsiung-20261113",
+      "title": "日月光高雄路竹先進封裝廠一期啟用、二期動土",
+      "summary": "日月光於 11 月 13 日啟用路竹先進封裝廠第一期並同步啟動第二期工程，持續擴充 AI 相關封裝產能。",
+      "category": "擴廠動態",
+      "company": "日月光",
+      "region": "台灣",
+      "date": "2026-11-13",
+      "source": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/news/6475880",
+      "status": "媒體報導",
+      "impact": "關注封裝檢測、載盤檢測及高產能自動化導入機會；尚不等同已有設備訂單。",
+      "tags": [
+        "advanced packaging",
+        "Kaohsiung",
+        "AI"
+      ]
+    },
+    {
+      "id": "8d520ae9758a9a4190",
+      "title": "Semiconductor Sustainability Outlook 2027: Fab Emissions, Water, Packaging and AI Hardware - TechInsights",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-13",
+      "source": "TechInsights",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12Z3QwSjlQcmZNU1E5SWVnVFlScklqWUZ3d01OR0dvLWwwX0VDV0djdFhIWWVCdVZPcHdkTC1yMmZwa1YxNzFLam8xc2E0OEtrcnJqQXo2QjBsTWZuVENWSzJETFVaYUU?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "74b6795db9eeab3829",
+      "title": "Japan and the US Need an Allied Technology Market, Not New Tariffs - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "日本",
+      "date": "2026-11-13",
+      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmFxd3BNZjdheW1hMUNoMHBOR1pocFpVVUFXTDItWkl6c2hEaHJJXzJXcXFkQ3FVeVVyNGtZbnItTnk2OGpHMzhuTzI5SlYyU2JtWU90LWhuT2FIWmtLb0c0VkRFRkZ0SzVncWxBOE4tcFQ3NzVWODhmSFdSWnBQeHQyZHYtWmxiNkJjbmJzY2UyZWl5SzBaNVRySm5sbmM?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "CHIPS"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "5eb0269134e9cb043f",
+      "title": "The scandal surrounding former Nvidia CEO Jensen Huang is spreading to the Donald Trump administrati.. - 매일경제",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-13",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82RER6SzdhQ3RWcGxBMlNwNV9STnlNVmhmVjVUSDFxRFFNazhvUDNuem5FMzhFQjVLRUMtcUFnN3NZX3F0eU5qdVd3UjgzQVU?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "CHIPS"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "3903e8c66671f4d228",
+      "title": "AI Hardware’s Hidden Cost: Between Orders and Output - EE Times",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-13",
+      "source": "EE Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUmpwYkpFN2tNRDNvbXZOYTAzNUVva1dEd3JxS1dTQjVpZVY5d1FBOE9Wc2s0WEVEZ0FndWo1SVVqUHRaNGdkZktRcmVJRWVEX3pRbE11VDVQVFpDNWdFTWpaQms3bXRRR0R4UkFfNi01b19jZnZSZ3h6X2xkN3huSw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "d5aed727ed450c542c",
+      "title": "CHIPS Act Tax Credit: The Data Center Subsidy No One Is Talking About - Cato Institute",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "Cato Institute",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUFVqZjBTX3RwX0lKM01tRFVuOWlGYTlfQ0FJSS1aYkw5aUlMWGFTY1psNzRTNVlHYVJMbDVaVTNheXVYXzFjTUJFMkRmMjgxMFgzcmk0dkpvMnpUcUJRUl9tTHU2cV83YUZRd2Rrck5wMWdNVmlad0drRGI4aUpNYTlEd2tENWZxRWNrcGhTVVA?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "a7151f60a4a02e128a",
+      "title": "ONTO Raises Q4 Outlook as AI Packaging Demand Drives Record Growth - TradingView",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "檢測設備",
+      "company": "Onto Innovation",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUR6VlJ2aDVzQTlCeGM4ZE1kdVFBZDhhZEstaEtta3NLTGptOFRpV3pRUGp5a24wZDkxSzVFSVFmT3hSSF9CRlFPOVUyM3VwV2xMaU54VXdfRUNKeVlkNFdkbEJISDhmdlpBeXFhNG4yVFM5ZHFiQUU4LWJ1M01DSGFRTnM3Q012WUxkN2hSVTE5eFMxVTBESjlLd3J1WGJCaWFBSnd2Y2h6VVpqNkFlM2xjR3ZuSWF4MDhDekllTQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "KLA"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "4b08818f2db5ab39ee",
+      "title": "AI & Semiconductor Export Controls Compliance - Kharon",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "Kharon",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcnFLZzFvZWVwdmdLeXQwckpNTFdEdnFjbnVsN00xVUliaWh1SF81NzlsdEYyT1IwMmlmeXdwTG1HQ0lGWkl2dU1CNURGQlZ5WW8wTTdxbjNiSU9VekxDS2dvdm5mWldpYkk4ZVE4d3dNWFFkaERNQU0yRGdrY0hiVjY5TXZFRWh0YkVBV21PZHZyUDRfMGg5OUh0YWRUS09LSkVEZXBhOFJacUtHd0gyQVp4Y0pnTVJ3M3k4UmhJcjUzRmNBX2c?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "3beb57add44b19acbe",
+      "title": "Applied Materials unveils $5 billion EPIC Center for chip R&D - scanx.trade",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "Applied Materials",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUi1WTTVQSlpJUWxrc2xOeGo4U3g2am83ZnVLWFFyaE4tZzlaQmZVYXBxT2hlOTFsR3FiUDhDZXNSbGtDZmxOallCc2t1OVQ1RDI4bms5QnBISE40ak84N0J2dzcxOXE0eXpveENFRmdDcEdvM1JVZFVzLUZib20xRV9fWjdud0VzY1o1YmhwMGRQVlYxVVVoQkVNYlJwNUo4N2tMNGZlREpiQWpsYXUwb3Zpcy1BNW8xM1E?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "351c577e365ff5c31f",
+      "title": "Our Pick Of The Best AI Chip Stocks In November 2026 - Yahoo Finance",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEt4Zm02ZkJVdmZQUFRfUjNraUVqQ0t0S3dTcHdNNk9YbVpuQ2ZKNDd1SnZCbUxQQ2U1Zi1YUzJkZjFlX3hEYWk0RzdBY3dNWE9odm1QaGQ1am44QXExeFNSbk1Kcy1Lc3JyTUV1Y214Z2NCSEZNREpPdzN1TXFBV3Z5dXVhdUFOS1BNWHpzMVZsdw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "331089a7ab84740995",
+      "title": "AI hardware is reshaping global trade faster than tariffs can slow it - Latin Times",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5meC1HbEt5ci1Gd3p0TnVFLW5KbGJVaWllcTdRT2JnVk92aXhIVTFVUW9CTWlKQ0JrY3Y4U200dmd1RGJtMGlOd2JzRXZYMk9feVVfMFRVVk1zZFo0SW12Y09QTTRkRG9QUW1uUlE5aGQ0QTVFNTVidEJB?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "CHIPS"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "18710e3a31014d6f6f",
+      "title": "Democrats investigate 25% tariff tied to Nvidia chip sales to China - Superpower Daily",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "中國",
+      "date": "2026-11-12",
+      "source": "Superpower Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnlnaEhYNm1BOURyLTA0eXNoVDRRUURTQ3NnSE5nb0o5ZHFlZXpaUlc5SHk3YW1rWEhVVWZkN0tsMzVDaFEtR21WLUR0VnpqU1FRMmVtTTUwbE56ellGQm1PMzRwNDUwcWlDOHNvLWREWnRkRVJPclJRSHlCYUF1aFp4cS1LNEhXV3dBdldOTy1tQlc0el85bVlRc2VHYUc3dlE?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "CHIPS"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "184ab6977b973181d5",
+      "title": "High Bandwidth Memory (HBM) Market to Reach USD 69.75 - GlobeNewswire",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOQ1NCb2Z5MWFZbWc3RVpMOFBWc3BUSXk4ZkhhdFRRTzVFVHVIUzhaUVAxVmdneVdnekc3UC0zdFlyaXlyZXh0SFBvaGxiQ2gyLXFlMVZ5SldkUFY5T3E2X2JTQlFFNEs3dDVJOFN0YW5KandleENSangwTHlhcHVfek9RREVwbnVfbTJkTk5EUzBEcjZWQUtiQWVjc1NneW1PTWdpMUhmWWdnZ2owUGhnekFsVWdqeGxwYzB0MVBwVV9ZRzZTYThuU3VxY3VpR1NVcEU5a2Jqdk5ibHVRVk1qNWl6ck5TX2VscXBiOF9BTGxET2xrNmY2TE1oYUxjRk9tR0w0OGYzVV9TalZzMkFwRF9jTEFyREJSTm9SMU9JTmhqZXdCMEZJVHJR?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "157e91c1ad59781f49",
+      "title": "Is ONTO Worth Buying as Earnings Surge but Valuation Stays Elevated? - TradingView",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "檢測設備",
+      "company": "Onto Innovation",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjFCUUZsZ2RnNmlmaDBkT3RYeTRTT0o3Q0ctUF9MVHZIbVl2QnVXUThxSjhXUFZLUklvM3FPcGw4OUowY0dYRFpuMC04NnRKQllXcVRjbXRPWHRIX0FVYnotM0p2bVZXTkszOVJ5SzNMQzRfTTFwR1pLMlozY1JlRml6dF9UOFpHWmlkYUNkQ3JWczN4azdPaW1NcF92bWZ1SzdUQUdtSmxwRWFzMVRmbzhzeGNoeW9lMEt5dy10dGs?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "KLA"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "08930f773f26a1f632",
+      "title": "Applied Materials forecasts quarterly revenue above estimates on strong AI chip demand - Reuters",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "Applied Materials",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVJYSC1hal9odmptblkwc25YV0pZQXBaaTd0SGFyMW5tT1ZtNzZaTlN0OGFnY2I0dnI3ZmZRaXpwUThvZW5kay1tMElieklOVVZLTDFBTmtQbkpiSWpUZzlLNnZPRmlJSkxoWVZhZGlveTdzNjVsN0ZtZUVMMnk2REQtYmRHRzQwMDhNMVBYQXVQbjBpcHNNYnFWWldTbUItYV9pT1hMYkwwZi1jS0pvZXp4eHJhbHE4OEp6RW13?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "SEMI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "07799a79a17be3c06f",
+      "title": "ONTO Falls 14% in 1 Week as Growth Strength Collides With Valuation - TradingView",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "檢測設備",
+      "company": "Onto Innovation",
+      "region": "全球",
+      "date": "2026-11-12",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM2VIUEw4WWJUSEY5aWNiRVZ5VEtsSXZmMmNCZktEQ1dyVDlzZEJNUXVORkhnbUFqZ0s2cXBGUFNVM0lOdkVnb014UnZvLVRENm5uQVZvWUh5bzQ2V1FoQmRfazVHR3VvOWxVVC15NW1ISDVsLXBUSTd6dWdjOG12dmFwOU82V3hxOWo4dm5UUE40QjNuSEpOZVlrZThOZGNmbEVycUh0R2dxMUF4UVdwdllvSmVUZ1duMEtFcFAwdw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "KLA"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "8cdeaac5570e24958a",
+      "title": "Tools of Leverage: Preserving US and Allied Leadership in Semiconductor Equipment - Hudson Institute",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-11",
+      "source": "Hudson Institute",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGw3Wjd4YmdpQnpVRE5BZFNDaVRRS2g5VTdXR2kzeTdDVFRCenFDbDZSVkxhVVZpU2hydENONVl0ZlF0VkNJN1dVUnpzQnNUcUF3ckR3OE9NcjhEWGx1UlRpSGwyRktBRXA0aHNoNTZORkZ5OGk1MGExWW9kVmdjRWU0Nk1sVC1SUUVsbG85eGZpMTRxWHNJM0kzLWZzbk5QVW5oVnBpR3FXYXE2UmlhSDFzMHo?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "3e632f852831785ca2",
+      "title": "U.S. Commerce Department Moves to Block Remote Access to AI Chips in 7 Countries; Nvidia Lobbying Backfires - BigGo Finance",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-11",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80MEpzYzY5SE9vZE93VFZ0MmotdURscW9tMk9nYkxpNnFmSFpwQXFHb1Q4OU8yWWZ1dmJiekg1Q0RBWWRFWmY3d2hENEtzMV92YmNHX002SEdmYl9VN1pDRF8tSXRLbUdkdzJ6OHkxOHVjbk5FQmc?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "32572d822da0fa025b",
+      "title": "Which is bigger chip company Nvidia or TSMC?: How big is global semiconductor industry? - Bhaskar English",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "台積電",
+      "region": "全球",
+      "date": "2026-11-11",
+      "source": "Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFR6V2l0SVpTdEJmRFltdHc1WEsyMEpBV3pwb3dHUEVuVXFiRG1LbEx1ZTI3RUJvZ1ctX0dJRzdaYjFKaUlRNlF3M24tc3FHOG5OdkZBb1dHVmVPWVppaXFUZTh5M2VUaVhHRFM0SFFUYzh1MlVCOWJhZlhmTHFSTnF6emRqOWpkMzhmaWw2dkxwN0xuaF80NGdjMENoS0JmLWN0V2hld19COGN5V1lINDBhaE51SExhNHJjNXVha9IBxAFBVV95cUxPa09CU1o2dXIwdzdiVmNXQ2E2ZmZfLVhGWUk3MjhhN0czeUd5Sm1nVTRWaU9zNXNFRmEyMzBOZ3JvVDhXVFpXYjJHd0J3QldQaEEyTFY5b1hnT0Z6OVp2cm9SbjJDX1AwMnpsSFlwWUhMbEU3LWoyVU9EQjJNT1hURG5mWmZJLXNPOWtsYTJ5a2lxYXZjejRZdEpOT0J3N2IxXzAtZ0NSbDdGV3FScWQ4eW10SGMtRXJnUXEySDRXbjRLUmti?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "onto-photonics-202611",
+      "title": "Onto Innovation 探討 AI 時代矽光子製程控制挑戰",
+      "summary": "Onto Innovation 在 2026 年 11 月發布矽光子製程控制相關技術內容，提及量測、缺陷與良率資料整合。",
+      "category": "檢測設備",
+      "company": "Onto Innovation",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "Onto Innovation",
+      "url": "https://ontoinnovation.com/wp-content/uploads/2026/11/Website-Content-Overcoming-Silicon-Photonics-Process-Control-Challenges-in-the-AI-Era-Formatted.pdf",
+      "status": "官方發布",
+      "impact": "可觀察檢測與 metrology 資料整合是否形成新一輪軟硬體產品需求。",
+      "tags": [
+        "silicon photonics",
+        "metrology",
+        "process control"
+      ]
+    },
+    {
+      "id": "fb98e5b14b9d54203a",
+      "title": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength - Yahoo Finance",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd2RHY0JURU1aazNMT1lpaU9NU1NJdFJNNkp2OEk4M2NMZFBWcEtMa2h0M1BDbVhHRnl0eWlZRHdmeWJvTUw5RnQ5Y0lmVkNCdkFzak1OUVRqQzFSeUM3SGlUTkVjV1N5MnlKc3JpNFBEZDNDRTRwNjRTUGNEQkQ1STE1TVhlejRpUWxKN0lzQWk?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "e018224712e837c12e",
+      "title": "Foxconn Builds Self-Learning AI Factories to Transform Manufacturing - Metrology and Quality News",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "Metrology and Quality News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0JrRXFfZjVXOVRpSHdHMmZzdWVIVlhjaEZJUHlVdHd3OGRUQVZGMkN5cVpHWHBaUHFvRWlGTWdQaExpQWRMMy1wLWl5cWRISnFXcm5fS0tUUFVOdEhpMnZNdjEycUxLdW5WOTJhUTVXR3dOQlJwakZMX0VmOE1zcVFKMXRCOXBnSFdTN3g5eEtFZ0daNDlj?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "da03a7fcf2c2d2151a",
+      "title": "Newly Elected US Senators Define Their Positions on China - VOA - Voice of America English News",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "中國",
+      "date": "2026-11-10",
+      "source": "VOA - Voice of America English News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDJHcXl3anZiY193c3pEXzlIdUJnZXdoTGhUMFdrSERhcWM4aUo5UHJMZTBZVE5vcUdNZWhkLXhUYnloVHA1RWNaU05acUt6SnU2b0VJT3RuaUFCbU1QV2g5N3MtaEdyUXNlVDlsZjRNN3AzQnI4X2ZLRnBnZVJZYlMweHJSa0lQV3R5QmV1TmxKamdOMmVkRzdIOS10dGEwTTdYUlRKS2nSAasBQVVfeXFMUGNkbFVXTXEwNWZhaEtPeTFtN0VnQlhCTDBXQTJUX1VYa0I5TDBzYVdsOHFYa0EtdDlRR3ZZZ21NdzBZSno3M1dYV09uZjFteDRPM205VHc0TDl0TGZfRUR3cl9pQjE0SVVqODRCYXdDd3J0cDZHSEFwckhseTg0aE9oNE1MdGpodl9EQjc4RnEzUUIteHJqY21MM3ZMazFzdm4xXzgwbVZaNmJr?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "CHIPS"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "b85ab7927bc083c403",
+      "title": "Elon Musk’s Terafab targets 1 million wafers a month after 2032 — planned 700,000 monthly memory wafers could rival Samsung’s entire estimated DRAM production capacity - Tom's Hardware",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "Samsung",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNOUllRG9FRnl4andMYVUyZU14WXUzM29MR2FCdzdzRUdsemgwYXR6eEp5LWZvTjZwWDk5Q0NlZEVDcmhZMjVjUC1oNEdLNmpWM0RVN2VlRTZ3TDlRQXR2Y002NU5WczZoczVMdksweEo4SE5PdUgzdHhoazJ3UVVMYzZhRm1MSE1kR3JLME1UejlNQnVvU1lXLUpkbFVIWnhBbmZlWHpZQzh0T0pzdm1uSGpUSkhlRERuNDJRbTVjME1TRGpJNWdseW1NeVZKQTI3cVVjQ1RjT1JqeUhRaFBSQzFiZVVNMzlDVDJSdHFqVFZkdmZxeWZHb0hDRmt3NDRVZFNZWHFNcUNNVENWT29qWWlkOVhjZmdObG9rZTNNVFNEUmZ5aEROT3BOWGJZeFVWSnBuclEtVE1ac0RabU1oOTFCcw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "9f279701a5ceac7857",
+      "title": "Trade - Freeman Spogli Institute for International Studies",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "Freeman Spogli Institute for International Studies",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xaHNNMTdvTVJRVm50S1N3UTVsLTlWNW5ocF9yOUh6TS0xLXhzYVRyb3Y2RjhxbGlMZWw2elBvS2w0QTdzMGN4cHlOWW5KSjlZN3dGMQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "CHIPS"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "835e171ce84da7a5f4",
+      "title": "ONTO Beats Q3 Estimates & Uplifts View: Buy, Hold or Sell the Stock? - TradingView",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "檢測設備",
+      "company": "Onto Innovation",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVks5NUNlYXp0cjN4aEJUM3ZPY016MHM4aDNhanVtSnJWdUo2UHJyUjV2Zng4WWQ0bVF0cEhHXzE4ajJFQlprdl9Pa1I2MHd2T2t2Y1dvbVZJVXR6dHFqOGszbl9LUjd2UDlKQjFrT20xQzN2QXZweVVUZ1dib3FEazY1TjlyTUhTbmVYY20zLWsxNUYtVTRNTHlxdFUtc3RmaWthdnhwWGI1YktDT3F5RjExWUw3Q0E2d3hn?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "KLA"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "395dca6d8279167140",
+      "title": "AI’s Efficiency Challenge For The Semiconductor Industry - Semiconductor Engineering",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1NSYVgyVDJTRmxNZWJzX2wyNFJTamp2eHcyUWhtYjFDSHdLN3lfREJIZUd1VjdmeWNjTnoxZ25rZ1RfNmZGZTZsSVZjS3dueXBScGdpMUl3OTc4MGI4YXl4SGpvLWlBM3ZPYWRDWmFxQ0dqbmJTTWxMMldkcjFBNUZkbVdxT1pIa0JzdA?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "1b4dd2b5c370e61c93",
+      "title": "YMTC Eyes 4th Wuhan NAND Fab: 300+ Layers [2026] - shattered.io",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPenVfLUpOX2NWcDRfUFBXQmNLdGNDSW5GRm9XWVFMMllKU1p6SGR4NXNteVFPMnNVSGZPcVl1TlVKakkwZi1ZR1ItTS0zVk1FOVlLeGNKUk9mRTNQS0ktLUNlV2pfR3FsdE9ERGMxZHgyZlBuWGd1YVEwZ01KdWNDX0c1cjFIdEN6QVVIWUhiQWJsSkJxMHdLNg?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "0faaea6f99960af26d",
+      "title": "[News] Samsung, SK hynix Reportedly Race for ASML EUV Amid 2027–2028 Shortages; Orders Worth Up to KRW 20T Each - TrendForce",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "Samsung",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTEo0VHduS3M3SHk2MWZsdHo3TWxFa0NLUXdxT01SOWMxbUpObE5IYjRHR2lNemRoZW9wZXlmcEtCdUpnT1F4cEtpRVgtanR2VE5YUDdRRHdVRHVtT09wUzRUb3p4dUJ6dUg2Z21FV1lMTHM3MEdkSlRiM2VIT3RueU0tR0hVd18xM2ZZNWpOU21kQk84TUZOMGFmSi1EMkZhYlRPc2V6ZTRJM1RmSzg3RU9LV0Q5d0dPa09MV19HMzZUU2MySWFJSklIRUw1VnpCT2JqN3Z0d2JPS29RUHIxWkREc2pmZw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "06a94477b28acab25b",
+      "title": "Staera Semiconductor Raises $4.6 Million in Pre-Seed Funding for AI Chip Interconnect Technology - citybiz",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0NJYnlzOGdYWEplRzN5ZV9YN3YxemtxYy15Z2QyMmNlNWZfVTRkRHpWZkR1RVhCdGNiNklERHNBUTZ4YTVDbzJ4Vk5ZbXdqUUNCTnl4bUxsRVp5SW8tX05mWTdHc203SURpMlRyYTlSY1dTUlFwSi1JVHlJcTNQY0FvdlNxaHYzenVRTEhZdGtpbEVPZ1Z0U0lNZ2ZlQ2dEQjNOUFFOcDFEVGwxUUlEWWhDbDZyWWJvWVp4R2ZQNl9Ea0JkX2I3R19lbWZyems?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "061fd6328bddc657a1",
+      "title": "The Next AI Chip Shortage May Be the Machines That Make HBM - 24/7 Wall St.",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdV9xZWZKTTFZMnZDWUJFQ090VEtxOW41am1BVnU4bzhGSGdabmRwQ3NscERsMzVwcENURWxPRzZqQlZQUVRRcHpLSGQ4NHVwRXRJQTU1NXE2SjdVMjBZV25aNFQtZDAwTWNrY3VDT1lXX3pib3RnUUNOc2lQeVlQd2NBSW1xUXZkNnFSRWpRcDM2d2ZtOTZUOUxkSEo3bmNBMnhjN2lB?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "abcd858ae6abe1051e",
+      "title": "The BR International Trade Report: November 2026 - Blank Rome LLP",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-09",
+      "source": "Blank Rome LLP",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVdVSFduOHNDeWdxVmhPRUs2ZUF4alV2aVhiSG1tSnNRa1dWcXZnMEYtMnBxMm9hUF9KTmhlRWc4UGs3QVdqMGxKd1poZmVIYTFpTVUzTUdqZHJlbVhrSkRmU3VweWJkVDRHQ05QekJEZ09BMWdXR1N3YUxJTE1ET21HZzFEaG5kaU55UzVNNHQ2eG01?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "US"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "9a7e19100822b66649",
+      "title": "Order backlogs extend three years out! AI ignites a buying frenzy for semiconductor equipment, keeping the sector's outlook robust. - Moomoo",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "供應鏈與資本支出",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-09",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFZ4Q0gzemJubFZOXy1ZNW5kNjRyaXlNMGFVTUpEVzZ2YldKUGtQcFpmYktkOHZROGJMZ3lVUmtUbFI1cGFUdXlGc21zNUhCc3ZXM2o0NWhYTnpUb1ZwUmZPTG9rYzlXOHdMdlJOM2VjcS1faDFEWTN5NXpvcUE5NFItSFhBaC01Ty1felVMcjRGTllZY1JWYjkxUlNLVXJvdmpR?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "semiconductor"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "697bffd7895b7c9bd9",
+      "title": "Micron Suspends Work On $4.5bn Taiwan Plant Amid Labour Row - Silicon UK",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "擴廠動態",
+      "company": "Micron",
+      "region": "台灣",
+      "date": "2026-11-09",
+      "source": "Silicon UK",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwNmNFWXZudEpTRWlHU0MzLW1UTTBoNDgzWmRUVnUwSDBuVG1ORnV2eDhRYkwzNzZXT1BVVmlpUV8tRjRvbWs5ZndxNTRISVJxX2hldVRvcjBrRTNlYjNaUTVpNDdjMUJHVHp5bjJlcjFDbVBxMEJHdS1B?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "c128ae094793599637",
+      "title": "AI Chip Race Moves Beyond HBM to Advanced Packaging - Korea IT Times",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
+      "category": "AI 與技術",
+      "company": "多家公司",
+      "region": "韓國",
+      "date": "2026-11-08",
+      "source": "Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90ZmNaYnE3eUVyQnBiOEg3RFU0d3pxMXJBX0NDZEMxMzl0cDEwRTJaUnE0R1hEakEwU3hUUDFpQ2Q3LU5hVXRJMnE4aDN1VkJiYk5FQXA2LWtpM2kyRHVIajV3WVVzRy12Wi1WTjVRUmo?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待人工研判；勿將此候選消息視為已證實之設備需求。",
+      "tags": [
+        "AI"
+      ],
+      "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "ase-capex-20261030",
+      "title": "日月光提高 2026 年資本支出預算至 115 億美元",
+      "summary": "日月光因先進封裝需求增加，上調年度資本支出預算；需要與實際工程進度及設備採購資訊交叉驗證。",
+      "category": "供應鏈與資本支出",
+      "company": "日月光",
+      "region": "台灣",
+      "date": "2026-10-30",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/30/2003866836",
+      "status": "媒體報導",
+      "impact": "資本支出增加是設備需求領先訊號，但未必直接對應特定檢測設備。",
+      "tags": [
+        "capex",
+        "LEAP",
+        "packaging"
+      ]
+    },
+    {
+      "id": "tsmc-arizona-20261015",
+      "title": "台積電亞利桑那州第二座晶圓廠進入設備搬入與安裝階段",
+      "summary": "台積電於 2026 年第三季法說會表示，亞利桑那第二座晶圓廠已完成建設，正進行設備搬入與安裝；日本第二廠規劃 2028 年以 3 奈米量產。",
+      "category": "擴廠動態",
+      "company": "台積電",
+      "region": "美國",
+      "date": "2026-10-15",
+      "source": "TSMC Q3 2026 Earnings Call",
+      "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
+      "status": "官方證實",
+      "impact": "設備搬入階段比單純宣布投資更接近實際設備採購與驗證需求。",
+      "tags": [
+        "tool move-in",
+        "3nm",
+        "Arizona"
+      ]
+    }
   ]
 }
