@@ -12,6 +12,9 @@ jobs:
   sync:
     if: github.event_name != 'issues'
     runs-on: ubuntu-latest
+    concurrency:
+      group: semicon-data-updates
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,6 +26,11 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
         run: python ai_analyze.py
+      - name: Scan fab milestones and compare AI candidates (optional)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+        run: python fab_scan.py
       - name: Commit weekly archive
         run: |
           git config user.name 'github-actions[bot]'
