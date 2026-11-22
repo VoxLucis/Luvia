@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-11-22T22:52:16.664137+08:00",
+  "model": "gpt-4.1-mini",
+  "week_summary": "本週多家企業及市場報告揭示美國與中國在半導體產業的政策與供應鏈動向，尤其關注出口管制、設備市場及擴廠計畫。同時，AI技術與檢測設備需求呈現增長趨勢。整體業界持續觀察國際政治因素及設備投資趨勢。",
+  "disclaimer": "僅根據 RSS 標題推論，未核對全文和官方公告；設備需求不是已確認訂單。",
+  "signals": [
+    {
+      "headline": "半導體廠擴增推升氣淋室需求",
+      "company": "多家公司",
+      "priority": "中",
+      "evidence_level": "僅新聞標題，未驗證",
+      "summary": "標題指出半導體廠擴展帶動氣淋室市場增長，顯示產業投資。",
+      "equipment_implication": "氣淋室為無塵室進出關鍵設備，半導體產線擴增將增加相關需求。",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlM0eUpPb1F3ZjBneXVZVWVSMUV3WlJoajluTU0wMXhrcnlyMF93b0pJcGw0NkNRQ1JjWnBDOFlSUFgwOWFQa1BMeEVkek85UVEtcmlVanJVM1lLNnBjMlhFUWJxNkFYcWNsMjlPd0hyajVuZTJMaHlnV3Mwd3huakFQcHU3aTRWT2s5Z0RqclI1ZWFQU2h2UTVHbVczWWhhZG00enFIVjBBRVFlSFdiWEdOTkdPSDg3TU41SEN0ek1ya1Q5aUI3Mll3?oc=5",
+      "source_title": "Air Showers Market Forecast to 2035, Driven by Semiconductor Fab Expansion and Pharma Sterility Rules - IndexBox",
+      "source_date": "2026-11-21",
+      "id": "d360a81e822ff01b7c"
+    },
+    {
+      "headline": "中國半導體設備成長反轉",
+      "company": "多家公司",
+      "priority": "高",
+      "evidence_level": "僅新聞標題，未驗證",
+      "summary": "標題顯示中國市場設備成長趨緩，國際供應商趁勢領先。",
+      "equipment_implication": "可能引發設備需求與供應鏈調整，關注設備換機與新品動態。",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3E0WWd6ckIzek9CczJ0ZEZuTk1pcTE3RUpRNzJJSWg1bVdmX2dqZXBSR0tCd2I4VHk5dWx1ZjRHWng5RmI0VXFGSHgtblF2d3B0UkptVDRNa2pyNnZtVWNiUEFlSjZTQWF0QzFqQWdNRmpfalEzbWx3ODAydDI2TGNqeWw2UQ?oc=5",
+      "source_title": "China’s Semiconductor Equipment Growth Reverses: International Suppliers Take the Lead in 3Q 2026 - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "source_date": "2026-11-20",
+      "id": "b2d1f6904b3d025993"
+    },
+    {
+      "headline": "日月光仁武廠擴建高端測試基地",
+      "company": "日月光",
+      "priority": "高",
+      "evidence_level": "僅新聞標題，未驗證",
+      "summary": "日月光在仁武區進行大規模先進測試基地擴建計畫。",
+      "equipment_implication": "先進測試設備需求將提升，包含測試系統與檢測儀器。",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tSWJyekJfbVlGaTFmOWxTSmZFWEk5SDB1WVJZb2Y1dlZKZXczY1REbU5tWk1qWmFGUlAyNGpKbkU0TllxckxqbF9EdVJVQWtxazhiRGVja0lqaEZiY1BhVDc2aENNTEJkRkFraTByd1Q4WjUwYUE?oc=5",
+      "source_title": "ASE's Taiwan Foredge Electronics Breaks Ground on J Block at Renwu, Investing NT$248.9 Billion to Expand Advanced Testing Base - BigGo Finance",
+      "source_date": "2026-11-19",
+      "id": "4fff2d5d2d4ecacd26"
+    },
+    {
+      "headline": "半導體檢測量測設備市場報告",
+      "company": "多家公司",
+      "priority": "中",
+      "evidence_level": "僅新聞標題，未驗證",
+      "summary": "報告涵蓋檢測量測設備的需求、趨勢與市場前景，市場持續成長。",
+      "equipment_implication": "檢測與量測設備需求擴增，業界關注精密度與效率提升方案。",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkZQT2ZfVVF5Y2dlQVI4ZWVPX2tJNnFja0p3Y3FYRVlrTmVRUlRqcEk1RDNXdmtVVHdpMFV3dnFkcXlnMFNwRXV5aDNIMldvTEh3YWpmdlluQ1ptakpzdnc5NEtDTDlrSmhWRE1JYjZybjVaZU5GZTNWcURPQ0xIT3dUYWQzR3VGbjd6ZC1ZRzVrRTlyZVhKRHFWMS1YWjJLSE9xODFPSlRoSzRvdUt3Xw?oc=5",
+      "source_title": "Semiconductor Inspection And Measurement Equipment Market Report: Demand, Trends, Share, And Forecast to 2030 - The National Law Review",
+      "source_date": "2026-11-18",
+      "id": "c093a887e4bbbc9136"
+    },
+    {
+      "headline": "BIS發布超級運算遠端存取中期規範",
+      "company": "多家公司",
+      "priority": "中",
+      "evidence_level": "僅新聞標題，未驗證",
+      "summary": "美商務部針對高級芯片遠端存取制定新管控規範。",
+      "equipment_implication": "可能影響遠端監控與資料傳輸相關設備需求。",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdGowWnNoSkhlWXhVYjZ5ams0ZXJBY3JFaENuRVpwcXRuMlE3VHhaU0VMQUtmNTJlU211Mm0yLTI5N0xJOFJnUUlrdlVmMmNYUTNPSHN5LTJyRFRLdUE4V1E3QVlka1BxWHE2cnBFUVRJQTMtM0FMWWRaTVI4VnlnYkhWR1JjQnNMX04zVGdUNERRZ1ZrbDNHOTlzOWtza0JtZTE4WmVpdjg?oc=5",
+      "source_title": "BIS Issues Interim Final Rule on Remote Access to Supercomputing Capabilities - Wiley Rein",
+      "source_date": "2026-11-19",
+      "id": "05afd5db2f094c43db"
+    },
+    {
+      "headline": "AI能否自主製造決策？",
+      "company": "多家公司",
+      "priority": "中",
+      "evidence_level": "僅新聞標題，未驗證",
+      "summary": "探討AI在製造領域自主決策的可行性及產業應用。",
+      "equipment_implication": "強化AI智能檢測與自動化製程設備發展重要指標。",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFYlhaeVZVal9VRWJ5c0t2QXRkWFJObTcwbjAtay1OVDUxdU5YdEh3MU5zNkpuejM1T0diNVBiejdzLWtqRVRQRzNKZmdvU29fS3NHZWY2ZWpDZEc0XzZocDdmMlNVUDVXVmNBbXdLZ3haTkE3T01oc1hlNnM?oc=5",
+      "source_title": "Can AI Make Its Own Manufacturing Decisions? - Semiconductor Engineering",
+      "source_date": "2026-11-19",
+      "id": "ac7b97b081a3baee2c"
+    },
+    {
+      "headline": "探針設備市場受AI與電動車測試拉動",
+      "company": "多家公司",
+      "priority": "中",
+      "evidence_level": "僅新聞標題，未驗證",
+      "summary": "探針設備市場成長受AI與電動車測試需求推升。",
+      "equipment_implication": "探針卡及相關量測設備需求增加，檢測技術升級重要。",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON29SNHN2d0FIUl9vemw5Y3VoRnpSVGRvYlVZTkc1REZheDRhU0pId28yWUZKSDlxQXhOLVhIaUw1aDhHQkdkZjBjMEdCY3pNZHQ0QUg3cTZTcjB5VXNaZVQ5Y2NiNlB6VVNmM21JbUU4OTJtSEJVWjNKUEE5WFZCRmRyQXJJOVRMNGxRemNfUy1SSmpTQlRLa3hYQXRiUnFoM2ptVkhaLXYyMjEtc1RaUQ?oc=5",
+      "source_title": "Probe Equipment Market To 2035: AI and EV Testing Demand Drives Expansion - News and Statistics - IndexBox",
+      "source_date": "2026-11-18",
+      "id": "b0c8c42db16235babd"
+    },
+    {
+      "headline": "SK hynix股價與市場分析",
+      "company": "SK hynix",
+      "priority": "低",
+      "evidence_level": "僅新聞標題，未驗證",
+      "summary": "分析報告聚焦SK hynix股價及市場動態。",
+      "equipment_implication": "尚無直接設備訊號，聚焦企業財務及策略層面。",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IQmlobldFcHE1OUotYnZlSVZoRlZjSVlRZTd3LUdDMGVrYkd2d0FvY3ZIcTlaQTZzYkxsbVVOSG9QbFlTbjEtUlhZOUhnMWxtSlpB?oc=5",
+      "source_title": "SK hynix (SKHY) Stock Price, News & Analysis - Stock Titan",
+      "source_date": "2026-11-20",
+      "id": "b0805b14c81b9a4641"
+    }
+  ]
+}
