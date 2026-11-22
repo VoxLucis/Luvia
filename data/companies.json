@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23",
+  "updated_at": "2026-11-22",
   "companies": [
     {
       "name": "台積電",
@@ -182,6 +182,17 @@
         "SixSense"
       ],
       "search_query": "\"SixSense\" semiconductor AI defect inspection",
+      "enabled": true
+    },
+    {
+      "name": "矽品精密工業股份有限公司",
+      "group": "client",
+      "aliases": [
+        "矽品精密工業股份有限公司",
+        "矽品",
+        "SPIL"
+      ],
+      "search_query": "矽品精密工業股份有限公司 semiconductor inspection",
       "enabled": true
     }
   ]
