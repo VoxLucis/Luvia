@@ -1,0 +1,162 @@
+{
+  "as_of": "2026-11-23",
+  "method": "人工核對的公開來源里程碑；不會根據 RSS 標題自動變更事實狀態。",
+  "projects": [
+    {
+      "id": "tsmc-az-fab2",
+      "company": "台積電 TSMC",
+      "name": "Arizona Fab 2",
+      "country": "美國",
+      "location": "亞利桑那州 Phoenix",
+      "type": "晶圓製造",
+      "technology": "N3 / 3nm",
+      "stage": "設備進駐",
+      "target": "2027 年下半年量產（公司目標）",
+      "verified_date": "2026-10-15",
+      "update_date": "2026-10-15",
+      "evidence": "官方法說",
+      "summary": "台積電於 2026 年第三季法說表示第二廠建築工程已完成，正在進行設備搬入與安裝。",
+      "implication": "觀察設備安裝後的量測、檢測、良率驗證需求；非已確認採購。",
+      "source_url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
+      "source_title": "TSMC 3Q26 Earnings Call",
+      "milestones": [
+        {
+          "date": "2026-10-15",
+          "stage": "設備進駐",
+          "title": "設備搬入與安裝中",
+          "source_url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf"
+        }
+      ]
+    },
+    {
+      "id": "tsmc-jasm-fab2",
+      "company": "台積電 TSMC / JASM",
+      "name": "熊本第二廠",
+      "country": "日本",
+      "location": "熊本縣",
+      "type": "晶圓製造",
+      "technology": "規劃採用 3nm",
+      "stage": "建設中",
+      "target": "2028 年量產（公司目標）",
+      "verified_date": "2026-10-15",
+      "update_date": "2026-10-15",
+      "evidence": "官方法說",
+      "summary": "台積電表示日本第二廠正朝採用 3nm 製程的方向推進，量產目標為 2028 年。",
+      "implication": "建設與量產前可能帶動製程量測及良率檢測需求；仍需後續驗證。",
+      "source_url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
+      "source_title": "TSMC 3Q26 Earnings Call",
+      "milestones": [
+        {
+          "date": "2026-10-15",
+          "stage": "建設中",
+          "title": "確認 3nm 規劃及 2028 年量產目標",
+          "source_url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf"
+        }
+      ]
+    },
+    {
+      "id": "tsmc-tainan-n3",
+      "company": "台積電 TSMC",
+      "name": "台南新 3nm 廠",
+      "country": "台灣",
+      "location": "台南科學園區",
+      "type": "晶圓製造",
+      "technology": "N3 / 3nm",
+      "stage": "建設中",
+      "target": "2027 年上半年量產（公司目標）",
+      "verified_date": "2026-10-15",
+      "update_date": "2026-10-15",
+      "evidence": "官方法說",
+      "summary": "台積電第三季法說指出，台南科學園區新 3nm 廠預計於 2027 年上半年開始量產。",
+      "implication": "可持續觀察新產能導入過程的製程檢測、量測與良率管理需求。",
+      "source_url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
+      "source_title": "TSMC 3Q26 Earnings Call",
+      "milestones": [
+        {
+          "date": "2026-10-15",
+          "stage": "建設中",
+          "title": "量產目標仍為 2027 上半年",
+          "source_url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ase-kaohsiung-new",
+      "company": "日月光 ASE",
+      "name": "高雄新高科技廠房",
+      "country": "台灣",
+      "location": "高雄",
+      "type": "先進封裝／測試",
+      "technology": "VIPack / SiP 等相關技術",
+      "stage": "建設中",
+      "target": "未於所引公告確認量產日期",
+      "verified_date": "2026-03-11",
+      "update_date": "2026-03-11",
+      "evidence": "公司新聞稿",
+      "summary": "日月光於 2026 年 3 月 11 日宣布新廠動土，投資新臺幣 178 億元，支援 AI 相關封裝與測試需求。",
+      "implication": "可關注封裝外觀、尺寸、接合品質與測試設備需求；未證實單項設備訂單。",
+      "source_url": "https://ase.aseglobal.com/press-room/ase-breaks-ground-on-new-high-tech-facility-in-kaohsiung/",
+      "source_title": "ASE 官方新聞稿 2026-03-11",
+      "milestones": [
+        {
+          "date": "2026-03-11",
+          "stage": "建設中",
+          "title": "高雄新廠動土",
+          "source_url": "https://ase.aseglobal.com/press-room/ase-breaks-ground-on-new-high-tech-facility-in-kaohsiung/"
+        }
+      ]
+    },
+    {
+      "id": "ase-renwu",
+      "company": "日月光 ASE",
+      "name": "仁武高科技測試園區",
+      "country": "台灣",
+      "location": "高雄仁武",
+      "type": "測試",
+      "technology": "半導體測試",
+      "stage": "建設中",
+      "target": "第二期擴建與營運目標：2027 年 10 月",
+      "verified_date": "2026-04-10",
+      "update_date": "2026-04-10",
+      "evidence": "公司新聞稿",
+      "summary": "日月光 2026 年 4 月公布仁武新廠動土及測試園區規劃，並提及第二期擴建／營運目標。",
+      "implication": "值得持續追蹤測試產能導入與相關檢測、自動化設備部署需求。",
+      "source_url": "https://ase.aseglobal.com/press-room/ase-breaks-ground-on-new-renwu-plant-to-build-hi-tech-testing-cluster/",
+      "source_title": "ASE 官方新聞稿 2026-04-10",
+      "milestones": [
+        {
+          "date": "2026-04-10",
+          "stage": "建設中",
+          "title": "仁武測試園區動土與第二期規劃",
+          "source_url": "https://ase.aseglobal.com/press-room/ase-breaks-ground-on-new-renwu-plant-to-build-hi-tech-testing-cluster/"
+        }
+      ]
+    },
+    {
+      "id": "intel-ohio-one",
+      "company": "Intel",
+      "name": "Ohio One（Mod 1 / Mod 2）",
+      "country": "美國",
+      "location": "俄亥俄州 New Albany",
+      "type": "晶圓製造",
+      "technology": "尚未在所引公告中確認最終量產製程",
+      "stage": "時程調整",
+      "target": "Mod 1：2030 年完工，2030–2031 年開始營運（2025 公告）",
+      "verified_date": "2025-02-28",
+      "update_date": "2025-02-28",
+      "evidence": "公司官方公告",
+      "summary": "Intel 2025 年宣布調整俄亥俄廠時程，將第一座廠預定完工延至 2030 年。這是已公開目標，不代表 2026 年最新進度已獲重新確認。",
+      "implication": "擴廠延後可能推遲部分設備採購時點；這是情境推論而非確認結果。",
+      "source_url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/ohio-one-construction-timeline-update.html",
+      "source_title": "Intel Ohio One Timeline Update",
+      "milestones": [
+        {
+          "date": "2025-02-28",
+          "stage": "時程調整",
+          "title": "公開延後 Mod 1 時程",
+          "source_url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/ohio-one-construction-timeline-update.html"
+        }
+      ]
+    }
+  ]
+}
