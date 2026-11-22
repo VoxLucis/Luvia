@@ -1,0 +1,188 @@
+{
+  "updated_at": "2026-11-23",
+  "companies": [
+    {
+      "name": "台積電",
+      "group": "client",
+      "aliases": [
+        "TSMC",
+        "台積電"
+      ],
+      "search_query": "TSMC fab expansion semiconductor manufacturing",
+      "enabled": true
+    },
+    {
+      "name": "日月光",
+      "group": "client",
+      "aliases": [
+        "ASE Technology",
+        "ASE Holdings",
+        "日月光"
+      ],
+      "search_query": "ASE advanced packaging expansion semiconductor",
+      "enabled": true
+    },
+    {
+      "name": "Intel",
+      "group": "client",
+      "aliases": [
+        "Intel"
+      ],
+      "search_query": "Intel semiconductor fab manufacturing",
+      "enabled": true
+    },
+    {
+      "name": "Samsung",
+      "group": "client",
+      "aliases": [
+        "Samsung Electronics",
+        "Samsung"
+      ],
+      "search_query": "Samsung semiconductor fab advanced packaging",
+      "enabled": true
+    },
+    {
+      "name": "SK hynix",
+      "group": "client",
+      "aliases": [
+        "SK hynix",
+        "海力士"
+      ],
+      "search_query": "SK hynix HBM fab semiconductor",
+      "enabled": true
+    },
+    {
+      "name": "Micron",
+      "group": "client",
+      "aliases": [
+        "Micron",
+        "美光"
+      ],
+      "search_query": "Micron semiconductor fab HBM",
+      "enabled": true
+    },
+    {
+      "name": "GlobalFoundries",
+      "group": "client",
+      "aliases": [
+        "GlobalFoundries"
+      ],
+      "search_query": "GlobalFoundries semiconductor foundry expansion",
+      "enabled": true
+    },
+    {
+      "name": "UMC",
+      "group": "client",
+      "aliases": [
+        "UMC",
+        "聯電"
+      ],
+      "search_query": "UMC semiconductor fab",
+      "enabled": true
+    },
+    {
+      "name": "SMIC",
+      "group": "client",
+      "aliases": [
+        "SMIC",
+        "中芯國際"
+      ],
+      "search_query": "SMIC foundry semiconductor",
+      "enabled": true
+    },
+    {
+      "name": "KLA",
+      "group": "competitor",
+      "aliases": [
+        "KLA Corporation",
+        "KLA"
+      ],
+      "search_query": "KLA semiconductor inspection metrology",
+      "enabled": true
+    },
+    {
+      "name": "Camtek",
+      "group": "competitor",
+      "aliases": [
+        "Camtek"
+      ],
+      "search_query": "Camtek semiconductor inspection advanced packaging",
+      "enabled": true
+    },
+    {
+      "name": "Onto Innovation",
+      "group": "competitor",
+      "aliases": [
+        "Onto Innovation"
+      ],
+      "search_query": "Onto Innovation semiconductor metrology inspection",
+      "enabled": true
+    },
+    {
+      "name": "ASML",
+      "group": "competitor",
+      "aliases": [
+        "ASML"
+      ],
+      "search_query": "ASML semiconductor lithography inspection",
+      "enabled": true
+    },
+    {
+      "name": "Applied Materials",
+      "group": "competitor",
+      "aliases": [
+        "Applied Materials"
+      ],
+      "search_query": "Applied Materials semiconductor equipment",
+      "enabled": true
+    },
+    {
+      "name": "Lam Research",
+      "group": "competitor",
+      "aliases": [
+        "Lam Research"
+      ],
+      "search_query": "Lam Research semiconductor equipment",
+      "enabled": true
+    },
+    {
+      "name": "政美",
+      "group": "competitor",
+      "aliases": [
+        "政美"
+      ],
+      "search_query": "政美 半導體 檢測 設備",
+      "enabled": true
+    },
+    {
+      "name": "由田",
+      "group": "competitor",
+      "aliases": [
+        "由田",
+        "由田新技"
+      ],
+      "search_query": "由田 半導體 AOI 光學檢測",
+      "enabled": true
+    },
+    {
+      "name": "牧德",
+      "group": "competitor",
+      "aliases": [
+        "牧德",
+        "牧得"
+      ],
+      "search_query": "牧德 半導體 AOI 檢測",
+      "enabled": true
+    },
+    {
+      "name": "SixSense",
+      "group": "competitor",
+      "aliases": [
+        "SixSense AI",
+        "SixSense"
+      ],
+      "search_query": "\"SixSense\" semiconductor AI defect inspection",
+      "enabled": true
+    }
+  ]
+}
