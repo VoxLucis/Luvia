@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T03:34:29.115881+08:00",
+  "updated_at": "2026-11-23T04:04:41.205777+08:00",
   "mode": "automated-candidates",
   "items": [
     {
@@ -473,6 +473,21 @@
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
     },
     {
+      "id": "c543c7f626bb3e463f",
+      "title": "Beyond NVIDIA: The fallout from its CEO’s exit - RBC Wealth Management",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "RBC Wealth Management",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVRPNHAwZTNQUGRsX2ExZzJ0ZlVYOVJOMzJka01TeDhONjVUaDZRV3JvUkhZZ0JzcDd2RmdOcnZSbHA0czJZSmFqMHlOb2tKalZ0WmhzaDMxUVhQOVBXdGtZUndZN09xVml1cWZqSlRBRGhSbFVxWmtsVlJPQmhKYzV6UW5KMGFWRWV1RmYxYm5PZUc4bThHQnpmQQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
+    },
+    {
       "id": "b8d5336fb4a89d3194",
       "title": "The semiconductor equipment track has changed. - eu.36kr.com",
       "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
@@ -522,6 +537,23 @@
         "ASE"
       ],
       "collected_at": "2026-11-22T22:52:06.000147+08:00"
+    },
+    {
+      "id": "8cb71cc2f9ce345081",
+      "title": "Wafer Foundries Said to Raise Prices More Than 20% Next Year; SMIC, Hua Hong Shares Surge Against the Trend in Hong Kong - finance.biggo.com",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "擴廠動態",
+      "company": "SMIC",
+      "region": "全球",
+      "date": "2026-11-19",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42R0lTdDdEaXJmSG83dlJqcHVkdjlvWlFoOEh5U2hKd0xzeTZqVERJSjJPc0loRU94NGRFNy1CbEVFdy1IZ0NmamM0ZEZlTk1wNkZVTFZJRDZWeE12T3RYckl5U1laRWtxbUpBUlpocFhHOEZFTUE?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "SMIC"
+      ],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
     },
     {
       "id": "86af3e126270ee081a",
@@ -794,6 +826,21 @@
       "collected_at": "2026-11-22T22:52:06.000147+08:00"
     },
     {
+      "id": "f72e331ae3f21f4592",
+      "title": "New US Chip Controls Squeeze Europe - Center for European Policy Analysis (CEPA)",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "Center for European Policy Analysis (CEPA)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GLVpPRDlPSlJZTnhjallZZC0tQWJVcGVRRnNXTFZTam1qMm9uZklxSVVMNkNOWXF3ZXpQcHQ5NWczM0FGeWRnSEJGY0hNakxTNFJNaHowamRteXk3bEdZSFFHR19nVDQwNXFzMjlB?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
+    },
+    {
       "id": "ea678f4e2d3979ca8f",
       "title": "KLA Corporation stock at EUR 133.75, up 3.91% premarket - ad-hoc-news.de",
       "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
@@ -981,6 +1028,21 @@
       "collected_at": "2026-11-22T22:52:06.000147+08:00"
     },
     {
+      "id": "366ff8051d54c59454",
+      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk - CNBC",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-18",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1DbkROaFNtN1I2UjJPOW9Ca0pJNXBFYWVBTldRbjEtTEJKeFBCM3BLeWwtVE9OazNIbFNyTzYtcUxJTVhKQ0JEUUZ0MHVCRDFkWTVxX1Q2OFJGd243RldhZFVnY0pZS2RqRFBXVmxDTG1OS1V2aHNPT2NiTFRnUEJCVjFYSm1qU3g3SdIBkgFBVV95cUxNS1htQWRXZGtHQ2d1Si01c1FZZjNmYjhyOExvZzNGbUhWWEtrRlVHSWx5Y3UyVG5PSnRPWmk5VUY1Z1V6S1JPTFhVTkFnMEprN1A3aXNqZGd2YngxWGpCYmlGQ0FYN3Vmc2hXcWRqS0FmVDNNbnR1emZXNmxHUUYza1hkOG1pS0RpbXRIdzVyemFsUQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
+    },
+    {
       "id": "242e30e9843476da81",
       "title": "NVIDIA Extends AI Supply Chain With Long-Term Supply Deals - Supply Chain Digital Magazine",
       "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。請點擊原文確認報導內容。",
@@ -1134,6 +1196,21 @@
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
     },
     {
+      "id": "b8c478430a09b5e638",
+      "title": "Market Take | Which Semiconductor Stocks Face the Next Wave of U.S. Restrictions? - Moomoo",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "全球",
+      "date": "2026-11-17",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0twbmJDM3I1d3NRWS1CejFlTEJGRzhuRVRtYmx2REdkaDFfc2Ezd1ZjRXhEUnZfY1AtbFBoOEkyWVlBdU90UjdSTUxaeFBVRFFfX3NFU09GSGtGSUgydlVKeWxOY1hfeW9uaGZwbFFmRGlyc3FSNnZOY1FGazdodnR1MmJveHE3UVl2QmRFcGtqeGYxX280al9yeS00bVE1cWozTWxIWWV0SDlLVm8wdUM0a1c?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
+    },
+    {
       "id": "ae9bf3b13d85254cce",
       "title": "ASML vs. Lam Research: Which Chipmaking Stock is the Better Buy Now? - Yahoo Finance",
       "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
@@ -1266,6 +1343,23 @@
       "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
       "tags": [],
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
+    },
+    {
+      "id": "575864ead467c3ce90",
+      "title": "Applied Materials to Double Equipment Output by 2028 on AI Chip Demand - THE ELEC, Korea Electronics Industry Media",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "檢測設備",
+      "company": "Applied Materials",
+      "region": "韓國",
+      "date": "2026-11-17",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GcUJ3V0NrdThIZEtXMUpQei1RVjVpSDVSS2Yzc0tmV2FvMDVVRzJtR1FkS2QwX0pHbXBKQmp4bGpONzBsWWZ6M3JTc3ZZXzVlQXZDVlZ2bnRPY2RSbE8tbHdIdDlINjQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "Applied Materials"
+      ],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
     },
     {
       "id": "5590912e903a9d656f",
@@ -1555,6 +1649,23 @@
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
     },
     {
+      "id": "67f925ec7c9d6d3674",
+      "title": "China's AI chip shortage to persist, SMIC says computing capacity tight until late 2028 - 디지털투데이",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "擴廠動態",
+      "company": "SMIC",
+      "region": "中國",
+      "date": "2026-11-16",
+      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQVJLaXEzRDl0ZTNma2Y5VllNT3hpWjBET3ZsVzFjSm5EQkFQYjRLRk1rT3o3TVVIT1gycDhxa1FNbzlfcEU1dE1FN0htcktYV2c1N09zMkJVN0ZNOVhhdWctZmJ2dnIzNlhEdkJ6YnAtbnprbGtSYm9QTDdXMUtGaC10Xzc4V1FYSEdOQTRCa0djcVRjY0NyTzJwMGVSVi1mQm1RWjB5cDlRYzNKRmVpV3JUaks2ZzI2OWRaVTZOekR5eGJMNzlyak13SQ?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "SMIC"
+      ],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
+    },
+    {
       "id": "504895074ac8cab144",
       "title": "SK Hynix Trinity Fab: $1B AI Memory Supply Chain - explainx.ai",
       "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
@@ -1841,6 +1952,23 @@
         "GlobalFoundries"
       ],
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
+    },
+    {
+      "id": "f53697086ae71a9bcd",
+      "title": "SMIC: AI chip supply chain to remain tight through 2027 - 联合早报",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "擴廠動態",
+      "company": "SMIC",
+      "region": "全球",
+      "date": "2026-11-13",
+      "source": "联合早报",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcUZpeGxVOEtUcm0xb0pzRUxBcUJrVHBzOTNVYkoxZW1rQzN3ZUswUTVUTFB1cVFRX0ZWbDgyQmJOVWZjZDhVbm9sSDRwbWhwRFRDVjRJOTA0dFVDanJOdXY0VDBqUWd4eDdwdUdvYzN2UHNKOEtDeDFVMWdqWWJBMjBSTWtSRlVhdzBpcjdvOGp4OUQ3VXc?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "SMIC"
+      ],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
     },
     {
       "id": "f123829580fd923024",
@@ -2248,6 +2376,21 @@
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
     },
     {
+      "id": "edb830876f9bab26e8",
+      "title": "Explainer: Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns - Reuters",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "中國",
+      "date": "2026-11-12",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRERObVhKZklNOEliOFhfQmhqMmZaQWktbkVWTXlxZU8zbUtxQ1cwZnZpaGJwZ1djUHFFVVlydTFsQUd3UUJEV0NOdUliUGY1ZGNKN1ZPWG1zYkpxcEgtNGJlSFVrTi1EVm84MnFFbWxmeXR1YmotNUdzVFBtUVU1VmhPR3ZGTHFUcHlSUnRQQmU0WUYyRi1fdnNHOHc3QUh2OWVsQURUb3BwVTVaMm9NRUdnbw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
+    },
+    {
       "id": "ecc2b1c80aa67d3a11",
       "title": "KLA Corporation stock slips 3.56% to EUR 141.06 premarket - ad-hoc-news.de",
       "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
@@ -2618,6 +2761,23 @@
         "SMIC"
       ],
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
+    },
+    {
+      "id": "0e1119703f3233868e",
+      "title": "China's SMIC Posts Record $3.19 Billion Quarterly Revenue; Co-CEO Zhao Haijun Warns Foundry Capacity Will Be Extremely Tight in 2027 - finance.biggo.com",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "擴廠動態",
+      "company": "SMIC",
+      "region": "中國",
+      "date": "2026-11-12",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fV0dVRWozNjdxMFFyaUhzM2w0U2dNcnVvMHppTm5faTd1U0pMLWQ3TkhlNnNGdmVON1Bta0F0dlpmbUZXTjVxbk5LQ010LVVoUUxXZ3g5eHBjZGdEb3pTNFBKU0UyRmdXU3d5Q0VOZWU1Q1pFM0E?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "SMIC"
+      ],
+      "collected_at": "2026-11-23T04:04:41.205777+08:00"
     },
     {
       "id": "08930f773f26a1f632",
