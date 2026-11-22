@@ -31,6 +31,8 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
         run: python fab_scan.py
+      - name: Collect equipment technology signals (title-only; unverified)
+        run: python equipment_scan.py
       - name: Commit weekly archive
         run: |
           git config user.name 'github-actions[bot]'
