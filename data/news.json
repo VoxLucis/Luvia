@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-11-22T21:34:00+08:00",
+  "mode": "curated-seed",
+  "items": [
+    {"id":"tsmc-arizona-20261015","title":"台積電亞利桑那州第二座晶圓廠進入設備搬入與安裝階段","summary":"台積電於 2026 年第三季法說會表示，亞利桑那第二座晶圓廠已完成建設，正進行設備搬入與安裝；日本第二廠規劃 2028 年以 3 奈米量產。","category":"擴廠動態","company":"台積電","region":"美國","date":"2026-10-15","source":"TSMC Q3 2026 Earnings Call","url":"https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf","status":"官方證實","impact":"設備搬入階段比單純宣布投資更接近實際設備採購與驗證需求。","tags":["tool move-in","3nm","Arizona"]},
+    {"id":"ase-kaohsiung-20261113","title":"日月光高雄路竹先進封裝廠一期啟用、二期動土","summary":"日月光於 11 月 13 日啟用路竹先進封裝廠第一期並同步啟動第二期工程，持續擴充 AI 相關封裝產能。","category":"擴廠動態","company":"日月光","region":"台灣","date":"2026-11-13","source":"Taiwan News","url":"https://www.taiwannews.com.tw/news/6475880","status":"媒體報導","impact":"關注封裝檢測、載盤檢測及高產能自動化導入機會；尚不等同已有設備訂單。","tags":["advanced packaging","Kaohsiung","AI"]},
+    {"id":"ase-capex-20261030","title":"日月光提高 2026 年資本支出預算至 115 億美元","summary":"日月光因先進封裝需求增加，上調年度資本支出預算；需要與實際工程進度及設備採購資訊交叉驗證。","category":"供應鏈與資本支出","company":"日月光","region":"台灣","date":"2026-10-30","source":"Taipei Times","url":"https://www.taipeitimes.com/News/biz/archives/2026/10/30/2003866836","status":"媒體報導","impact":"資本支出增加是設備需求領先訊號，但未必直接對應特定檢測設備。","tags":["capex","LEAP","packaging"]},
+    {"id":"tsmc-subsidies-20261114","title":"台積電海外擴產獲多國政府補助支持","summary":"2026 年前九個月台積電獲美、日、德、中等地政府合計約新台幣 1,676 億元補助，用於全球擴產相關支出。","category":"政治與政策","company":"台積電","region":"全球","date":"2026-11-14","source":"Focus Taiwan","url":"https://focustaiwan.tw/business/202611140005","status":"媒體報導","impact":"跨國補助可改善建廠資金壓力，同時使產能布局更受各國政策條件影響。","tags":["subsidies","CHIPS","globalization"]},
+    {"id":"onto-photonics-202611","title":"Onto Innovation 探討 AI 時代矽光子製程控制挑戰","summary":"Onto Innovation 在 2026 年 11 月發布矽光子製程控制相關技術內容，提及量測、缺陷與良率資料整合。","category":"檢測設備","company":"Onto Innovation","region":"全球","date":"2026-11-10","source":"Onto Innovation","url":"https://ontoinnovation.com/wp-content/uploads/2026/11/Website-Content-Overcoming-Silicon-Photonics-Process-Control-Challenges-in-the-AI-Era-Formatted.pdf","status":"官方發布","impact":"可觀察檢測與 metrology 資料整合是否形成新一輪軟硬體產品需求。","tags":["silicon photonics","metrology","process control"]}
+  ]
+}
