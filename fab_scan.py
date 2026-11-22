@@ -43,10 +43,20 @@ def check_anchor(title, terms):
     return any(t.lower() in low for t in terms)
 
 
+# Conservative lexical screen. A company+location match alone is NOT a milestone.
+FINANCE_NOISE = re.compile(r"stock|share price|price target|analyst|earnings|net income|profit|dividend|revenue|market cap|shares|forecast stock|financial results|股價|股票|財報|營收|獲利|淨利|法人|目標價|投資評級", re.I)
+MILESTONE = re.compile(r"breaks? ground|groundbreaking|construction|under construction|build(?:ing)? (?:a |the )?(?:new )?(?:fab|plant|facility)|facility opening|plant opening|opened (?:a |the )?(?:plant|fab)|equipment (?:move.?in|installation|installed)|tool installation|pilot production|trial production|mass production|volume production|production start|ramp(?:ing)? up|delay(?:ed)?|postpon(?:e|ed)|schedule revised|inaugurat|completion|commissio|動土|開工|興建|建廠|廠房|新廠啟用|設備進駐|裝機|機台搬入|試產|量產|投產|啟用|延期|延後|竣工|完工",re.I)
+# Headline screening remains a heuristic; source article verification remains mandatory.
+def headline_relevant(title):
+    if FINANCE_NOISE.search(title) and not MILESTONE.search(title):
+        return False
+    return bool(MILESTONE.search(title))
+
 def collect():
     items = []
     issues = []
     scanned = 0
+    filtered = 0
     for project in FAB['projects']:
         cfg = QUERIES.get(project['id'])
         if not cfg:
@@ -65,7 +75,8 @@ def collect():
                 link = node.findtext('link', '').strip()
                 if not title or not link or not check_anchor(title, places) or not check_anchor(title, companies):
                     continue
-                if re.search(r'\b(stock|shares|price target|analyst rating|stock forecast)\b', title, re.I):
+                if not headline_relevant(title):
+                    filtered += 1
                     continue
                 try:
                     date = email.utils.parsedate_to_datetime(node.findtext('pubDate', '')).date()
@@ -82,7 +93,7 @@ def collect():
                               'source_date': date.isoformat(), 'source_url': link, 'source_name': source})
         except (OSError, ValueError, ET.ParseError) as exc:
             issues.append(project['name'] + ': RSS 擷取失敗 ' + type(exc).__name__)
-    return items, scanned, issues
+    return items, scanned, issues, filtered
 
 
 def compare_ai(items):
@@ -138,8 +149,8 @@ def compare_ai(items):
 
 
 def main():
-    candidates, scanned, issues = collect()
-    print('Scanned projects:', scanned, 'headline candidates:', len(candidates), 'warnings:', len(issues))
+    candidates, scanned, issues, filtered = collect()
+    print('Scanned projects:', scanned, 'headline candidates:', len(candidates), 'filtered irrelevant:', filtered, 'warnings:', len(issues))
     for warning in issues:
         print('Warning:', warning)
     annotations, ai_status = compare_ai(candidates)
@@ -163,7 +174,7 @@ def main():
     denied = [p for p in existing.values() if p.get('status') == 'rejected']
     # Retain recent reviewed candidates for transparency.
     output = {'updated_at': NOW.isoformat(),
-              'scan_status': f'{scanned} 個廠區已執行搜尋；新增 {new_count} 筆；{ai_status}；RSS 警告 {len(issues)} 項',
+              'scan_status': f'{scanned} 個廠區已執行搜尋；雜訊排除 {filtered} 則；新增 {new_count} 筆；{ai_status}；RSS 警告 {len(issues)} 項',
               'warnings': issues[:20],
               'proposals': pending[:120] + approved[-60:] + denied[-30:]}
     PROPOSALS_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
