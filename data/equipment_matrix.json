@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-23",
+  "method": "沒有具體官方連結與驗證日期時，一律標為待查證。RSS/AI候選不自動產生已核實能力。",
+  "technologies": [
+    {
+      "id": "aoi",
+      "label": "AOI / 2D",
+      "description": "自動光學檢測、二維影像"
+    },
+    {
+      "id": "3d",
+      "label": "3D 量測",
+      "description": "3D 外觀量測、輪廓高度"
+    },
+    {
+      "id": "adc",
+      "label": "ADC / AI分類",
+      "description": "自動缺陷分類及AI辨識"
+    },
+    {
+      "id": "xray",
+      "label": "X-ray / CT",
+      "description": "X-ray / CT 非破壞檢測"
+    },
+    {
+      "id": "csam",
+      "label": "CSAM / SAM",
+      "description": "超音波掃描檢測"
+    },
+    {
+      "id": "packaging",
+      "label": "先進封裝",
+      "description": "CoWoS、HBM、異質整合等封裝檢測應用"
+    },
+    {
+      "id": "tray",
+      "label": "Tray / 六面",
+      "description": "JEDEC tray與六面外觀檢測"
+    }
+  ],
+  "companies": [
+    {
+      "name": "KLA",
+      "evidence": {}
+    },
+    {
+      "name": "Camtek",
+      "evidence": {}
+    },
+    {
+      "name": "Onto Innovation",
+      "evidence": {}
+    },
+    {
+      "name": "ASML",
+      "evidence": {}
+    },
+    {
+      "name": "Applied Materials",
+      "evidence": {}
+    },
+    {
+      "name": "Lam Research",
+      "evidence": {}
+    },
+    {
+      "name": "政美",
+      "evidence": {}
+    },
+    {
+      "name": "由田",
+      "evidence": {}
+    },
+    {
+      "name": "牧德",
+      "evidence": {}
+    },
+    {
+      "name": "SixSense",
+      "evidence": {}
+    }
+  ]
+}
