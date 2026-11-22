@@ -1,0 +1,54 @@
+name: Approve fab milestone
+on:
+  workflow_dispatch:
+    inputs:
+      proposal_id:
+        description: '待審核候選 ID（從網站複製）'
+        required: true
+        type: string
+      approved_stage:
+        description: '進度階段（未確認變動則保持原階段）'
+        required: true
+        default: '保持原階段'
+        type: choice
+        options:
+          - 保持原階段
+          - 規劃中
+          - 建設中
+          - 設備進駐
+          - 試產中
+          - 量產中
+          - 延期／調整
+      verification_note:
+        description: '請填寫已查閱的原文及確認依據（必填，不可只看標題）'
+        required: true
+        type: string
+permissions:
+  contents: write
+jobs:
+  approve:
+    if: github.actor == github.repository_owner
+    runs-on: ubuntu-latest
+    concurrency:
+      group: semicon-data-updates
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Approve reviewed milestone
+        env:
+          FAB_PROPOSAL_ID: ${{ inputs.proposal_id }}
+          FAB_APPROVED_STAGE: ${{ inputs.approved_stage }}
+          FAB_VERIFICATION_NOTE: ${{ inputs.verification_note }}
+          FAB_REVIEWER: ${{ github.actor }}
+        run: python fab_approve.py
+      - name: Commit verified fab data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/fabs.json data/fab_proposals.json
+          git diff --cached --quiet || (git commit -m 'Approve reviewed fab milestone' && git push)
