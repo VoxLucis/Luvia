@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "scan_status": "尚未執行",
+  "method": "官網原文與 AI 僅提出候選，人工核准後才寫入矩陣",
+  "candidates": []
+}
