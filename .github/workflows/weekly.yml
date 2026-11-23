@@ -37,6 +37,11 @@ jobs:
         run: python event_history.py
       - name: Scan allowlisted official product pages (best effort)
         run: python official_matrix.py
+      - name: Generate official capability review candidates (AI optional)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+        run: python capability_candidates.py
       - name: Commit weekly archive
         run: |
           git config user.name 'github-actions[bot]'
