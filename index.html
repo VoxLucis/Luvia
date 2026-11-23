@@ -159,6 +159,15 @@ a:hover{text-decoration-color:var(--accent)}
 .matrix-signal a{font-size:12px;color:#f1d8a4;overflow-wrap:anywhere}
 .matrix-signal .meta{font-size:11px;color:var(--accent)}
 @media(max-width:767px){.matrix-toolbar{grid-template-columns:1fr}.matrix-signals{grid-template-columns:1fr}.matrix-table th:first-child,.matrix-table td:first-child{min-width:113px}}
+
+/* V6.2 candidate review visual layer; inherits emerald-champagne palette */
+.capability-lead{border:1px solid var(--line);border-radius:12px;padding:16px;background:var(--panel);min-width:0}
+.capability-lead h3{font-size:15px;line-height:1.4;margin:8px 0}
+.capability-lead p,.capability-lead blockquote{font-size:12px;line-height:1.65;color:var(--muted);overflow-wrap:anywhere}
+.capability-lead blockquote{margin:10px 0;padding:10px 12px;border-left:3px solid var(--accent);background:var(--panel2)}
+.capability-lead .meta{font-size:11px;color:var(--accent)}
+.capability-lead a{font-size:12px;color:#f1d8a4;overflow-wrap:anywhere}
+.capability-lead .action{display:inline-block;font-size:12px;text-decoration:none;margin-top:10px;padding:9px 13px;border-radius:7px}
 </style></head><body><div class="mobile-header"><button class="menu-toggle" id="menuToggle" aria-label="開啟導覽選單" aria-controls="nav" aria-expanded="false">☰</button><div class="mobile-title">◆ SEMICON INTELLIGENCE<span class="mobile-subtitle">產業情報 · 策略觀察</span></div></div><div class="nav-scrim" id="navScrim"></div><div class="shell"><aside class="sidebar" id="sidebar"><button class="sidebar-close" id="sidebarClose" aria-label="關閉導覽選單">×</button><div class="brand"><i></i>SEMICON<br><span style="padding-left:27px">INTELLIGENCE</span></div><div class="subbrand">產業情報 · 策略觀察</div><nav class="nav" id="nav"><button class="active" data-view="overview">◈　情報總覽</button><button data-view="expansion">▦　客戶／擴廠追蹤</button><button data-view="fabtracker">▤　全球廠區進度表</button><button data-view="watchlist">◉　競品與自訂名單</button><button data-view="policy">◎　政治與政策</button><button data-view="equipment">⌁　檢測設備</button><button data-view="matrix">▦　技術競爭矩陣</button><button data-view="events">◷　事件前後變化</button><button data-view="ai">✦　AI 與先進封裝</button><button data-view="supply">◇　資本支出與供應鏈</button><button data-view="saved">☆　我的收藏</button><button data-view="archive">◷　週報歷史</button><button data-view="sources">☷　來源與方法</button></nav><div class="hint">每週日自動蒐集候選新聞（部署排程後）。<br>資料來源與分析需分開驗證。<br><br>台北時間 · Asia/Taipei</div></aside><main class="main"><header class="top"><div><div class="eyebrow">Industry intelligence / weekly radar</div><h1 id="heading">半導體產業情報總覽</h1><div class="lead" id="subheading">從全球產能、地緣政治到檢測技術，掌握真正值得追蹤的變化。</div></div><div class="stamp">最新資料更新<br><strong id="updated">讀取中…</strong><br><span id="dataMode">資料載入中</span></div></header><div class="divider"></div><div class="view active" id="overview"><div class="notice" id="notice">重要：此站將「官方公告／媒體報導／機器蒐集候選」明確分開；自動蒐集的新文章並未經人工事實查核，影響分析也不等於已確認的訂單。</div><div class="kpis" id="kpis" style="margin-top:18px"></div><div class="section-head"><h2>本週彙整・產業事件</h2><small>自動依標題及公司歸類，非經查核的擴廠事實</small></div><div id="weeklyDigest" class="digest-grid"></div><div class="section-head"><h2>AI 產業判讀</h2><small>啟用 API 後每週產出 · 判讀不代表已證實事件</small></div><div id="aiBrief" class="notice">AI 週報尚未啟用。新聞原始資料仍可正常瀏覽。</div><div class="section-head"><h2>重點情報</h2><small>按日期排列 · 可以點進原始來源查證</small></div><div class="toolbar" id="mainToolbar"><input id="search" placeholder="搜尋公司、技術、關鍵字…" aria-label="搜尋情報"><select id="category"><option value="">所有主題</option></select><select id="company"><option value="">所有公司</option></select><select id="region"><option value="">所有地區</option></select><button id="clear">清除篩選</button></div><div class="news-grid" id="news"></div></div><div class="view" id="expansion"><div class="section-head"><h2>龍頭廠商追蹤</h2><small>企業監測名單，不代表已驗證擴廠狀態</small></div><div class="notice">以下公司卡片會彙整近期與公司名稱相關的候選新聞；「0 則」表示目前來源中未比對到，不等於沒有擴廠。</div><div class="tracker" id="companies"></div><div class="section-head"><h2>擴廠與建廠消息</h2></div><div class="news-grid" id="expansionNews"></div></div><div class="view" id="fabtracker"><div class="section-head"><h2>全球廠區與先進封裝擴建里程碑</h2><small>人工核實的公開資訊 · 與 RSS 候選新聞分開</small></div><div class="notice">各廠狀態只根據附來源的公開資料維護，非即時廠務進度。「量產目標」不等於承諾達成；「設備需求觀察」是推論，不代表採購或訂單。資料來源日期列於每張卡片。</div><div class="section-head"><h2>AI 廠區進度異動候選</h2><small>每週日搜尋 · 候選線索，不會直接修改已核實紀錄</small></div>
 <div class="notice" id="fabScanStatus">等待讀取每週掃描結果…</div>
 <div class="fab-proposal-grid" id="fabProposals"><div class="empty">載入待審核清單中…</div></div>
@@ -173,8 +182,12 @@ a:hover{text-decoration-color:var(--accent)}
   <div class="section-head"><h2>官方網站技術文字線索</h2><small>定期讀取公開產品頁 · 關鍵字命中不代表已核實產品能力</small></div>
   <div class="notice" id="officialStatus">等待官網擷取結果……</div>
   <div id="officialCards" class="news-grid"></div>
+  <div class="section-head"><h2>官網能力變更待審核</h2><small>每週擷取 · AI 僅提出建議 · 人工核准才更新正式矩陣</small></div>
+  <div class="notice" id="capabilityStatus">等待載入官網技術能力候選……</div>
+  <div class="matrix-toolbar"><label>公司搜尋<input type="search" id="capabilitySearch" placeholder="Camtek、由田、SixSense…"></label><label>審核狀態<select id="capabilityState"><option value="pending">待審核</option><option value="">全部</option><option value="approved">已核准</option><option value="rejected">已排除</option></select></label></div>
+  <div class="matrix-signals" id="capabilityCandidates"></div>
   <div class="section-head"><h2>如何補充已核實能力？</h2></div>
-  <div class="notice">編輯 <code>data/equipment_matrix.json</code>，為指定公司及技術增加官方產品頁／型錄 URL、日期及證據描述，審查後才會在矩陣中標為「已證實」。這版不會讓 AI 修改正式證據。</div>
+  <div class="notice">編輯 <code>data/equipment_matrix.json</code>，為指定公司及技術增加官方產品頁／型錄 URL、日期及證據描述，審查後才會在矩陣中標為「已證實」。AI 只產生待審核候選；請核對官方原文後透過 GitHub Actions 的 Review official equipment capability candidate 核准或排除。已確認的資料不會因抓取失敗而消失。</div>
 </div><div class="view" id="ai"><div class="section-head"><h2>AI、先進封裝與製程創新</h2></div><div class="news-grid" id="aiNews"></div></div><div class="view" id="supply"><div class="section-head"><h2>資本支出、供應鏈與需求訊號</h2></div><div class="news-grid" id="supplyNews"></div></div><div class="view" id="saved"><div class="section-head"><h2>已收藏情報</h2><small>收藏僅儲存在這台裝置的瀏覽器</small></div><div class="news-grid" id="savedNews"></div></div><div class="view" id="events">
   <div class="section-head"><h2>事件前後變化</h2><small>跨週新聞標題比較 · 尚未核實實際進度</small></div>
   <div class="notice" id="eventsStatus">讀取跨週事件資料中……</div>
@@ -264,5 +277,30 @@ async function loadEvents(){try{const r=await fetch('./data/event_history.json',
 ['eventsSearch','eventsTopic'].forEach(k=>$('#'+k).addEventListener(k==='eventsSearch'?'input':'change',renderEvents));
 async function loadOfficialMatrix(){try{const r=await fetch('./data/official_matrix_leads.json',{cache:'no-store'});if(!r.ok)throw Error('missing');const d=await r.json();const pages=d.pages||[];$('#officialStatus').textContent='最近掃描：'+(d.updated_at||'無')+'，成功 '+pages.filter(x=>x.status==='fetched').length+'/'+pages.length+' 個官方公開頁面。此處僅顯示文字命中，不會自動改寫已核實矩陣。';$('#officialCards').innerHTML=pages.map(x=>'<article class="article"><h3>'+escapeHtml(x.company)+'</h3><p>'+escapeHtml(x.status==='fetched'?'已讀取官方頁面':'本次頁面不可讀取／抓取失敗')+' · '+escapeHtml(x.checked_at||'')+'</p>'+Object.entries(x.matches||{}).map(([k,v])=>'<p><b>'+escapeHtml((matrixRegistry.technologies.find(t=>t.id===k)||{}).label||k)+'</b> · '+escapeHtml(v.evidence_level)+'<br>'+escapeHtml(v.excerpt||'')+'</p>').join('')+'<a href="'+escapeHtml(fabSource(x.url))+'" target="_blank" rel="noopener noreferrer">查看官方來源 ↗</a></article>').join('')}catch(e){$('#officialStatus').textContent='尚無官方掃描資料，請先執行新的每週更新。';}}
 loadEvents();loadOfficialMatrix();
+
+
+// V6.2: the generated leads are never treated as verified capabilities.
+let capabilityProposals=[];
+function capabilityRender(){
+  const needle=($('#capabilitySearch').value||'').trim().toLowerCase();
+  const state=$('#capabilityState').value;
+  const list=capabilityProposals.filter(x=>(!state||x.status===state)&&(!needle||x.company.toLowerCase().includes(needle)));
+  const names={aoi:'AOI / 2D','3d':'3D 量測',adc:'ADC / AI 分類',xray:'X-ray / CT',csam:'CSAM / SAM',packaging:'先進封裝',tray:'Tray / 六面'};
+  $('#capabilityCandidates').innerHTML=list.length?list.slice(0,70).map(x=>{
+    const action='https://github.com/VoxLucis/Luvia/actions/workflows/approve-capability.yml';
+    return '<article class="capability-lead"><div class="meta">'+escapeHtml(x.company)+' · '+escapeHtml(names[x.technology]||x.technology)+' · '+escapeHtml(x.status||'pending')+'</div><h3>'+escapeHtml(x.product||'官網公開內容的新技術線索')+'</h3><p>'+escapeHtml(x.summary||'自動擷取的候選片段，尚未確認機型及功能；請閱讀官方原文。')+'</p><blockquote>'+escapeHtml(x.excerpt||'')+'</blockquote><p>來源掃描：'+escapeHtml(x.source_checked_at||'')+'<br>候選 ID：<code>'+escapeHtml(x.id)+'</code></p><a href="'+escapeHtml(x.url)+'" target="_blank" rel="noopener noreferrer">查看官網原文 ↗</a>'+(x.status==='pending'?'<br><a class="action" target="_blank" rel="noopener noreferrer" href="'+action+'">前往 GitHub 人工審核 ↗</a>':'')+'</article>';
+  }).join(''):'<div class="empty">沒有符合的候選項目；可能是官網無法讀取、未發現新增線索，或已由人工確認。</div>';
+}
+async function loadCapabilityCandidates(){
+  try{
+    const response=await fetch('./data/capability_candidates.json',{cache:'no-store'});
+    if(!response.ok)throw Error('missing file');
+    const data=await response.json();capabilityProposals=data.candidates||[];
+    $('#capabilityStatus').textContent='更新於 '+(data.updated_at||'未知')+'；'+(data.scan_status||'')+'；待審核 '+capabilityProposals.filter(x=>x.status==='pending').length+' 筆。候選不代表已確認能力；核准需人工閱讀官方原文。';
+    capabilityRender();
+  }catch(e){$('#capabilityStatus').textContent='尚無能力審核候選。請先執行 V6.2 每週工作流程；原有已確認能力仍會保留。';}
+}
+['capabilitySearch','capabilityState'].forEach(k=>$('#'+k).addEventListener(k==='capabilitySearch'?'input':'change',capabilityRender));
+loadCapabilityCandidates();
 
 init();</script></body></html>
