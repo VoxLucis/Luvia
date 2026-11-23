@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T00:41:25.712239+08:00",
+  "updated_at": "2026-11-24T00:59:58.170689+08:00",
   "mode": "automated-candidates",
   "items": [
     {
@@ -118,6 +118,23 @@
         "Lam Research"
       ],
       "collected_at": "2026-11-24T00:41:25.712239+08:00"
+    },
+    {
+      "id": "f69c18b4ba3bb8a958",
+      "title": "Micron Guides to $50 Billion Revenue as AI Memory Booms - Can MU Break $1,034? - TradingKey",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "擴廠動態",
+      "company": "Micron",
+      "region": "全球",
+      "date": "2026-11-22",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVW44UW9zZ0wyM0k4VzA1ZTJDaTBDWnZUSjl5dWdfSl9Na1p5bzBQdUstYk5nUlRsZDRsbnZDb0o5UWhaTlVJV2hRUUpQZnZ6b1dGRGxxOUVQbGZpekRyaG85T3FqNkNKdVplX3RPaTF3eGRXNEJJRUtLbGxmdEt4eEFERjRHbXA0MXdEdUdZdXZpV3dBY0lad1pHUXZzOU1URWE2aTgtRkFLVTdEeW5JQmhWR24?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "Micron"
+      ],
+      "collected_at": "2026-11-24T00:59:58.170689+08:00"
     },
     {
       "id": "f5e5cc862198b25e41",
@@ -456,6 +473,23 @@
       "collected_at": "2026-11-22T22:10:43.052654+08:00"
     },
     {
+      "id": "48a41995367b38cb5d",
+      "title": "South Korea's MIR Tech Takes On Chip Yield: A 33-Year SK Hynix Engineer Bets on Full-Wafer Inspection - BigGo Finance",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "AI 與技術",
+      "company": "SK hynix",
+      "region": "韓國",
+      "date": "2026-11-20",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBZlVXRzNoZDgxZDNsNjU1YkFPY2ZOXzN0R2Q3LTZZSHI4eTR1d3M0VVdpMFpxZGc2Zmw2bHVRQ0FZUklmOC04enBUeUR1c0VFbE83aUVKZWM0dlluNFltNHVYcFgxMU4yRy1qZjJWMXMyRnFWZ0E?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "SK hynix"
+      ],
+      "collected_at": "2026-11-24T00:59:58.170689+08:00"
+    },
+    {
       "id": "488cb5aec46fe4a0e2",
       "title": "US Micron moves first tool into Singapore HBM packaging plant, output due early 2027 - TNGlobal",
       "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
@@ -554,6 +588,21 @@
         "Lam Research"
       ],
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
+    },
+    {
+      "id": "26078c0e930d361fb5",
+      "title": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts - Britannica",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "政治與政策",
+      "company": "多家公司",
+      "region": "台灣",
+      "date": "2026-11-20",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [],
+      "collected_at": "2026-11-24T00:59:58.170689+08:00"
     },
     {
       "id": "193b18aa8e735a9b06",
@@ -3375,6 +3424,23 @@
         "Applied Materials"
       ],
       "collected_at": "2026-11-23T03:34:29.115881+08:00"
+    },
+    {
+      "id": "e6851a42cb71f8bc4b",
+      "title": "Morgan Stanley cuts Samsung, SK hynix targets on 2028 earnings cliff risk - Chosunbiz",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "擴廠動態",
+      "company": "Samsung",
+      "region": "全球",
+      "date": "2026-11-10",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmlCYVpBNFNrMU05emlMZHp4ZnFXX3YzNDlhdUlvcEhrOGU4TDlReGczYi1CS0dNRVVTMU9yZ2VueEhXbVk4c0xDU01XRFZhSlBHNkhYTkdwOHJPM0psUExtaFFITGJaUllpTElRYm5PaVhwRndEcXA4aG4zT0k3NdIBlAFBVV95cUxOaDVYRHUtVXpRZDVZVUJ1VjA1eWJjOUVIMXZQYWhTaU1kNnI1dEhtZnZlUmdPMVpUUGU3MjJCbmthcVdmbVFDbjc0dE1KYTJQd0Rsa1k2Z21Bc3RmWS1lNzZWRThtNENiQzBpQWdERFNwZGtjZWo2QnlrQWJwOHkyMTVNS0hnTDY0RE51S1R2WENoNDZj?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "Samsung"
+      ],
+      "collected_at": "2026-11-24T00:59:58.170689+08:00"
     },
     {
       "id": "e018224712e837c12e",

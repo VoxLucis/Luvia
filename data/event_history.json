@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T16:41:54.631084+00:00",
+  "updated_at": "2026-11-23T17:00:28.585126+00:00",
   "method": "依公司、主題、地點分組並比較每週新增標題；不推論已發生的廠區里程碑或採購。",
   "weeks_loaded": [
     "2026-11-22",
@@ -132,6 +132,54 @@
       "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
     },
     {
+      "id": "32ffc227e7fbea5d",
+      "company": "Micron",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "weeks_seen": 2,
+      "headline_count": 3,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "DRAM Just Got More Expensive Than AI Memory. Here’s Why Micron Could Soar in 2027 - 24/7 Wall St.",
+              "date": "2026-11-15",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUEk0MzFlS3ZUbzdJbjg3OHlCamtpbjBCYVZmWGNLWXZaZVNnRXlXNXl3aVJ5eFV4SW45UWFKaWY2MnFRTFVUVEItd01xdXk3V1lWZGNEZXNiMXdTc1FfZnRUQWZXdlRyV2x2U1loS3ZGYzRZU0JuTDhUNFV2NW0zTGZjRU5OcnRsYlNzeHl2NTI1U0V1U2N6WmJpRER4cXM1TFdkdlJzYnRpaEZvbUpCV2JCMGU0REptd01HemFoTUU?oc=5",
+              "source": "24/7 Wall St.",
+              "id": "d51cea89eedcd7df4e"
+            },
+            {
+              "title": "AI Semiconductor Giants TSMC, Micron, and UMC Could Consume 15% of Taiwan’s Power by 2030, Greenpeace Warns - Greenpeace",
+              "date": "2026-11-10",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMFJzSzZHV0t6enA3MWduRWZkQ254MUhGYnF1bmpaYjRXbTVqUndSSVk1MTBMcUdFbG1FNjRCRGlUaXpXZmJwRDg5RjdzOUw5dmlHTWQydHliQTZ5YmE4aHpBdk1ybVMtQ243NmJoQTlwRmN0ZUJabDNuLVZOSXE3cXdIcDRPVlFCbjB1TEdhOHhjanNhZ0stLWR0ZDgzZEM4VkNjSXh3eUtiNGUyemNTOXFLOV9udTA0SzNIejNwdlV1QzFFODJockNpM2ZrdFhpbkxvMUYxckhQTnEtV0tvYlAyZFRjZw?oc=5",
+              "source": "Greenpeace",
+              "id": "ca8f8b4b0a8ba017da"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-24",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Micron Guides to $50 Billion Revenue as AI Memory Booms - Can MU Break $1,034? - TradingKey",
+              "date": "2026-11-22",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVW44UW9zZ0wyM0k4VzA1ZTJDaTBDWnZUSjl5dWdfSl9Na1p5bzBQdUstYk5nUlRsZDRsbnZDb0o5UWhaTlVJV2hRUUpQZnZ6b1dGRGxxOUVQbGZpekRyaG85T3FqNkNKdVplX3RPaTF3eGRXNEJJRUtLbGxmdEt4eEFERjRHbXA0MXdEdUdZdXZpV3dBY0lad1pHUXZzOU1URWE2aTgtRkFLVTdEeW5JQmhWR24?oc=5",
+              "source": "TradingKey",
+              "id": "f69c18b4ba3bb8a958"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
       "id": "b51388ae40cfeefe",
       "company": "KLA",
       "topic": "擴廠／建廠",
@@ -207,6 +255,47 @@
               "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUcwckxzRnI3MUtObmZNMXNiS2VVREx6UzhJQzRhVmJOUTNtaXE5U3BTTm1tYlh6TjZVNVRfTDJVYXhzY2k0bEJMVTZRRGJJb2FmM1BldkZra2x2a05remNwTnRFMndMZk1tOGgwWEVjc1NTS0hKMlRUYUNqQnRtaEhDRHJDWHdtcHRST0hYWlRzUEVfODJFYnVMRFB1YnNhRVEtY2luNnl4a2xzSFBJTV9DSWFpUQ?oc=5",
               "source": "gasworld",
               "id": "2f2b07429333f35054"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "be17fb3ec22c9dee",
+      "company": "SK hynix",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "weeks_seen": 2,
+      "headline_count": 2,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "[News] SK hynix Reportedly Plans New HBM4 Equipment Orders, with P&T6 in Focus Despite NVIDIA Uncertainty - TrendForce",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGtLQnFrNG1wTDQ1dENSbW1jTUg3Rm9SeE9Ca1RkdENHa0NqVUs0RUpXVEV6b0JNVzlVWnN1OFZKc1hyZXNKMmU2RDV4M1ZzMnh4ekN3TUJ5YnE1YVQ0TV92QUIzOUg4aTlGaHZJZ01mRW5nckFVVC1JQVFwR0NYeFc2d24xd3d1SEJRQ2dtTVgxM0hzb3U3dS1YY0p2bVg4SWIxTXB0X0w3UGF4SDRUU3dVOGUyUkY0QU5vZW5Hc2NVZ2JBUmlPcU9TQmZrSVpPTC1ZcFlJbDZfbVhTWVE?oc=5",
+              "source": "TrendForce",
+              "id": "3920ee6910acd33d14"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-24",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "South Korea's MIR Tech Takes On Chip Yield: A 33-Year SK Hynix Engineer Bets on Full-Wafer Inspection - BigGo Finance",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBZlVXRzNoZDgxZDNsNjU1YkFPY2ZOXzN0R2Q3LTZZSHI4eTR1d3M0VVdpMFpxZGc2Zmw2bHVRQ0FZUklmOC04enBUeUR1c0VFbE83aUVKZWM0dlluNFltNHVYcFgxMU4yRy1qZjJWMXMyRnFWZ0E?oc=5",
+              "source": "BigGo Finance",
+              "id": "48a41995367b38cb5d"
             }
           ]
         }
@@ -992,41 +1081,6 @@
       "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
     },
     {
-      "id": "32ffc227e7fbea5d",
-      "company": "Micron",
-      "topic": "AI／製程",
-      "location": "",
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "weeks_seen": 1,
-      "headline_count": 2,
-      "change_status": "首次觀察／基準",
-      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
-      "timeline": [
-        {
-          "week": "2026-11-23",
-          "new_headlines": 2,
-          "items": [
-            {
-              "title": "DRAM Just Got More Expensive Than AI Memory. Here’s Why Micron Could Soar in 2027 - 24/7 Wall St.",
-              "date": "2026-11-15",
-              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUEk0MzFlS3ZUbzdJbjg3OHlCamtpbjBCYVZmWGNLWXZaZVNnRXlXNXl3aVJ5eFV4SW45UWFKaWY2MnFRTFVUVEItd01xdXk3V1lWZGNEZXNiMXdTc1FfZnRUQWZXdlRyV2x2U1loS3ZGYzRZU0JuTDhUNFV2NW0zTGZjRU5OcnRsYlNzeHl2NTI1U0V1U2N6WmJpRER4cXM1TFdkdlJzYnRpaEZvbUpCV2JCMGU0REptd01HemFoTUU?oc=5",
-              "source": "24/7 Wall St.",
-              "id": "d51cea89eedcd7df4e"
-            },
-            {
-              "title": "AI Semiconductor Giants TSMC, Micron, and UMC Could Consume 15% of Taiwan’s Power by 2030, Greenpeace Warns - Greenpeace",
-              "date": "2026-11-10",
-              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMFJzSzZHV0t6enA3MWduRWZkQ254MUhGYnF1bmpaYjRXbTVqUndSSVk1MTBMcUdFbG1FNjRCRGlUaXpXZmJwRDg5RjdzOUw5dmlHTWQydHliQTZ5YmE4aHpBdk1ybVMtQ243NmJoQTlwRmN0ZUJabDNuLVZOSXE3cXdIcDRPVlFCbjB1TEdhOHhjanNhZ0stLWR0ZDgzZEM4VkNjSXh3eUtiNGUyemNTOXFLOV9udTA0SzNIejNwdlV1QzFFODJockNpM2ZrdFhpbkxvMUYxckhQTnEtV0tvYlAyZFRjZw?oc=5",
-              "source": "Greenpeace",
-              "id": "ca8f8b4b0a8ba017da"
-            }
-          ]
-        }
-      ],
-      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
-    },
-    {
       "id": "916a451d3d5d3e0f",
       "company": "Samsung",
       "topic": "投資／資本支出",
@@ -1230,34 +1284,6 @@
               "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXZyeGEwZ3Nka1d1VW8wVXVoemRsREFVZllEUVQxUF9mRjlETHR6ck9kazRBTW96Y1dNTVpRckRLUFlXUUFOMmh4Y0JRTFIzT05IMW90R1VJbGhPWHBaX0hTbjdkNWZBYXBPUGdhSjB5S1o4V2pBWl9icDBEMGhaWmJ6dWYzRGZFM0NZT3l3SHdQN19TZlNV?oc=5",
               "source": "explainx.ai",
               "id": "504895074ac8cab144"
-            }
-          ]
-        }
-      ],
-      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
-    },
-    {
-      "id": "be17fb3ec22c9dee",
-      "company": "SK hynix",
-      "topic": "設備／檢測",
-      "location": "",
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "weeks_seen": 1,
-      "headline_count": 1,
-      "change_status": "首次觀察／基準",
-      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
-      "timeline": [
-        {
-          "week": "2026-11-23",
-          "new_headlines": 1,
-          "items": [
-            {
-              "title": "[News] SK hynix Reportedly Plans New HBM4 Equipment Orders, with P&T6 in Focus Despite NVIDIA Uncertainty - TrendForce",
-              "date": "2026-11-16",
-              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGtLQnFrNG1wTDQ1dENSbW1jTUg3Rm9SeE9Ca1RkdENHa0NqVUs0RUpXVEV6b0JNVzlVWnN1OFZKc1hyZXNKMmU2RDV4M1ZzMnh4ekN3TUJ5YnE1YVQ0TV92QUIzOUg4aTlGaHZJZ01mRW5nckFVVC1JQVFwR0NYeFc2d24xd3d1SEJRQ2dtTVgxM0hzb3U3dS1YY0p2bVg4SWIxTXB0X0w3UGF4SDRUU3dVOGUyUkY0QU5vZW5Hc2NVZ2JBUmlPcU9TQmZrSVpPTC1ZcFlJbDZfbVhTWVE?oc=5",
-              "source": "TrendForce",
-              "id": "3920ee6910acd33d14"
             }
           ]
         }

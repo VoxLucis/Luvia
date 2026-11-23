@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "updated_at": null,
-  "scan_status": "尚未執行",
-  "method": "官網原文與 AI 僅提出候選，人工核准後才寫入矩陣",
-  "candidates": []
+  "updated_at": "2026-11-23T17:00:41.334969+00:00",
+  "scan_status": "官方擷取 7/7 頁",
+  "method": "官網原文候選；AI 只補暫定摘要。核准須人工閱讀官方原文，核准前不得更新正式能力。",
+  "candidates": [
+    {
+      "id": "cap-c9de38f609334e87",
+      "company": "KLA",
+      "technology": "3d",
+      "url": "https://ir.kla.com/news-events/press-releases/detail/9/kla-announces-enhanced-portfolio-of-systems-for-advanced",
+      "excerpt": "thms are designed to advance semiconductor device fabrication at the packaging stage by addressing the complexities of shrinking features sizes, 3D structures and heterogeneous integration. With the ability to implement these advanced packaging techniques more reliably, KLA customers will be able to improve device performance without relying on scaling silicon design no",
+      "source_page_title": "KLA Announces Enhanced Portfolio of Systems for Advanced Packaging :: KLA Corporation (KLAC)",
+      "source_checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "first_seen": "2026-11-23T17:00:36.106302+00:00",
+      "status": "pending",
+      "summary": "KLA 推出提升封裝階段先進製程，可改善器件性能。",
+      "product": ""
+    },
+    {
+      "id": "cap-d5b3c5502101b47d",
+      "company": "KLA",
+      "technology": "3d",
+      "url": "https://ir.kla.com/news-events/press-releases/detail/9/kla-announces-enhanced-portfolio-of-systems-for-advanced",
+      "excerpt": "oughout the packaging assembly process. Inspectors in the Series feature increased sensitivity to small defect types and accurate and repeatable 3D metrology to provide enhanced detection of issues that affect final package quality. The ICOS T3/T7 Series utilizes AI systems with deep learning algorithms to enable smarter binning of defect types, providing accurate feedb",
+      "source_page_title": "KLA Announces Enhanced Portfolio of Systems for Advanced Packaging :: KLA Corporation (KLAC)",
+      "source_checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "first_seen": "2026-11-23T17:00:36.106317+00:00",
+      "status": "pending",
+      "summary": "KLA Series檢測器具備高靈敏度和可重複3D量測技術。",
+      "product": "ICOS T3/T7 Series"
+    },
+    {
+      "id": "cap-763c39d8c7167e50",
+      "company": "Onto Innovation",
+      "technology": "adc",
+      "url": "https://ontoinnovation.com/products/dragonfly-g3/",
+      "excerpt": "operation. View Product Discover® Review Software Your smart factory’s human classification interface. View Product TrueADC® Software Automated defect classification software with deep learning, real defect modeling and seamless integration with Onto AOI tools. View Product Inspection Tool Productivity Software Software solutions to increase the value of your inspection tool. View Produc",
+      "source_page_title": "Sub-Micron 2D/3D Inspection + Metrology System | Onto Innovation",
+      "source_checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "first_seen": "2026-11-23T17:00:36.106327+00:00",
+      "status": "pending",
+      "summary": "Onto Innovation 提供真實缺陷建模的自動缺陷分類軟體TrueADC®。",
+      "product": "TrueADC® Software"
+    },
+    {
+      "id": "cap-fbc43c02be21be26",
+      "company": "SixSense",
+      "technology": "aoi",
+      "url": "https://www.sixsense.ai/product/",
+      "excerpt": "images automatically and model training with minimal manual effort and exceptional accuracy. ClassifAI runs AI models in production from across AOI tools. It enables high-throughput and low-latency visual inspection with near-zero escapes . VerifAI is a smart toolkit to auto monitor and adapt production models — with drift detection and self improvement capabilities to",
+      "source_page_title": "Sixsense.ai",
+      "source_checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "first_seen": "2026-11-23T17:00:36.106341+00:00",
+      "status": "pending",
+      "summary": "SixSense ClassifAI提供高效AOI檢測與自動模型更新。",
+      "product": "ClassifAI"
+    },
+    {
+      "id": "cap-a7014c5ee0d72097",
+      "company": "牧德",
+      "technology": "packaging",
+      "url": "https://www.machvision.com.tw/",
+      "excerpt": "ACHVISION｜PCB & 半導體光學檢測設備專家 — AOI、AVI、3D 檢測 繁體中文 繁體中文 English 简体中文 牧德所見，良率即現 SCROLL 技術整合 01 光學技術 02 機構設計 03 電子系統 04 軟體技術 05 人工智慧 產品布局 電子組裝 軟板 硬板 IC載板 電路板檢測 四線電測 電路板 封裝 晶圓 封裝IC檢測 晶圓檢測 封裝 半導體前段 產品方案 閱讀更多 晶圓檢測 晶圓檢測 閱讀更多 封裝IC檢測 封裝IC檢測 閱讀更多 四線電測 四線電測 閱讀更多 電路板檢測 電路板檢測 閱讀更多 最新消息 2026.11.10 新聞中心 牧德科技榮獲「115年度企業聘用運動指導員」表揚！ 2026.11.02 新聞中心 牧德科技榮獲勞動部「2026年工作生活平衡獎－友善家庭獎」 2026.10.29 展會",
+      "source_page_title": "MACHVISION｜PCB & 半導體光學檢測設備專家 — AOI、AVI、3D 檢測",
+      "source_checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "first_seen": "2026-11-23T17:00:36.106335+00:00",
+      "status": "pending",
+      "summary": "牧德專注封裝與晶圓等半導體光學檢測設備及整合技術。",
+      "product": ""
+    }
+  ]
 }
