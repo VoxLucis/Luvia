@@ -1,9 +1,228 @@
 {
   "schema_version": 1,
-  "status": "not_generated",
-  "generated_at": null,
-  "priorities": [],
-  "actions": [],
-  "risks": [],
-  "disclaimer": "等待首次 AI 分析；僅使用公開新聞標題，沒有讀取任何倍利內部資料。"
+  "status": "ok",
+  "generated_at": "2026-11-24T01:17:19+08:00",
+  "model": "gpt-4.1-mini",
+  "title": "倍利科技本週決策封面",
+  "focus": {
+    "customer_segments": [
+      "晶圓代工",
+      "封裝測試",
+      "先進封裝"
+    ],
+    "topics_to_watch": [
+      "ADC / AI 缺陷分類",
+      "AOI / 外觀檢測",
+      "JEDEC tray / 六面檢測",
+      "3D 量測",
+      "X-ray / CT",
+      "CSAM / SAM",
+      "設備驗證與導入時程"
+    ],
+    "note": "以上僅是研究關注方向，不代表倍利已具備全部能力、已有客戶採購意願或任何未公開專案進度。"
+  },
+  "basis": "最近30日公開 RSS 新聞標題（非全文）；僅引用本次候選新聞 ID",
+  "priorities": [
+    {
+      "headline": "Micron首批設備進駐新加坡HBM先進封裝廠",
+      "company": "Micron",
+      "priority": "高",
+      "impact_type": "擴廠動態",
+      "evidence_summary": "Micron於新加坡HBM先進封裝廠首次設備進駐，廠區計畫於2027年初開始產出。",
+      "beli_implication": "推論：倍利可關注HBM先進封裝廠設備需求與導入時程，提供相關檢測系統或設備商機。",
+      "next_check": "Micron後續設備購置節奏及對AOI、AI缺陷分類設備需求為何？",
+      "evidence_level": "僅 RSS 標題線索，未查證新聞全文",
+      "sources": [
+        {
+          "id": "7368cdedadb8880f7b",
+          "title": "Micron marks first tool move-in at Singapore HBM advanced packaging facility - Singapore Economic Development Board (EDB)",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjZ6clZHX1Z6QkhFS2xfa2o1OHgxMDZ6QWU5OTM5eEIyTnJ2aHZucm4tTGd3c3lsR3JsLXhqTmcwQXJfVURaTnhSZGlWbTZVY3VVMmNaZm5yN3AxbmpjVGN4WVRpaG9rSW11UjdQZ2J5ZVc3c0hFVjZXSDhuQ0FIOHE1LU9MVFJCMHNQVFZQV3FLdlgwR1NWc3A0TmJTa3pVOHd0QUthS2RKS1FwcnNxaUV0T1BBc1RNRUNmNg?oc=5",
+          "date": "2026-11-20",
+          "source": "Singapore Economic Development Board (EDB)"
+        },
+        {
+          "id": "488cb5aec46fe4a0e2",
+          "title": "US Micron moves first tool into Singapore HBM packaging plant, output due early 2027 - TNGlobal",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmtGSGVTNm83ZGl1eXRRb0JBZTROdG01T3B2SWNmV1c4NGI4Mk9ndHl4R24xN3RFdHFRUDBZMlE3MzRvZWszMTZnTnVPd2dBY2ZlZTlsUXJGU1c0c0lOSDh3YzZSeHRNbm1hNEVkT3RrNXV2RFF5NXpUSTV3NEpmanBvcHYwU0lMQjRHMjhtS1EzNnhIVFVXdVpoVkktZ2V4MVZ4MGtWZU1XZ0hnMUhhNC1sWnhKc1AxbGp3?oc=5",
+          "date": "2026-11-20",
+          "source": "TNGlobal"
+        },
+        {
+          "id": "052477fb9b2c13b3b2",
+          "title": "[News] Micron Singapore HBM Plant Receives First Equipment Ahead of 2027 Output as Taoyuan Labor Dispute Persists - TrendForce",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlg3cUNlSkI1T2Y5b3VxLVhSUDRxaUR3S1pydGpoX3NWQkI1R2pNX09oOHpqcEkwU0l0V1F4dE41ZDlBODJSM0JSVTBKNG5QQUtQVjVKWHlkVFNjQ2dGMktKVmpWcXd4OC1nVlpEUHJBSmdWbzV1RzFJX0UwZmdxRzhyeWNaSTllZ3R5LVkyV2xIblRTQ3I1aUFobmc1V3FxZ1Rsa2VQSVFyc2Q5NnJUS1dCOTFKT3FURXBXRlRIdDNHSDNMcEtmZ3Awd1M5Z0w3RkswYXRTVm1leDEyVkJoUDBpN1RtTTNjdVlz?oc=5",
+          "date": "2026-11-20",
+          "source": "TrendForce"
+        }
+      ]
+    },
+    {
+      "headline": "Samsung布局3D Cube-H先進封裝及擴產計畫",
+      "company": "Samsung",
+      "priority": "高",
+      "impact_type": "擴廠動態",
+      "evidence_summary": "Samsung計畫2027年初推3D Cube-H混合鍵合先進封裝新技術並同步擴充封裝產能。",
+      "beli_implication": "推論：倍利應留意三星先進封裝對先進AOI和3D量測設備的需求。",
+      "next_check": "三星3D Cube-H封裝導入時間點及設備驗證與導入時程？",
+      "evidence_level": "僅 RSS 標題線索，未查證新聞全文",
+      "sources": [
+        {
+          "id": "7a7d0c7a369510e88d",
+          "title": "[News] Samsung Reportedly Eyes Early 2027 for 3D Cube-H Advanced Packaging Development, Featuring Hybrid Bonding - TrendForce",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNejZnYXQ1MEtCYkhDT2tRSDh3R1RxWGZTcTNLZ2NWemtvRncxd0xLZG01cUNvNkJVWVRRVWE0TldmRFRVUE43eVNCQTdwY01NTU9rU05ra0Jwck9HZ0ZFU3dUTmFpQW5HOTNVS19mNURBWnNrWXY1ckJQSUp3a3BBbzRGOWFfWkEzdFcwcEQ5UVdjb1hGVGVCUC0zSXpEWFJ0enM3VTd1ckFGMTVfdVViQ0k3WFlYalBCRGJNSjlyVkdxQXlPckhPQ08wR0dlNkN1Q1NkQmd0LUpKVXZTR0t5Y3VKdERMNi16?oc=5",
+          "date": "2026-11-11",
+          "source": "TrendForce"
+        },
+        {
+          "id": "b82db1ea50dc5f20c6",
+          "title": "Samsung Exynos 2600 Mobile SoC PoP with FO-WLP and Heat Path Block Packaging Technology - Advanced Packaging Essentials - TechInsights",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnBRanVnbXI5b0o2MmdVZDhOR0NicWJoUEl4Y0lkWC1IUHEyNlA1Wm16N0ZpbG5IUV9LVUxZdnFuY1AzX1lFWk5YY0ZlUGw1VldKQ3ExMDdRVWZtSjBqQm9RZm9oQWVzVVhNYVM1aWRfOEVYVUdsNGRoSnFubDZzZ2tGQmphVnFNQUxQVXAwaU1QajEybU5OODBDUlRMb1lGc2JONDF5Qkt0VWUzenJYT0RwWE8wVF83dDZqQjljLUd6Z3c?oc=5",
+          "date": "2026-11-13",
+          "source": "TechInsights"
+        },
+        {
+          "id": "bb811d025b41026084",
+          "title": "A ‘semiconductor heart’: HBM hub in Chungcheong ... Samsung bets on advanced packaging - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82OE5WYVZzOEgxbzVSVU9LR0pNcnJLVVc4eDhKNzJIZVVoaUVMTlphSWlDSk1BVF82clRLZFFIM2F0T2NLdmhnTk5ocUY5bGRpNU5j?oc=5",
+          "date": "2026-11-12",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "headline": "SK hynix推動全晶圓良率檢測及HBM出口主導",
+      "company": "SK hynix",
+      "priority": "中",
+      "impact_type": "技術趨勢",
+      "evidence_summary": "SK hynix採用全晶圓檢測技術強化良率並以HBM貢獻逾42%晶片出口，並規劃擴充供應鏈。",
+      "beli_implication": "推論：倍利可聚焦AI缺陷分類、全晶圓檢測相關技術及應用趨勢。",
+      "next_check": "SK hynix在AI缺陷檢測及全晶圓檢測技術應用細節及驗證進度？",
+      "evidence_level": "僅 RSS 標題線索，未查證新聞全文",
+      "sources": [
+        {
+          "id": "48a41995367b38cb5d",
+          "title": "South Korea's MIR Tech Takes On Chip Yield: A 33-Year SK Hynix Engineer Bets on Full-Wafer Inspection - BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBZlVXRzNoZDgxZDNsNjU1YkFPY2ZOXzN0R2Q3LTZZSHI4eTR1d3M0VVdpMFpxZGc2Zmw2bHVRQ0FZUklmOC04enBUeUR1c0VFbE83aUVKZWM0dlluNFltNHVYcFgxMU4yRy1qZjJWMXMyRnFWZ0E?oc=5",
+          "date": "2026-11-20",
+          "source": "BigGo Finance"
+        },
+        {
+          "id": "8495200fc46d32dbf3",
+          "title": "South Korea's SK Hynix Says HBM Drove 42.8% of Chip Exports; 'Trinity Fab' to Broaden Supplier Ecosystem - BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PbTZNUWpfTzVqRFg2bWpCbWVtS0x1SC1tMEVma0xkNkt4Sjh4OXB0cHNZdUtoUXVEMHlDWlFMQmNJcGRuYmhxSjlGdFhfYkRlSFo2SVZqS3hKX2twYW14eFI2ZTVRMnM4dHVFRWFmQmNEeWNyenc?oc=5",
+          "date": "2026-11-19",
+          "source": "BigGo Finance"
+        },
+        {
+          "id": "d51d718d9e2b335913",
+          "title": "SK hynix’s HBM, developed with local suppliers, helps drive ‘$1 trillion in exports’ - 더글로벌기빙뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FSlowRGNhYlZENm94QXU4US1vSEMzbUllcnA3SzBudk9iOTFzR0JrZnZ6alJfUTdlU0szQjA1QmRNOUFjMTVkVXRyQTVTM2ZtZ3c2bQ?oc=5",
+          "date": "2026-11-19",
+          "source": "더글로벌기빙뉴스"
+        }
+      ]
+    },
+    {
+      "headline": "GlobalFoundries美日合資廠摩登化擴產與智能化導入",
+      "company": "GlobalFoundries",
+      "priority": "中",
+      "impact_type": "擴廠動態",
+      "evidence_summary": "GlobalFoundries於紐約展開100億美元擴產，並嘗試在晶圓廠導入人形機器人提升自動化。",
+      "beli_implication": "推論：倍利應關注半導體產線用智能檢測及機器人輔助設備需求。",
+      "next_check": "GlobalFoundries智能化設備導入計畫具體時程與標準？",
+      "evidence_level": "僅 RSS 標題線索，未查證新聞全文",
+      "sources": [
+        {
+          "id": "91327ed7c839989c75",
+          "title": "GlobalFoundries starts New York expansion with U.S.-Japan fab - Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTJyaXphS1dnR083alppT0hQWS1MN0ZqUi1naUZGUTB6OHZVN2N3ZEtOeVhGclM3dEdRbHZYdHJvSWM4NzdCQ1V5WlhCUmRWVGlaWFNZb3o3ZElpU3lZN3FkMWlicjVCVEFSNHlwR0hoR1k0YmVLbHpXbk12TXpkSEdzY1VGUkZNdTN1dFdJSjZDOGZSUnoxNjhOV1B0S191bGl2ekE3T1c5d3BEUlhlN1JGWDIzUTI5SmNJ?oc=5",
+          "date": "2026-11-13",
+          "source": "Spectrum News"
+        },
+        {
+          "id": "56b0bddff370005757",
+          "title": "GlobalFoundries Breaks Ground on $10B New York Fab - Construction Owners",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0hUdjFRTmNpY2pLOFdIYmVCQlg4ZzdfekIyUmd5NklkVlVhZ2ZqVlFwRG82MWVSVWgwQVdSOXhWU2szclNBWUtObW1UOWR2TjdhcDFkOVpoT2pNZDdzaFVtVkJIUWZTcVZmRkhyRkx4V29ZUWdwUVZMS25iSFg4QUZka1h4alhyTTJkY1VFdXlCUjZlSWtjRGpjcXBFYnBzbUFRNG43ZDBTcFRkdFhiNUE2aw?oc=5",
+          "date": "2026-11-19",
+          "source": "Construction Owners"
+        },
+        {
+          "id": "a17408310fa0428413",
+          "title": "GlobalFoundries to test using humanoid robots at its semiconductor fabs - Albany Business Review - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUE0MjlmS1NKNmVkTUJ0WG81NzJUa3l5aGhBNjhkNGM0bFVQRjZSU2RIdm11OHpJbHpEVl9FLTlpS2tSdVNocEJEd2NKNU5GM284cnZxcDRBQkFaYmc2ZDRtRVk4Q2FaU0d5ZnZjWGNmNjFBbzcxcGtQZzlLenBIdVY0a21nMmVkX3RqSmVmNWl0MlZXX29JUWhR?oc=5",
+          "date": "2026-11-17",
+          "source": "The Business Journals"
+        }
+      ]
+    },
+    {
+      "headline": "Camtek獲分析師看好，受惠先進封裝檢測需求升溫",
+      "company": "Camtek",
+      "priority": "中",
+      "impact_type": "檢測設備",
+      "evidence_summary": "先進封裝市場需求帶動Camtek檢測設備股價上漲與分析師評價提升。",
+      "beli_implication": "推論：倍利應密切追蹤先進封裝AOI及相關檢測設備市場變化提供策略參考。",
+      "next_check": "Camtek具體先進封裝檢測設備導入客戶與技術對應方案？",
+      "evidence_level": "僅 RSS 標題線索，未查證新聞全文",
+      "sources": [
+        {
+          "id": "7e7c8a741fb7379549",
+          "title": "Advanced Packaging Demand Lifts Camtek Stock Case After Analyst Upgrade - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdG91SC05a0lmOG1oSXpjOHREVDIxQ3FpVUhUemtKYmRXM3BuQXU0ejl1MW1wMnVaZ2NRWURkTy1rYjI1RldYdGZaTW0yb2pGQjdVVlh4c0NZdmNRei1LM1d3b3ZETG44NFAyWlpQam5Sd29BT3ROaGMwd3Y0N0dWTXE1VHdJekI0b1dhaUxvZUhIeEJoODFFSnJjUC1Sd0xKd1Z1cWpB?oc=5",
+          "date": "2026-11-21",
+          "source": "Yahoo Finance"
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "priority": "本週優先",
+      "owner_suggestion": "業務/FAE",
+      "question": "Micron新加坡HBM廠後續設備採購方向與需求時間表？",
+      "why": "聚焦HBM先進封裝新產線設備採購帶來的短期商機"
+    },
+    {
+      "priority": "本週優先",
+      "owner_suggestion": "研發/PM",
+      "question": "三星3D Cube-H混合鍵合封裝技術相關測試與導入需求細節？",
+      "why": "技術創新可能驅動倍利新檢測產品開發和應用"
+    },
+    {
+      "priority": "持續追蹤",
+      "owner_suggestion": "研發",
+      "question": "SK hynix全晶圓AI缺陷檢測技術現況與未來標準？",
+      "why": "相關技術趨勢可指引倍利產品方向調整"
+    },
+    {
+      "priority": "持續追蹤",
+      "owner_suggestion": "管理層/業務",
+      "question": "GlobalFoundries智能自動化設備規劃與合作機會？",
+      "why": "機器人與檢測設備整合趨勢值得關注"
+    },
+    {
+      "priority": "本週優先",
+      "owner_suggestion": "業務/FAE",
+      "question": "Camtek先進封裝檢測設備的市場動態和客戶群？",
+      "why": "市場及競品動向為倍利業務策略參考重點"
+    }
+  ],
+  "risks": [
+    {
+      "level": "中",
+      "title": "晶圓代工與先進封裝廠產能不及預期或推遲",
+      "detail": "多家廠商積極擴廠與新技術導入，但勞動爭議或原料缺乏可能影響擴產時程與設備裝機，造成市場需求波動和商機不確定。"
+    },
+    {
+      "level": "中",
+      "title": "AI缺陷檢測與全晶圓檢測技術轉換風險",
+      "detail": "先進的AI檢測與全晶圓檢測技術推廣尚處早期階段，標準化及導入時間可能延遲，影響相關設備採購節奏和技術優勢損失。"
+    },
+    {
+      "level": "低",
+      "title": "全球半導體設備競爭激烈風險",
+      "detail": "先進封裝及檢測設備重要廠商眾多，技術突破與新進入者可能稀釋倍利在市場的競爭力與訂單來源。"
+    }
+  ],
+  "disclaimer": "此封面僅根據公開 RSS 新聞標題進行初步推論；未交叉核對全文、企業官方公告、機型規格或客戶資訊。所列商機、產品應用、建議確認方向與風險均為假設，不代表倍利已具備相關能力、已有客戶採購需求或取得訂單。禁止放入任何未公開的 Intel／客戶或公司內部保密資料。"
 }

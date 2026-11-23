@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-23T17:00:28.637054+00:00",
+  "updated_at": "2026-11-23T17:16:49.971363+00:00",
   "method": "官方公開頁面文字擷取；片段為自動候選，絕不直接寫入已核實能力。網站不可讀取時保留既有人工核實證據。",
   "pages": [
     {
       "company": "KLA",
       "url": "https://ir.kla.com/news-events/press-releases/detail/9/kla-announces-enhanced-portfolio-of-systems-for-advanced",
-      "checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "checked_at": "2026-11-23T17:16:49.971363+00:00",
       "status": "fetched",
       "matches": {
         "3d": {
@@ -27,14 +27,14 @@
           ]
         }
       },
-      "changed_since_last_scan": null,
+      "changed_since_last_scan": false,
       "page_title": "KLA Announces Enhanced Portfolio of Systems for Advanced Packaging :: KLA Corporation (KLAC)",
       "page_text_hash": "a743d50228c18255a0cf2e1351d76c42e93925f4807b3dd06fbe3b42e18c9c75"
     },
     {
       "company": "Camtek",
       "url": "https://www.camtek.com/markets/advanced-packaging/",
-      "checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "checked_at": "2026-11-23T17:16:49.971363+00:00",
       "status": "fetched",
       "matches": {
         "3d": {
@@ -56,14 +56,14 @@
           ]
         }
       },
-      "changed_since_last_scan": null,
+      "changed_since_last_scan": false,
       "page_title": "Advanced Packaging - Camtek",
       "page_text_hash": "dd1eb2259f3ab75001fee3812d05765d026cf794112f5bde450926992cefea4c"
     },
     {
       "company": "Camtek",
       "url": "https://www.camtek.com/products/eaglet-ap/",
-      "checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "checked_at": "2026-11-23T17:16:49.971363+00:00",
       "status": "fetched",
       "matches": {
         "3d": {
@@ -84,14 +84,14 @@
           ]
         }
       },
-      "changed_since_last_scan": null,
+      "changed_since_last_scan": false,
       "page_title": "3D Surface Detection | Advanced Packaging | Camtek",
       "page_text_hash": "8214f9e54fc08cdf6845da75f2a1e597cabe6a394656460c6acb91cf76006971"
     },
     {
       "company": "Onto Innovation",
       "url": "https://ontoinnovation.com/products/dragonfly-g3/",
-      "checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "checked_at": "2026-11-23T17:16:49.971363+00:00",
       "status": "fetched",
       "matches": {
         "aoi": {
@@ -128,14 +128,14 @@
           ]
         }
       },
-      "changed_since_last_scan": null,
+      "changed_since_last_scan": true,
       "page_title": "Sub-Micron 2D/3D Inspection + Metrology System | Onto Innovation",
-      "page_text_hash": "52404a5934267cd00b230189a5b938bef346e23601a0db452288f70d7856befd"
+      "page_text_hash": "2b2fd5973fb3d75baeabd30426cf7eea3672ac8a02135affad207427d706e2d4"
     },
     {
       "company": "由田",
       "url": "https://www.utechzone.com.tw/",
-      "checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "checked_at": "2026-11-23T17:16:49.971363+00:00",
       "status": "fetched",
       "matches": {
         "aoi": {
@@ -147,14 +147,14 @@
           ]
         }
       },
-      "changed_since_last_scan": true,
+      "changed_since_last_scan": false,
       "page_title": "由田新技股份有限公司",
       "page_text_hash": "8983b7bea4cef94399f02c3c5398a96f4ef936495d88e9e85e0c1dd27d9d006c"
     },
     {
       "company": "牧德",
       "url": "https://www.machvision.com.tw/",
-      "checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "checked_at": "2026-11-23T17:16:49.971363+00:00",
       "status": "fetched",
       "matches": {
         "aoi": {
@@ -180,14 +180,14 @@
           ]
         }
       },
-      "changed_since_last_scan": null,
+      "changed_since_last_scan": false,
       "page_title": "MACHVISION｜PCB & 半導體光學檢測設備專家 — AOI、AVI、3D 檢測",
       "page_text_hash": "1ab7000e07bad58b0cb311959ed16ed03b442a471ebd23c1a279d6dc5769f8ad"
     },
     {
       "company": "SixSense",
       "url": "https://www.sixsense.ai/product/",
-      "checked_at": "2026-11-23T17:00:28.637054+00:00",
+      "checked_at": "2026-11-23T17:16:49.971363+00:00",
       "status": "fetched",
       "matches": {
         "aoi": {
@@ -207,7 +207,7 @@
           ]
         }
       },
-      "changed_since_last_scan": true,
+      "changed_since_last_scan": false,
       "page_title": "Sixsense.ai",
       "page_text_hash": "4786ab97ce9d52b3d75dcd6776d1c7680d199400dda82f5c2f00a6644ae5fae4"
     }

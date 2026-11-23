@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T00:59:58.170689+08:00",
+  "updated_at": "2026-11-24T01:16:22.218123+08:00",
   "mode": "automated-candidates",
   "items": [
     {
@@ -386,6 +386,23 @@
         "semiconductor"
       ],
       "collected_at": "2026-11-22T22:10:43.052654+08:00"
+    },
+    {
+      "id": "8713b7ff1c49802d28",
+      "title": "Intel Reveals Why Early DDR5 Memory Prototypes Often Fail, Details Extensive Validation Process And 256GB CQDIMM Push - Wccftech",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "擴廠動態",
+      "company": "Intel",
+      "region": "全球",
+      "date": "2026-11-20",
+      "source": "Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWl2OUd1SXBBLUt3RjVJYXUweElHZWkxaHlsWmhycWtuZmJSTDFobmgyX1h1T2EyU0d0WUNNVDdzUVRlRDRRYkh5amQ3aXlMamVncTRsZWJtZHFycXNTZFhTSjBveUxneGFUbU44dFg3TThqOE5SOER0dndCQ0wtcFNXTTZkVFJramFCaFVaY0dWZzBlVEx2cDJaZXB4R0xUQ3Z1QnhfTlprU1ROckgwRXJmVXFWUDJUVDRWNVUybTNMU3ZmcDNjVDhlWDg3RmhrNTlTetIB2gFBVV95cUxQUWtrRG1LZVVWMmFNZmRpdE9FeFFoUi1aaEZ0RWhnaFk5S3RkTDJaeHZTNWRUREs4QUZkazBsM0l3UEUxcGR1ckJYOVJmbUJQNjdWSFplREhYbV81N0pOQV9YNTVpeVM4aXhTaklTWjVZdzFFLTJvOFFjMmg2ZmxVY1FIOEFfbDFxcTQ5Y2h0RGxMSXlzWGYyWGloaGZFaFBBXzM5c3VxWThLSUZoNGwyZXdWM21ERTRyXzk4RlpqWFRGREtKV1Zydm12S1RVRUttaEJXMnM4Mm5Idw?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "Intel"
+      ],
+      "collected_at": "2026-11-24T01:16:22.218123+08:00"
     },
     {
       "id": "7d301230fcabe92560",
@@ -2670,6 +2687,23 @@
         "ASE"
       ],
       "collected_at": "2026-11-22T22:52:06.000147+08:00"
+    },
+    {
+      "id": "12daf28b7598f06366",
+      "title": "Why is Lam Research stock sliding today? - Investing.com",
+      "summary": "自動蒐集的新聞標題；尚未核對全文及原始公告。",
+      "category": "檢測設備",
+      "company": "Lam Research",
+      "region": "全球",
+      "date": "2026-11-13",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFNfOTc4el9IdEpYMkpTVVh1cUtZamMxMmVkUmNQeHRPdW51N2JnU1hFbzVXRGtkMjZYbW9SRVFrWmVOMVBETjMyU1V2aW5fLUVaN3dNRE9GX2FHemJDLWFQdFc4UVF0NlNzaWpOS2xmRnAzMV9lWE96VmgwVWNMUGtXd05CdWhNeW9mNGNadnRVeGVQRkdURjkzM1FzQW5NS0Q4?oc=5",
+      "status": "自動蒐集・未查核",
+      "impact": "待研判；不代表已確認的擴廠、採購或設備訂單。",
+      "tags": [
+        "Lam Research"
+      ],
+      "collected_at": "2026-11-24T01:16:22.218123+08:00"
     },
     {
       "id": "0b8c19b94695cc384e",
