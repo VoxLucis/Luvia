@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23",
-  "method": "沒有具體官方連結與驗證日期時，一律標為待查證。RSS/AI候選不自動產生已核實能力。",
+  "updated_at": "2026-11-24",
+  "method": "官網產品或官方新聞中明確列示的能力，人工確認後逐項建檔；欄位為技術分類而非完整機型規格。缺資料不代表不具能力。每週關鍵字爬取只更新線索，不覆寫人工證據。",
   "technologies": [
     {
       "id": "aoi",
@@ -42,15 +42,82 @@
   "companies": [
     {
       "name": "KLA",
-      "evidence": {}
+      "evidence": {
+        "aoi": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Kronos 1190",
+          "note": "KLA 官方案例為高解析度光學 wafer-level packaging inspection；AOI/2D 類別歸納，並非宣稱型號名稱包含 AOI。",
+          "url": "https://ir.kla.com/news-events/press-releases/detail/9/kla-announces-enhanced-portfolio-of-systems-for-advanced",
+          "source_type": "official_product_or_release"
+        },
+        "packaging": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Kronos 1190 / ICOS",
+          "note": "KLA 官方新聞明列 wafer-level packaging inspection 與 IC component inspection。",
+          "url": "https://ir.kla.com/news-events/press-releases/detail/9/kla-announces-enhanced-portfolio-of-systems-for-advanced",
+          "source_type": "official_product_or_release"
+        }
+      }
     },
     {
       "name": "Camtek",
-      "evidence": {}
+      "evidence": {
+        "aoi": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Eagle G5 / Eagle AP",
+          "note": "Camtek 官網列出 2D inspection 及先進封裝應用。",
+          "url": "https://www.camtek.com/markets/advanced-packaging/",
+          "source_type": "official_product_or_release"
+        },
+        "3d": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Eagle-AP",
+          "note": "官方列示 2D / 3D metrology & inspection；此處為設備平台能力，非所有測項性能。",
+          "url": "https://www.camtek.com/products/eaglet-ap/",
+          "source_type": "official_product_or_release"
+        },
+        "packaging": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Eagle G5 / Eagle-AP",
+          "note": "官方列出 Advanced Packaging 應用。",
+          "url": "https://www.camtek.com/markets/advanced-packaging/",
+          "source_type": "official_product_or_release"
+        }
+      }
     },
     {
       "name": "Onto Innovation",
-      "evidence": {}
+      "evidence": {
+        "aoi": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Dragonfly G3",
+          "note": "官方明列 2D inspection 與缺陷檢測。",
+          "url": "https://ontoinnovation.com/products/dragonfly-g3/",
+          "source_type": "official_product_or_release"
+        },
+        "3d": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Dragonfly G3",
+          "note": "官方明列 3D metrology。",
+          "url": "https://ontoinnovation.com/products/dragonfly-g3/",
+          "source_type": "official_product_or_release"
+        },
+        "packaging": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Dragonfly G3",
+          "note": "官方明列 advanced packaging process control 的產品應用。",
+          "url": "https://ontoinnovation.com/products/dragonfly-g3/",
+          "source_type": "official_product_or_release"
+        }
+      }
     },
     {
       "name": "ASML",
@@ -70,15 +137,58 @@
     },
     {
       "name": "由田",
-      "evidence": {}
+      "evidence": {
+        "aoi": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Semiconductor Inspection / PLP AOI",
+          "note": "官方半導體檢測產品分類列有 Panel-Level Packaging AOI。",
+          "url": "https://www.utechzone.com.tw/en/html/product/index.php?cid=67",
+          "source_type": "official_product_or_release"
+        },
+        "packaging": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "Panel-Level Packaging AOI",
+          "note": "官網明列 panel-level packaging AOI；不代表所有先進封裝製程皆已涵蓋。",
+          "url": "https://www.utechzone.com.tw/en/html/product/index.php?cid=67",
+          "source_type": "official_product_or_release"
+        }
+      }
     },
     {
       "name": "牧德",
-      "evidence": {}
+      "evidence": {
+        "aoi": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "3D AOI / Substrate AOI",
+          "note": "官方產品頁有 IC 載板檢測與 3D AOI。",
+          "url": "https://www.machvision.com.tw/products/pcb/substrate/",
+          "source_type": "official_product_or_release"
+        },
+        "3d": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "3D AOI",
+          "note": "官方產品頁明列 3D AOI。",
+          "url": "https://www.machvision.com.tw/products-detail/3d_aoi_r/",
+          "source_type": "official_product_or_release"
+        }
+      }
     },
     {
       "name": "SixSense",
-      "evidence": {}
+      "evidence": {
+        "adc": {
+          "status": "verified",
+          "date": "2026-11-24",
+          "product": "AI-ADC",
+          "note": "SixSense 官方介紹 AI-based automated defect classification（AI-ADC）軟體；不代表獨立光學檢測硬體。",
+          "url": "https://www.sixsense.ai/product/",
+          "source_type": "official_product_or_release"
+        }
+      }
     }
   ]
 }
