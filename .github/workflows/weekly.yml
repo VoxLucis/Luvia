@@ -33,6 +33,10 @@ jobs:
         run: python fab_scan.py
       - name: Collect equipment technology signals (title-only; unverified)
         run: python equipment_scan.py
+      - name: Compare saved weekly event headlines
+        run: python event_history.py
+      - name: Scan allowlisted official product pages (best effort)
+        run: python official_matrix.py
       - name: Commit weekly archive
         run: |
           git config user.name 'github-actions[bot]'
