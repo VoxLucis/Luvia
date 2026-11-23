@@ -149,6 +149,9 @@ a:hover{text-decoration-color:var(--accent)}
 .matrix-table td small{display:block;color:var(--muted);font-size:10px;margin-top:4px}
 .matrix-confirmed{color:#e4c88f;font-weight:750}
 .matrix-unknown{color:var(--muted)}
+.matrix-product{font-size:10px;color:var(--muted);max-width:155px;line-height:1.55;margin:5px auto 0;overflow-wrap:anywhere}
+.matrix-confirmed{display:inline-block;line-height:1.5}
+.matrix-table td a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .matrix-signals{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 .matrix-signal{padding:16px;border:1px solid var(--line);background:var(--panel);border-radius:12px;min-width:0}
 .matrix-signal h3{font-size:14px;line-height:1.55;margin:8px 0;overflow-wrap:anywhere}
@@ -160,8 +163,8 @@ a:hover{text-decoration-color:var(--accent)}
 <div class="notice" id="fabScanStatus">等待讀取每週掃描結果…</div>
 <div class="fab-proposal-grid" id="fabProposals"><div class="empty">載入待審核清單中…</div></div>
 <div class="section-head"><h2>已確認廠區里程碑</h2><small>以下進度僅在你審核採納後才會更新</small></div><div id="fabKpis" class="fab-kpis"></div><div class="fab-controls"><input type="search" id="fabSearch" placeholder="搜尋公司、廠區、製程、地點…" aria-label="搜尋廠區"><select id="fabCountry" aria-label="國家篩選"><option value="">全部國家</option></select><select id="fabStage" aria-label="建廠階段"><option value="">全部階段</option></select><select id="fabType" aria-label="廠區類型"><option value="">全部類型</option></select><button id="fabReset" type="button">清除</button></div><div class="fab-grid" id="fabCards"><div class="empty">載入廠區進度中…</div></div><div class="section-head"><h2>維護原則</h2><small>避免把新報導誤判為新里程碑</small></div><div class="notice">此追蹤表從 <code>data/fabs.json</code> 讀取已核對紀錄。每週排程會尋找與廠區直接相關的新新聞並提出候選更新；只有儲存庫擁有者在 GitHub Actions 手動確認後，才會把新里程碑加入 <code>fabs.json</code>。候選新聞不等於官方核實。<a class="fab-edit" href="https://github.com/VoxLucis/Luvia/edit/main/data/fabs.json" target="_blank" rel="noopener noreferrer">編輯廠區資料 ↗</a></div></div><div class="view" id="watchlist"><div class="section-head"><h2>競爭對手技術情報</h2><small>檢測設備 · ADC / AOI · 良率 / 先進封裝</small></div><div class="notice">企業與相關新聞以名稱及別名比對，不保證新聞已核實。公司若未出現報導，不代表沒有技術或設備進展。</div><div class="tracker" id="competitorCompanies"></div><div class="section-head"><h2>管理我的企業觀察名單</h2><small>透過 GitHub 登入確認，網站不保存任何存取金鑰</small></div><div class="notice">按「送出新增／修改」會開啟 GitHub Issue 草稿，確認提交後由 GitHub Actions 更新企業名單。僅儲存庫擁有者提交的申請會生效。更動後會重新部署網站；新聞則在下一次排程蒐集。</div><form id="companyForm" class="watch-form"><label>企業名稱<input id="watchName" maxlength="75" required placeholder="例如：政美、由田、牧德、SixSense"></label><label>追蹤類型<select id="watchGroup"><option value="competitor">競品／設備技術</option><option value="client">客戶／擴廠</option></select></label><label>企業別名（選填，逗號分隔）<input id="watchAliases" maxlength="300" placeholder="例如：牧德,牧得"></label><label>新聞搜尋關鍵字（選填）<input id="watchSearch" maxlength="160" placeholder="例如：SixSense semiconductor AI defect inspection"></label><button class="action" type="submit">送出新增／修改申請 ↗</button></form><div class="section-head"><h2>目前追蹤公司</h2><small>移除需要透過 GitHub 再確認一次</small></div><div id="watchlistRows" class="watchlist-rows"></div></div><div class="view" id="policy"><div class="section-head"><h2>政治與政策風險</h2></div><div class="news-grid" id="policyNews"></div></div><div class="view" id="equipment"><div class="section-head"><h2>檢測與量測設備</h2><small>ADC · AOI · metrology · tray · CSAM · 3D</small></div><div class="news-grid" id="equipmentNews"></div></div><div class="view" id="matrix">
-  <div class="section-head"><h2>檢測設備技術競爭矩陣</h2><small>官方規格才標為已證實；沒有證據不等於沒有能力</small></div>
-  <div class="notice">矩陣把「經來源核實的技術能力」和「每週蒐集到的技術新聞線索」分開。RSS 標題、AI 標記或企業名稱命中，都不會自動讓能力格變成已證實。新增追蹤公司會自動列入觀察，但技術格維持待查證。</div>
+  <div class="section-head"><h2>檢測設備技術競爭矩陣</h2><small>附官網產品證據；未找到不代表沒有能力</small></div>
+  <div class="notice">矩陣把「經來源核實的技術能力」和「每週蒐集到的技術新聞線索」分開。RSS 標題、AI 標記或企業名稱命中，都不會自動讓能力格變成已證實。新增追蹤公司會自動列入觀察，但沒有官方證據的技術格會標為「未收錄官網證據」。官網文字掃描的關鍵字命中仍只是線索，不會自動確認能力。</div>
   <div class="matrix-toolbar"><label>搜尋企業<input id="matrixSearch" type="search" placeholder="KLA、政美、SixSense…"></label><label>觀察技術<select id="matrixTech"><option value="">所有技術</option></select></label><label>候選優先度<select id="matrixPriority"><option value="">全部線索</option><option value="高">高</option><option value="中">中</option></select></label></div>
   <div class="notice" id="matrixStatus">讀取技術矩陣和每週情報中…</div>
   <div class="matrix-scroll"><table class="matrix-table" id="matrixTable"><thead></thead><tbody></tbody></table></div>
@@ -229,7 +232,7 @@ function matrixRender(){
     return '<tr><th scope="row">'+matrixEsc(n)+'</th>'+techs.map(t=>{
       const e=(c.evidence||{})[t.id];
       const valid=e&&e.status==='verified'&&/^https:\/\//i.test(e.url||'')&&e.date&&e.note;
-      return '<td>'+(valid?'<a class="matrix-confirmed" target="_blank" rel="noopener noreferrer" href="'+matrixEsc(e.url)+'" title="'+matrixEsc(e.note)+'">✓ 已證實</a><small>'+matrixEsc(e.date)+'</small>':'<span class="matrix-unknown" title="未核實，不代表沒有能力">待查證</span>')+'</td>';
+      return '<td>'+(valid?'<a class="matrix-confirmed" target="_blank" rel="noopener noreferrer" href="'+matrixEsc(e.url)+'" title="'+matrixEsc(e.note)+'">✓ 官網確認 ↗</a><div class="matrix-product">'+matrixEsc(e.product||'官方產品頁')+'</div><small>查核：'+matrixEsc(e.date)+'</small>':'<span class="matrix-unknown" title="目前資料庫未收錄官方來源，不代表公司沒有這項能力">未收錄官網證據</span>')+'</td>';
     }).join('')+'</tr>'
   }).join(''):'<tr><td colspan="'+(techs.length+1)+'">目前沒有符合條件的公司。</td></tr>';
   const filtered=matrixSignals.filter(s=>(!priority||s.priority===priority)&&(!q||(s.company||'').toLowerCase().includes(q))&&(!chosen||(s.technologies||[]).includes(chosen)));
