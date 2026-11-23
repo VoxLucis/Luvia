@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-23T16:41:54.682008+00:00",
+  "method": "僅搜尋官方公開網頁中的文字命中；不自動把命中記入 data/equipment_matrix.json 已證實能力。頁面可能阻擋擷取。",
+  "pages": [
+    {
+      "company": "Camtek",
+      "url": "https://www.camtek.com/solutions/inspection-metrology/",
+      "checked_at": "2026-11-23T16:41:54.682008+00:00",
+      "status": "fetched",
+      "matches": {
+        "3d": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "view Back light illumination Layer Thickness Measurement Camtek Light interferometry technology for 3D (CLIP) Slip Line Inspection Clear Sight Illumination CAD-Based Inspection Backside Inspection Inner Crack Imaging SurfaceSens Support New"
+        },
+        "adc": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "lly Automated Wafer Metrology Semi-automated with MHU Manual Metrology Software Solutions Automatic Defect Classification Compass Manual Defect Classification Acquire Automation XT Mark III – Measurement Analysis SW Camtek AI Inside 2D AI-B"
+        },
+        "packaging": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "onductors RF Un-patterned Wafers Post Dicing Post Probing Inspection MEMS LED BEOL of the Front-end Advanced Packaging Post Dicing Silicon & Compound Wafers Panels Products Full Wafer Inspection & Metrology Hawk Eagle G5 Eagleᵀ-AP Eagleᵀ-AP"
+        }
+      },
+      "changed_since_last_scan": null,
+      "page_text_hash": "92c70066610fb2650dcb360c30f78f9c1315341401f05abd1bda0c546a2f3883"
+    },
+    {
+      "company": "Onto Innovation",
+      "url": "https://ontoinnovation.com/product-categories/inspection/",
+      "checked_at": "2026-11-23T16:41:54.682008+00:00",
+      "status": "fetched",
+      "matches": {
+        "aoi": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "more In The Spotlight: What Is Responsible For The Surging Demand For CIS? Learn more Understanding Optical Inspection For CIS Learn more Revealing Invisible Defects on Large 600mm Panels Learn more Do you have an inspection question? Let’s"
+        },
+        "3d": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "ons Center of Excellence Dedicated to panel-level packaging (PLP) innovations enabling 2.5D, FOPLP, 3D chiplet architectures, and AI packages for both glass and organic substrates (CCL) Solutions Uniquely tailored hardware and software solu"
+        },
+        "adc": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "logy to Overcome Challenges of Large-Area Panel Inspection and Metrology Learn more Using Automatic Defect Classification to Reduce the Escape Rate of Defects Learn more How AI is Helping Optimize AI Chip Production Learn more High-Throughp"
+        },
+        "packaging": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "ts to help ensure accuracy and repeatability for semiconductor manufacturers worldwide. Lithography Advanced packaging steppers designed to tackle manufacturing challenges, maximizing throughput while ensuring high resolution and precise ov"
+        }
+      },
+      "changed_since_last_scan": null,
+      "page_text_hash": "007d1a2b778452318048dac88f03c989e70a6a2061995956c209162454080da0"
+    },
+    {
+      "company": "由田",
+      "url": "https://www.utechzone.com.tw/",
+      "checked_at": "2026-11-23T16:41:54.682008+00:00",
+      "status": "fetched",
+      "matches": {
+        "aoi": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "關於由田 About Us 公司簡介 由田組織 聯絡我們 關注由田 由田產品 Products 印刷電路板檢測系列 PCB 檢測設備 IC 載板檢測設備 卷對卷檢測設備 平面顯示器檢測系列 LCD 自動光學檢測設備 LCM 自動光學檢測設備 OLED 及 TP 自動光學檢測設備 半導體檢測系列 半導體自動光學檢測設備 COF 檢測設備 其他檢測系列 其他檢測設備 投資人服務 investors 向投資人報告 財務資訊 股東專區 問答集 聯絡人 企業永續 SUSTAINABIL"
+        }
+      },
+      "changed_since_last_scan": null,
+      "page_text_hash": "84bb4be283bf9d25196092425701f12c98cd94d7042221246d4b418a8d8292f5"
+    },
+    {
+      "company": "牧德",
+      "url": "https://www.machvision.com.tw/about/",
+      "checked_at": "2026-11-23T16:41:54.682008+00:00",
+      "status": "fetched",
+      "matches": {
+        "aoi": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "公司介紹-MACHVISION INC. 繁體中文 繁體中文 English 简体中文 首頁 關於牧德 關於牧德 關於牧德 得獎標章 歷史沿革 經營團隊 組織架構 全球據點 不斷奔馳，光學檢測技術領導者 牧德科技(3563)成立於民國87年6月，為專業光學檢測設備供應商，主要產品涵蓋PCB鑽孔與成型製程量測檢測、線路檢查，以及HDI與IC載板檢查系列設備。公司專注於機械視覺系統(Machine Vision)，整合光學取像、影像處理、精密機械與運動控制，應用於非接觸式"
+        },
+        "3d": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "本額為 306,679 仟元。 3月 推出 FGF 軟板金手指檢查機。 1月 公司股票於櫃檯買賣中心正式掛牌交易。 2010 9月 推出 Lead Frame 高精度量測機。 2009 11月 推出 3D AOI 印刷線路立體檢測機。 5月 推出二代 AFI 自動外觀終檢機。 2月 開始投入三次元量測技術。 2008 4月 開始投入外觀瑕疵檢查技術。 2月 開始投入線路檢查技術。 2007 6月 公司股票登錄興櫃市場買賣。 2月 成立製造中心於研發二路。 2006 6月 擴展"
+        },
+        "packaging": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "史沿革 經營團隊 組織架構 全球據點 不斷奔馳，光學檢測技術領導者 牧德科技(3563)成立於民國87年6月，為專業光學檢測設備供應商，主要產品涵蓋PCB鑽孔與成型製程量測檢測、線路檢查，以及HDI與IC載板檢查系列設備。公司專注於機械視覺系統(Machine Vision)，整合光學取像、影像處理、精密機械與運動控制，應用於非接觸式精密量測、自動光學檢測(AOI)、自動外觀檢測(AVI)、雷射盲孔(Laser Via)檢查等完整解決方案，從零組件、模組到完整系統與專案規劃皆"
+        }
+      },
+      "changed_since_last_scan": null,
+      "page_text_hash": "e4ac977f52df8ae2931135eb1769b267d1f5c039345e8f4621d37eb535cf264f"
+    },
+    {
+      "company": "SixSense",
+      "url": "https://www.sixsense.ai/product/",
+      "checked_at": "2026-11-23T16:41:54.682008+00:00",
+      "status": "fetched",
+      "matches": {
+        "aoi": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "minimal manual effort and exceptional accuracy. ClassifAI runs AI models in production from across AOI tools. It enables high-throughput and low-latency visual inspection with near-zero escapes . VerifAI is a smart toolkit to auto monitor a"
+        },
+        "adc": {
+          "evidence_level": "官網文字命中（未核實機型與規格）",
+          "excerpt": "Singapore, Taiwan, Malaysia, China, Israel and US. Unlock 95% of your fab’s hidden intelligence AI-ADC: End-to-End Visual Inspection, Automated. AI-ADC is our end-to-end solution for automating visual inspection. With tools for training, de"
+        }
+      },
+      "changed_since_last_scan": null,
+      "page_text_hash": "8888a4e550b8be30ee9683d0cda104647acb30902957f9529f04aa447c841477"
+    }
+  ]
+}

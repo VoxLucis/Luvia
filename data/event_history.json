@@ -1,0 +1,1835 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-23T16:41:54.631084+00:00",
+  "method": "依公司、主題、地點分組並比較每週新增標題；不推論已發生的廠區里程碑或採購。",
+  "weeks_loaded": [
+    "2026-11-22",
+    "2026-11-23",
+    "2026-11-24"
+  ],
+  "events": [
+    {
+      "id": "77ef566296aebfc7",
+      "company": "Onto Innovation",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-24",
+      "weeks_seen": 3,
+      "headline_count": 4,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 3 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "ONTO Raises Q4 Outlook as AI Packaging Demand Drives Record Growth - TradingView",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUR6VlJ2aDVzQTlCeGM4ZE1kdVFBZDhhZEstaEtta3NLTGptOFRpV3pRUGp5a24wZDkxSzVFSVFmT3hSSF9CRlFPOVUyM3VwV2xMaU54VXdfRUNKeVlkNFdkbEJISDhmdlpBeXFhNG4yVFM5ZHFiQUU4LWJ1M01DSGFRTnM3Q012WUxkN2hSVTE5eFMxVTBESjlLd3J1WGJCaWFBSnd2Y2h6VVpqNkFlM2xjR3ZuSWF4MDhDekllTQ?oc=5",
+              "source": "TradingView",
+              "id": "a7151f60a4a02e128a"
+            },
+            {
+              "title": "Onto Innovation 探討 AI 時代矽光子製程控制挑戰",
+              "date": "2026-11-10",
+              "url": "https://ontoinnovation.com/wp-content/uploads/2026/11/Website-Content-Overcoming-Silicon-Photonics-Process-Control-Challenges-in-the-AI-Era-Formatted.pdf",
+              "source": "Onto Innovation",
+              "id": "onto-photonics-202611"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Onto Innovation: The AI Boom Still Has A Price (NYSE:ONTO) - Seeking Alpha",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNXdSRldmTnNqTE9MOVJJMmd2bnVNd0ZBU05LeFNnWFJrX0NIZUw4SlRkRjFENVhBa1M4TVpCRDR5blZ3N0tBbURKZzhhMlYwdGd3S0twMTFqUFU0WDlmMWRqT2J6MnNjVVB2V3JnMFZZVTBTTWFwMnIwWU16UWdGQWZteVlkNzZINklVRE5GMA?oc=5",
+              "source": "Seeking Alpha",
+              "id": "3cdf484ad6071c8511"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-24",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Onto Innovation (ONTO) Caught Up in AI Physical Infrastructure Sell-Off - Yahoo Finance",
+              "date": "2026-11-18",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXNfNVNlX0FXZjVIamtJMmxYV0hDbllSZ0p6WFFYVVZ3NGlIektlZ1YwNVlmTjZveURZakwyS0h6SlE2NEZvc2VhY3k0OHlIQWxPZHRLOUFwVmxQRGc3dnZ4T2RLMnYxNTNISWlzZFEyNUlSMG1YR294Y0F1MUtvcTExQkEtdEhpcDNsdHFwdnRDenJ3QXFydnJsbw?oc=5",
+              "source": "Yahoo Finance",
+              "id": "b6a89f3642daa210f8"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "b6cc78eac7fb1c8c",
+      "company": "GlobalFoundries",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "weeks_seen": 2,
+      "headline_count": 5,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 4,
+          "items": [
+            {
+              "title": "Boston Dynamics Tests Atlas Humanoid Robot at GlobalFoundries Semiconductor Plant - 조선일보",
+              "date": "2026-11-18",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamt2VmhiaFlBdjNfSGcyX01zQ2hld1RUaVp2RmJhTUM3LXo4VnhiV1hrOV8xaTRzM2l3NHVaUFBOdE85c25TclBzZkc2VEZjbkpLSmdESEd6djgwMU5ndG5DUW9qTk9weTlxNy1COG1jU1pFTmVwUGs4Sk5lTzRpeXZfVUVrNFc0?oc=5",
+              "source": "조선일보",
+              "id": "83ebf1f17e08811b92"
+            },
+            {
+              "title": "Boston Dynamics & GlobalFoundries Expand Robotics Collaboration - Boston Dynamics",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXR3cXZCX1NCUDNGLUQwSVJyc0dWdy05dnBaN0VMcUx6LUY3emF5c3J1OU1nMS1BS0ZoTDYtNHpjV2dMX2JNT25IYlVKd2Jud3lUUFd4M2xmWnJab3l2Y0tGY19CaExRdHV6Y3JzaW1TamExUDF1WW9mRllWX0hXc3ZYdXg2cGxOaGVTODg0aDZFR1c2NUhqcll3?oc=5",
+              "source": "Boston Dynamics",
+              "id": "f33adfd0a144ae7e28"
+            },
+            {
+              "title": "GlobalFoundries to test using humanoid robots at its semiconductor fabs - Albany Business Review - The Business Journals",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUE0MjlmS1NKNmVkTUJ0WG81NzJUa3l5aGhBNjhkNGM0bFVQRjZSU2RIdm11OHpJbHpEVl9FLTlpS2tSdVNocEJEd2NKNU5GM284cnZxcDRBQkFaYmc2ZDRtRVk4Q2FaU0d5ZnZjWGNmNjFBbzcxcGtQZzlLenBIdVY0a21nMmVkX3RqSmVmNWl0MlZXX29JUWhR?oc=5",
+              "source": "The Business Journals",
+              "id": "a17408310fa0428413"
+            },
+            {
+              "title": "GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative - GlobalFoundries",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0l1QUFlMDRjTFFwek1KLWw0WFB3VDFCVGNnQTdwZVFDendWY2Y3UE5lZWxhekpBOXI2S2E1MGJqVHV4T1FicnVBWDQ3ZUc3d0pLSHBZdVJBNjhyQXRiZ0x6RGluWVhtQWhvT0RVN0pUbTM3ck9KM3hDSXBITU1laVZTOVRfU1luVzVhODYxQ1BILVczMEUxdndTd1dZMk44SE1WT3BhUXI2Skx0blduZDZycWJOTUJkR0dRSHFrQmF2bmhsNkl6RXJhcG0?oc=5",
+              "source": "GlobalFoundries",
+              "id": "f808e1a9d0ec6ba151"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-24",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Boston Dynamics and GlobalFoundries Expand Robotics Collaboration Across Fabs - Bisinfotech",
+              "date": "2026-11-23",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaC15dUl4cDJXS2kzb19jU0tBOEVWdFEwMlBSM21QbkJjT2JwZGlhM3J0S0w1ajdaSzhWd3M2VDRtdnhfRmpVWDNvOWxTUW1ZTG5mTTU1bDlzTWtjRFJ5LUlnWkpzamVDM1RKdXVEdnRUcEtwNmdyeGxtQUh5ZktVb2RTcXREckE?oc=5",
+              "source": "Bisinfotech",
+              "id": "64304088e0c3b5d709"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "b51388ae40cfeefe",
+      "company": "KLA",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-24",
+      "weeks_seen": 2,
+      "headline_count": 2,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Bernstein Lifts 2028 Wafer-Fab Equipment Forecast to $279 Billion, Names AMAT, KLAC, LRCX and ASML Top Picks - BigGo Finance",
+              "date": "2026-11-18",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44VnVPZU5XTUptcmlpUl9yR2NaS1JWbjJOandPOFJtNUlCRXZJVUg0bXpLUktVRnZycUxyaFI3SmtqSUNVTVNWM0NHazQ0WTRKcHJGX045QmFqcURsWFNWYXloSjlsUkVMcWwzQkh4VElFRkNjTnc?oc=5",
+              "source": "BigGo Finance",
+              "id": "61379e54b1c02a4d17"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-24",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "KLA Corporation: AI Infrastructure Demand and Process Control Strength Drive Earnings Expansion - kalkine.ca",
+              "date": "2026-11-23",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFlUMk5ETmNnNTgtZFU2cFdHVE41RVpQeEJhaFB0Q0RoV1E3QUNwTG1zb3lBUnREck45aWRuaU5WMGJ4T1pWaExIRUd2LVRaRlBzMXNYRGxCc3BxNGRraUQxbjY2bjVSUXVaZ1pFOUhLc0FuZDR5THRTOFFDUXRxcTZCYnVXR1hvTDVRWUQtSm52UW9VZ3Q5eXNGMUNmYUpGc19McDdwc3hNTG8ybGZ5djhHdFl2WXJQeUJQYU5MRFhEWmVqVEpzWA?oc=5",
+              "source": "kalkine.ca",
+              "id": "4e245df7a408037beb"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "aae6ce75701b3033",
+      "company": "Intel",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "weeks_seen": 2,
+      "headline_count": 2,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Exclusive: Could An “AI Nose” Have Stopped Intel’s $600 Million Israel Fab Disaster? Inside The $9 Million Bet By Ainos To Give Chip Factories a Sense of Smell - Wccftech",
+              "date": "2026-11-22",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUmpINUpEZ2dsUHRHaHU3S3hvemhZLTVDMW9MOFl2S0d4OTZLMjZxU0s0cnUxMUg5Uk0zX0o0QzN5enJGWmNJbFdfR0xUUVZhZkplaGc1ai1UTVF5SS13TjVYSUMwLV80SFVOSnpXdGd1Xzk4NXprNEdYSm9yYzRhZFlQZUJOaFBfZmNuaE00TE01M0JyT0xWNzB3MHdCQjliY2lJcmhBMWxJZUZ3SzRaQ0U5a2xUcXVuZjh1aEZJS2NCZEJ2VVFhZ1JDZGVsUmM1X2lfZGx4Sl8zV1k4R0pSY0h6WEFWUGxhVjVkZnNkS0hSeTI3QjVRRUhGU2p5WThvWjlKN9IBigJBVV95cUxOUEVjR2p3eGxkWWVQMXFqN1FkYU05M0syQUZnRXdQSnFBN0huaTNYSW1xN1BPX1RhV0ZxVHItZVlqbFFQRTNvQzR6cnVlU0p2OHBSVzhPZVcyS2JybW1FdC1yZElrY1BlYlNqQkZrS0RhZGJQTVRLYmpyUWNXSDRzTEo3RnJrTDJyczVyWjdaMmg3ZkFVV3RCblF0R2xCTHFTV1RvOWlXMG1XYWlCaUF3UWFZbER2S3JTYTNtWUlWeU5vRzd1ZmZvR293TmJ0Nkhocm9uVllVVFA0c3VzNTlleGpUWngtU1ozdk1va2hOZ0RwWU9PS3J1TlFPZE56S042bU5Uc3RtdWg3UQ?oc=5",
+              "source": "Wccftech",
+              "id": "454cc9bcd19f6922c0"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-24",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Intel puts $600m price tag on Israel fab explosion and spec gas leak - gasworld",
+              "date": "2026-11-18",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUcwckxzRnI3MUtObmZNMXNiS2VVREx6UzhJQzRhVmJOUTNtaXE5U3BTTm1tYlh6TjZVNVRfTDJVYXhzY2k0bEJMVTZRRGJJb2FmM1BldkZra2x2a05remNwTnRFMndMZk1tOGgwWEVjc1NTS0hKMlRUYUNqQnRtaEhDRHJDWHdtcHRST0hYWlRzUEVfODJFYnVMRFB1YnNhRVEtY2luNnl4a2xzSFBJTV9DSWFpUQ?oc=5",
+              "source": "gasworld",
+              "id": "2f2b07429333f35054"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "71ee70ba98c401b0",
+      "company": "UMC",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-24",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "UMC Soars 21%, ASE Up 23% as Taiwan Bans Short Sales to Halt AI Chip Rout - TIKR.com",
+              "date": "2026-11-23",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTFyY3FEZ1oyT1FsanpPaVI1dkFsZXVoeU5LaU5BSTYtRk1YQW9zdW5OOVBudW4zbUZqWlBNRjh0Rmt2MU4yQTV6d0FpcXVmZ2dtVno3a0NXWG9Lb1RicFJmT0dBU1FUWE12OGF4b3kyTGNkSVdId2NVMFRfYWhDTWl6T29Gczl6OTg2bTRvVkFZUDkyRmxvNFF2U0ROdw?oc=5",
+              "source": "TIKR.com",
+              "id": "954bc6fd6844a372a2"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "42682ecbd1854cf7",
+      "company": "KLA",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-24",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "KLA Corporation: AI Infrastructure Demand and Process Control Strength Drive Earnings Expansion - kalkine.ca",
+              "date": "2026-11-23",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFlUMk5ETmNnNTgtZFU2cFdHVE41RVpQeEJhaFB0Q0RoV1E3QUNwTG1zb3lBUnREck45aWRuaU5WMGJ4T1pWaExIRUd2LVRaRlBzMXNYRGxCc3BxNGRraUQxbjY2bjVSUXVaZ1pFOUhLc0FuZDR5THRTOFFDUXRxcTZCYnVXR1hvTDVRWUQtSm52UW9VZ3Q5eXNGMUNmYUpGc19McDdwc3hNTG8ybGZ5djhHdFl2WXJQeUJQYU5MRFhEWmVqVEpzWA?oc=5",
+              "source": "kalkine.ca",
+              "id": "4e245df7a408037beb"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "05dec85c1f702b71",
+      "company": "Micron",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 2,
+      "headline_count": 7,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Micron Suspends Work On $4.5bn Taiwan Plant Amid Labour Row - Silicon UK",
+              "date": "2026-11-09",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwNmNFWXZudEpTRWlHU0MzLW1UTTBoNDgzWmRUVnUwSDBuVG1ORnV2eDhRYkwzNzZXT1BVVmlpUV8tRjRvbWs5ZndxNTRISVJxX2hldVRvcjBrRTNlYjNaUTVpNDdjMUJHVHp5bjJlcjFDbVBxMEJHdS1B?oc=5",
+              "source": "Silicon UK",
+              "id": "697bffd7895b7c9bd9"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-23",
+          "new_headlines": 6,
+          "items": [
+            {
+              "title": "Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start - digitimes",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdG5WRkRZYi0yZ0p3UThScHY3emx3QW94Q0FpWHcwYU15OFZUOHVzeDJXOG15bUZyaHgtSXBjMV9iQUxGVTFmTy1HSmJGZVpoNTF1X1J5djliaUFXdTFlUFFlOE12RVpER3BFTkZiOFJRRnFBTlJaYVpFaEtCME1ER1RDQkF1YnotYlp0cDA1bmw?oc=5",
+              "source": "digitimes",
+              "id": "ba15699cc43771045e"
+            },
+            {
+              "title": "Micron's First Tool Moves Into Singapore HBM Plant as Taoyuan Labor Standoff Becomes Biggest Variable for Expansion - BigGo Finance",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KYmFnYlhwQlp0MnhvMGhubkRaNUppLUY4c0RkT0JiOXBuLVAxRTFyUi1wVzZxa3VzOTVCQUVMX3RxYnVTWmxRTldHSjVxRWtsUVdRVGJ0aDFMMzROczR4QjA0M3hrbUN3Rk92Vk5hOXZndGNCV0E?oc=5",
+              "source": "BigGo Finance",
+              "id": "7d301230fcabe92560"
+            },
+            {
+              "title": "Micron marks first tool move-in at Singapore HBM advanced packaging facility - Singapore Economic Development Board (EDB)",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjZ6clZHX1Z6QkhFS2xfa2o1OHgxMDZ6QWU5OTM5eEIyTnJ2aHZucm4tTGd3c3lsR3JsLXhqTmcwQXJfVURaTnhSZGlWbTZVY3VVMmNaZm5yN3AxbmpjVGN4WVRpaG9rSW11UjdQZ2J5ZVc3c0hFVjZXSDhuQ0FIOHE1LU9MVFJCMHNQVFZQV3FLdlgwR1NWc3A0TmJTa3pVOHd0QUthS2RKS1FwcnNxaUV0T1BBc1RNRUNmNg?oc=5",
+              "source": "Singapore Economic Development Board (EDB)",
+              "id": "7368cdedadb8880f7b"
+            },
+            {
+              "title": "US Micron moves first tool into Singapore HBM packaging plant, output due early 2027 - TNGlobal",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmtGSGVTNm83ZGl1eXRRb0JBZTROdG01T3B2SWNmV1c4NGI4Mk9ndHl4R24xN3RFdHFRUDBZMlE3MzRvZWszMTZnTnVPd2dBY2ZlZTlsUXJGU1c0c0lOSDh3YzZSeHRNbm1hNEVkT3RrNXV2RFF5NXpUSTV3NEpmanBvcHYwU0lMQjRHMjhtS1EzNnhIVFVXdVpoVkktZ2V4MVZ4MGtWZU1XZ0hnMUhhNC1sWnhKc1AxbGp3?oc=5",
+              "source": "TNGlobal",
+              "id": "488cb5aec46fe4a0e2"
+            },
+            {
+              "title": "[News] Micron Singapore HBM Plant Receives First Equipment Ahead of 2027 Output as Taoyuan Labor Dispute Persists - TrendForce",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlg3cUNlSkI1T2Y5b3VxLVhSUDRxaUR3S1pydGpoX3NWQkI1R2pNX09oOHpqcEkwU0l0V1F4dE41ZDlBODJSM0JSVTBKNG5QQUtQVjVKWHlkVFNjQ2dGMktKVmpWcXd4OC1nVlpEUHJBSmdWbzV1RzFJX0UwZmdxRzhyeWNaSTllZ3R5LVkyV2xIblRTQ3I1aUFobmc1V3FxZ1Rsa2VQSVFyc2Q5NnJUS1dCOTFKT3FURXBXRlRIdDNHSDNMcEtmZ3Awd1M5Z0w3RkswYXRTVm1leDEyVkJoUDBpN1RtTTNjdVlz?oc=5",
+              "source": "TrendForce",
+              "id": "052477fb9b2c13b3b2"
+            },
+            {
+              "title": "Micron Pauses $4.5B Taiwan HBM Plant, Report Says - shattered.io",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFV6em13cGpITmZ2VFh0ZkVhdFR6Z2lmS1ZSR1ZOUlBGaE8xc1ljVm5KU2dqV0VieUhwOUtPZ3BsTE91dkJ1WmVTTEhjS1JacnZnRFBRcEk1Rm9FNEs1c2gzV05DVWR3ZDhkOGdkb0Rwa2szMXh0MS1FazlrNjRsOW5nUWtiQQ?oc=5",
+              "source": "shattered.io",
+              "id": "366ad62af0295337c2"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "3eff5724bc29fca5",
+      "company": "Intel",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 2,
+      "headline_count": 4,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic - The Motley Fool",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORmVJVmhFaG0zeHlYMEp4WDhKWWkyRFA3UFNqTzhWMzNGVmhoWFgyZS1ISjlSRlU3b2NHVzNFNEhvaDVBeS1NanpjUEFQT3pTMDBmc2lVbW5YRklTMDJuWE1aamgySnJNdDNRemRMQ2U1Njh5eTZqaWFsb3g2WllZNEFKa0ZzVm9hbU1oTG5nTWE5b2lEbExFdkxfWklpRlpTUThFYnRMQlVZWTI0VDV4ZThCOUsxOHcwVkR2eE41QkNQTTlaSFM5aTU4RURMbFA2UDVuRktRWmZVRENkNTdQZk9kMnFuWGUwakE?oc=5",
+              "source": "The Motley Fool",
+              "id": "86af3e126270ee081a"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-23",
+          "new_headlines": 3,
+          "items": [
+            {
+              "title": "Exclusive: Could An “AI Nose” Have Stopped Intel’s $600 Million Israel Fab Disaster? Inside The $9 Million Bet By Ainos To Give Chip Factories a Sense of Smell - Wccftech",
+              "date": "2026-11-22",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUmpINUpEZ2dsUHRHaHU3S3hvemhZLTVDMW9MOFl2S0d4OTZLMjZxU0s0cnUxMUg5Uk0zX0o0QzN5enJGWmNJbFdfR0xUUVZhZkplaGc1ai1UTVF5SS13TjVYSUMwLV80SFVOSnpXdGd1Xzk4NXprNEdYSm9yYzRhZFlQZUJOaFBfZmNuaE00TE01M0JyT0xWNzB3MHdCQjliY2lJcmhBMWxJZUZ3SzRaQ0U5a2xUcXVuZjh1aEZJS2NCZEJ2VVFhZ1JDZGVsUmM1X2lfZGx4Sl8zV1k4R0pSY0h6WEFWUGxhVjVkZnNkS0hSeTI3QjVRRUhGU2p5WThvWjlKN9IBigJBVV95cUxOUEVjR2p3eGxkWWVQMXFqN1FkYU05M0syQUZnRXdQSnFBN0huaTNYSW1xN1BPX1RhV0ZxVHItZVlqbFFQRTNvQzR6cnVlU0p2OHBSVzhPZVcyS2JybW1FdC1yZElrY1BlYlNqQkZrS0RhZGJQTVRLYmpyUWNXSDRzTEo3RnJrTDJyczVyWjdaMmg3ZkFVV3RCblF0R2xCTHFTV1RvOWlXMG1XYWlCaUF3UWFZbER2S3JTYTNtWUlWeU5vRzd1ZmZvR293TmJ0Nkhocm9uVllVVFA0c3VzNTlleGpUWngtU1ozdk1va2hOZ0RwWU9PS3J1TlFPZE56S042bU5Uc3RtdWg3UQ?oc=5",
+              "source": "Wccftech",
+              "id": "454cc9bcd19f6922c0"
+            },
+            {
+              "title": "Intel is a leading semiconductor manufacturer that long dominated the global CPU market but has faced challenges as competitors advance in AI and chip technology. - Britannica",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybHJpMDFnWFdYU3huZ1YzZnR1U0N2ajhLR2djbzQxMjFUWjZEdDlYQ1JzcXRuYUtVc2ozd2toRnhSNjRCRHIwYXg1NFBhc1E?oc=5",
+              "source": "Britannica",
+              "id": "264764a4e22ea50575"
+            },
+            {
+              "title": "Taiwan Semiconductor Falls 4% as U.S. Tightens AI Chip Curbs on China; Intel Drops 3%, AMD Slides 2% - 24/7 Wall St.",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbTYxU1FmUU5YaC1IY0pVU2FNWHVqZkpud3MybzRhZW9MR3RYNDdwUGFzSkJWTEJELWVWcFNIWU1GcU94QnRJRDl0OUYtTXVyeFlacWxLQnVWRTh0ZmVKaEwyNHd1MUtNdWZ6X1diRW5IZVJOeHVWQS1pRndMQTdUbGw0ODNZTmdYUjRCRUx0VHFtZDdvT3k0clRGdTRDYS1tek1hcEFGLVVjaUZ2bzdRdDJfOXh3RGdVMTg5S0ZFS0txdm8xWmJJaWQ3RFItZ2hNRkw2ZA?oc=5",
+              "source": "24/7 Wall St.",
+              "id": "7c5edbe30193d7209e"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "30262b5f5f22301f",
+      "company": "Samsung",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 2,
+      "headline_count": 3,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "Samsung, SK hynix, and Micron form unlikely alliance to standardize robot charging as chipmakers push toward unmanned chip fabs — standard specs would allow manufacturer-agnostic charging equipment - Tom's Hardware",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPZkpzbF9CMl9BMkhqcnk2SGE4Sk9QVWJ6YlYxVzVib052c3NqWUdneUR0U3B3NnJoYzhmYzhTeVVUbWdpc2o3R1owbG9jbEVmZ3djbVdNaWVCRVpEcU1NbVFCTzNMaW5BRzZTQjhaSFcwcXBVZFZPbU94eUpZa1JtSktTalZDQkpCUDRkenpXT0lwb3M5NFN0Snd0OFpWUTljRU80V0UzbWtLVV9scWNkQmV2bFpDT1MwWldESWJTZ1lrbUwtY1UzajUtcHl0QXlMeGQ2dGluNFE1bWNodDFCRldkOVB4X2JTTnN2RjRaUDVuRGs1REZ6RzJNN294TlY3NzEyQXJJZ3hwMDRwVFhwbGxFNkpMZ3ZpdjFhR3lab0xjNE1MOHJXNzU3NmR0S3c3bVZSQUg2aXl6Qlo2NEw3ZU5YR0gxTXdRU3JwOUpkbTZtT25JSUVDZW9vNjhjMExITDVyaTBSYTJwSEk?oc=5",
+              "source": "Tom's Hardware",
+              "id": "a6c5eaa97cd43bde0f"
+            },
+            {
+              "title": "Elon Musk’s Terafab targets 1 million wafers a month after 2032 — planned 700,000 monthly memory wafers could rival Samsung’s entire estimated DRAM production capacity - Tom's Hardware",
+              "date": "2026-11-10",
+              "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNOUllRG9FRnl4andMYVUyZU14WXUzM29MR2FCdzdzRUdsemgwYXR6eEp5LWZvTjZwWDk5Q0NlZEVDcmhZMjVjUC1oNEdLNmpWM0RVN2VlRTZ3TDlRQXR2Y002NU5WczZoczVMdksweEo4SE5PdUgzdHhoazJ3UVVMYzZhRm1MSE1kR3JLME1UejlNQnVvU1lXLUpkbFVIWnhBbmZlWHpZQzh0T0pzdm1uSGpUSkhlRERuNDJRbTVjME1TRGpJNWdseW1NeVZKQTI3cVVjQ1RjT1JqeUhRaFBSQzFiZVVNMzlDVDJSdHFqVFZkdmZxeWZHb0hDRmt3NDRVZFNZWHFNcUNNVENWT29qWWlkOVhjZmdObG9rZTNNVFNEUmZ5aEROT3BOWGJZeFVWSnBuclEtVE1ac0RabU1oOTFCcw?oc=5",
+              "source": "Tom's Hardware",
+              "id": "b85ab7927bc083c403"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Samsung, SK hynix and Micron reportedly explore shared robot-charging standards for fabs - Mezha.net",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQXYxU2gwT3Uxd0hRN1o1Y0ZFTUpSZTM5eFNkdktVQU1OT0ZLNkxWOTRhY3o2dkVvZmxqNEszbkpqY2drVE1Ed1lVanNkeFR4Y0J5LUI1ZmFZeGdkaG9zNzhEc0czcnlUdFBPem9yOFBKc2duMU13Y1ExbmI2YzlOOU5B?oc=5",
+              "source": "Mezha.net",
+              "id": "88ea513e9e32945ebf"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "3c179611bfe78e58",
+      "company": "Applied Materials",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 2,
+      "headline_count": 3,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Applied Materials forecasts quarterly revenue above estimates on strong AI chip demand - Reuters",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVJYSC1hal9odmptblkwc25YV0pZQXBaaTd0SGFyMW5tT1ZtNzZaTlN0OGFnY2I0dnI3ZmZRaXpwUThvZW5kay1tMElieklOVVZLTDFBTmtQbkpiSWpUZzlLNnZPRmlJSkxoWVZhZGlveTdzNjVsN0ZtZUVMMnk2REQtYmRHRzQwMDhNMVBYQXVQbjBpcHNNYnFWWldTbUItYV9pT1hMYkwwZi1jS0pvZXp4eHJhbHE4OEp6RW13?oc=5",
+              "source": "Reuters",
+              "id": "08930f773f26a1f632"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-23",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "Applied Materials to Double Equipment Output by 2028 on AI Chip Demand - THE ELEC, Korea Electronics Industry Media",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GcUJ3V0NrdThIZEtXMUpQei1RVjVpSDVSS2Yzc0tmV2FvMDVVRzJtR1FkS2QwX0pHbXBKQmp4bGpONzBsWWZ6M3JTc3ZZXzVlQXZDVlZ2bnRPY2RSbE8tbHdIdDlINjQ?oc=5",
+              "source": "THE ELEC, Korea Electronics Industry Media",
+              "id": "575864ead467c3ce90"
+            },
+            {
+              "title": "Applied Materials sees semiconductor systems growth above 40% as AI demand drives record results - Proactive financial news",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWmdvRnVtdU02cDRJVVVTQ3hCZjVwWWotcjFPNWRFR2VEYm9zaXNRcTMyQWZjU0xVelJ5cmFEemdrUW0tbE8tY1p4OGlBeGE1SFRlX2tDUERRSjZMaFVqd1RucEtCYXNjLTJPVVBjc01oM3JJNHVvbmFJTVpwbzBQYWFsREhYM0hhb1FjTmkzdWlKZUk0YmtnT0kzRm5CU3F4M29vaWJaM0szQkpRd0dEemZqNEJ0MUozRkhyZF9OdUF0RVNLbEZBYUtkc2VSQ3ZKUm5NNVpVakVKbkVobDg5NVUwXzdYaGUxU2xoblpfZFhaT1puc0JGTUdR?oc=5",
+              "source": "Proactive financial news",
+              "id": "80d49d95b98ee1800b"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "43ad463be229d830",
+      "company": "KLA",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 2,
+      "headline_count": 2,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Bernstein Lifts 2028 Wafer-Fab Equipment Forecast to $279 Billion, Names AMAT, KLAC, LRCX and ASML Top Picks - BigGo Finance",
+              "date": "2026-11-18",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44VnVPZU5XTUptcmlpUl9yR2NaS1JWbjJOandPOFJtNUlCRXZJVUg0bXpLUktVRnZycUxyaFI3SmtqSUNVTVNWM0NHazQ0WTRKcHJGX045QmFqcURsWFNWYXloSjlsUkVMcWwzQkh4VElFRkNjTnc?oc=5",
+              "source": "BigGo Finance",
+              "id": "61379e54b1c02a4d17"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "KLA Corporation Climbs Amid Broader Semiconductor Equipment Interest : 기업주식정보 : JKN - 재경일보",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZVURUaUtIb3VRN1RRdi1UaHN0QWptbzZHUXdXdm5rbnBWdUFGekQ4V3VCRmh3aEFuaHFUYkFIRjgxNlVXQTJnUnJBT01OUm1TMUNOQS1kNGJIMmxWcG93QXBn?oc=5",
+              "source": "재경일보",
+              "id": "23efb4e985460a961f"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "5fb95755fae2974c",
+      "company": "台積電",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 2,
+      "headline_count": 2,
+      "change_status": "有新標題待查證",
+      "change_summary": "目前保存 2 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Overseas expansion of Taiwan’s TSMC gets NT$168 billion boost - Taiwan News",
+              "date": "2026-11-14",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92VHI2MVpTVFliMlh6ZTV1ZnVCbno2X2VqVHo5TG1wMnU4WUxPUjBQQXFRUXFwNkdiT3g3VjJZUldLOFYxRDhHcm1EcDluc3FqNU1tVA?oc=5",
+              "source": "Taiwan News",
+              "id": "3ffd4514873dcdb780"
+            }
+          ]
+        },
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "TSMC banks record aid as fabs expand - Taipei Times",
+              "date": "2026-11-15",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzVHRXRS1EZDlKLUkyak81dkMxOGZBZlk5aE01TzZlTHBKMWxnbUhWUkpuMXNiZGtYZlA5MWVKSUMtU2lGcVZKUG4zTzBDc2JzUXpFSmVZay00ZHdRV3hQWVlSRDhpNHhZM0FWMjNENGJaMU5qSEE?oc=5",
+              "source": "Taipei Times",
+              "id": "ee30d639175fd4d789"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "c0c6d3b44049c47f",
+      "company": "Micron",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 6,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 6,
+          "items": [
+            {
+              "title": "Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start - digitimes",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdG5WRkRZYi0yZ0p3UThScHY3emx3QW94Q0FpWHcwYU15OFZUOHVzeDJXOG15bUZyaHgtSXBjMV9iQUxGVTFmTy1HSmJGZVpoNTF1X1J5djliaUFXdTFlUFFlOE12RVpER3BFTkZiOFJRRnFBTlJaYVpFaEtCME1ER1RDQkF1YnotYlp0cDA1bmw?oc=5",
+              "source": "digitimes",
+              "id": "ba15699cc43771045e"
+            },
+            {
+              "title": "Micron's First Tool Moves Into Singapore HBM Plant as Taoyuan Labor Standoff Becomes Biggest Variable for Expansion - BigGo Finance",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KYmFnYlhwQlp0MnhvMGhubkRaNUppLUY4c0RkT0JiOXBuLVAxRTFyUi1wVzZxa3VzOTVCQUVMX3RxYnVTWmxRTldHSjVxRWtsUVdRVGJ0aDFMMzROczR4QjA0M3hrbUN3Rk92Vk5hOXZndGNCV0E?oc=5",
+              "source": "BigGo Finance",
+              "id": "7d301230fcabe92560"
+            },
+            {
+              "title": "Micron marks first tool move-in at Singapore HBM advanced packaging facility - Singapore Economic Development Board (EDB)",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjZ6clZHX1Z6QkhFS2xfa2o1OHgxMDZ6QWU5OTM5eEIyTnJ2aHZucm4tTGd3c3lsR3JsLXhqTmcwQXJfVURaTnhSZGlWbTZVY3VVMmNaZm5yN3AxbmpjVGN4WVRpaG9rSW11UjdQZ2J5ZVc3c0hFVjZXSDhuQ0FIOHE1LU9MVFJCMHNQVFZQV3FLdlgwR1NWc3A0TmJTa3pVOHd0QUthS2RKS1FwcnNxaUV0T1BBc1RNRUNmNg?oc=5",
+              "source": "Singapore Economic Development Board (EDB)",
+              "id": "7368cdedadb8880f7b"
+            },
+            {
+              "title": "US Micron moves first tool into Singapore HBM packaging plant, output due early 2027 - TNGlobal",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmtGSGVTNm83ZGl1eXRRb0JBZTROdG01T3B2SWNmV1c4NGI4Mk9ndHl4R24xN3RFdHFRUDBZMlE3MzRvZWszMTZnTnVPd2dBY2ZlZTlsUXJGU1c0c0lOSDh3YzZSeHRNbm1hNEVkT3RrNXV2RFF5NXpUSTV3NEpmanBvcHYwU0lMQjRHMjhtS1EzNnhIVFVXdVpoVkktZ2V4MVZ4MGtWZU1XZ0hnMUhhNC1sWnhKc1AxbGp3?oc=5",
+              "source": "TNGlobal",
+              "id": "488cb5aec46fe4a0e2"
+            },
+            {
+              "title": "[News] Micron Singapore HBM Plant Receives First Equipment Ahead of 2027 Output as Taoyuan Labor Dispute Persists - TrendForce",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlg3cUNlSkI1T2Y5b3VxLVhSUDRxaUR3S1pydGpoX3NWQkI1R2pNX09oOHpqcEkwU0l0V1F4dE41ZDlBODJSM0JSVTBKNG5QQUtQVjVKWHlkVFNjQ2dGMktKVmpWcXd4OC1nVlpEUHJBSmdWbzV1RzFJX0UwZmdxRzhyeWNaSTllZ3R5LVkyV2xIblRTQ3I1aUFobmc1V3FxZ1Rsa2VQSVFyc2Q5NnJUS1dCOTFKT3FURXBXRlRIdDNHSDNMcEtmZ3Awd1M5Z0w3RkswYXRTVm1leDEyVkJoUDBpN1RtTTNjdVlz?oc=5",
+              "source": "TrendForce",
+              "id": "052477fb9b2c13b3b2"
+            },
+            {
+              "title": "SEC Wins 5.8 Billion Won HBM Inspection Order From Micron - THE ELEC, Korea Electronics Industry Media",
+              "date": "2026-11-10",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BcnlySWFSQkYwdldKUzRmVkNyaVdyeEU5dERrMmhmYk53RUVYUVpHY18wN1JOakZPY2lJT08taXo3RzJENzZhQWFub1VzSmdqTEhDUEVwejZEd255NGRtM05OX28yUTA?oc=5",
+              "source": "THE ELEC, Korea Electronics Industry Media",
+              "id": "d1cc724a3e2093f044"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "c20d9c7013a88ab9",
+      "company": "SMIC",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 5,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 5,
+          "items": [
+            {
+              "title": "China's AI chip shortage to persist, SMIC says computing capacity tight until late 2028 - 디지털투데이",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQVJLaXEzRDl0ZTNma2Y5VllNT3hpWjBET3ZsVzFjSm5EQkFQYjRLRk1rT3o3TVVIT1gycDhxa1FNbzlfcEU1dE1FN0htcktYV2c1N09zMkJVN0ZNOVhhdWctZmJ2dnIzNlhEdkJ6YnAtbnprbGtSYm9QTDdXMUtGaC10Xzc4V1FYSEdOQTRCa0djcVRjY0NyTzJwMGVSVi1mQm1RWjB5cDlRYzNKRmVpV3JUaks2ZzI2OWRaVTZOekR5eGJMNzlyak13SQ?oc=5",
+              "source": "디지털투데이",
+              "id": "67f925ec7c9d6d3674"
+            },
+            {
+              "title": "SMIC: AI chip supply chain to remain tight through 2027 - 联合早报",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcUZpeGxVOEtUcm0xb0pzRUxBcUJrVHBzOTNVYkoxZW1rQzN3ZUswUTVUTFB1cVFRX0ZWbDgyQmJOVWZjZDhVbm9sSDRwbWhwRFRDVjRJOTA0dFVDanJOdXY0VDBqUWd4eDdwdUdvYzN2UHNKOEtDeDFVMWdqWWJBMjBSTWtSRlVhdzBpcjdvOGp4OUQ3VXc?oc=5",
+              "source": "联合早报",
+              "id": "f53697086ae71a9bcd"
+            },
+            {
+              "title": "SMIC co-CEO sees 2026 revenue topping $12 billion as AI demand stretches chip upcycle - investingLive",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlFZM284UkEyNEF0dzh1bF9pTkNNVnhiaUVhV1hoS2JFeGJIUXZnRldVeEw3VE9yWEdvT0xDZmo2VVl4d2hKOEsxQzZnT082WDFQdlQ0cW8wakluWTYxblBKZ0FVeFRmM1RBTzk5ZzZvLTAtRkxrdlpWbFoxaGhsT01mbmZSZmdZd2k2NHFkcjlLMjJEbUR3RUJNQWhIc28zSjk1M09hVmx0OThveWphd3dRdGtCT01Vc3c?oc=5",
+              "source": "investingLive",
+              "id": "1734485d34b908add9"
+            },
+            {
+              "title": "China’s SMIC Doubles Profit, Posts Record Revenue on AI Boost - WSJ",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1UwVEFUV2t6MDF4SEl1NERkQ0pJN0NEVFh3N0Z4aXhYWFExdjI2d3lDMlV2VkZialMwc1NIRWRzeUo2T0ZIV293M1A2emFuNkphM05zdzZzN1cteklNQkEzZGRVaDdsdmt4SWhSSzZoQ1dheHpvQk5zWDNRekYxVWVWWlpiR3hSdnRmN0YzM0xLSnBGWlZzZnlNdFRUaWIwNkdwTnJtZ1BfbW1QMDdRQldMbjJhOE5YZ0E?oc=5",
+              "source": "WSJ",
+              "id": "6a4f62fd5c1f7775e8"
+            },
+            {
+              "title": "SMIC says AI chip shortage lasts through 2027 as fabs hit 97% use - Startup Fortune",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2g4alJNZWNPYU5lRHdCZ29KRHNiN3p5Vkt0dFNaaG5wMHlQamc2bGhPanhTbWw4ampRT0RXV3JiWkFKQlQ3SElBZ2RPZXZFWmE0a0xHOVQxSTZVN29wdkt1WEJHcWxWM1VqblFndElVZHNqRHpLYnRMTVNWRVJTd3JUaGFwVzdfVkxWTzF1cHVDYUx6cU9n?oc=5",
+              "source": "Startup Fortune",
+              "id": "0f9f6ace86b85a21df"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "88450f27324f7a73",
+      "company": "SK hynix",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 4,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 4,
+          "items": [
+            {
+              "title": "South Korea's SK Hynix Says HBM Drove 42.8% of Chip Exports; 'Trinity Fab' to Broaden Supplier Ecosystem - BigGo Finance",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PbTZNUWpfTzVqRFg2bWpCbWVtS0x1SC1tMEVma0xkNkt4Sjh4OXB0cHNZdUtoUXVEMHlDWlFMQmNJcGRuYmhxSjlGdFhfYkRlSFo2SVZqS3hKX2twYW14eFI2ZTVRMnM4dHVFRWFmQmNEeWNyenc?oc=5",
+              "source": "BigGo Finance",
+              "id": "8495200fc46d32dbf3"
+            },
+            {
+              "title": "SK Hynix in 24/7 race to complete colossal chip plant - Nikkei Asia",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGNsc2RmdE1rb3RyVzd2TjJjcWlTWTNhQWFNM0xyUUFiZDFvb1drOVJ1MkhfRUE1N3dRTFdZbTNpT1FGWGc3UE15NFQwanlIUlNZXzUtZ0lwdnQ4WlpmWE1RRVlrMGlwWWgzb051R2VNQlNfNnpHMlZxYUp5ZDJsNFhwYXNrS2NJTEdobmppN3BXNHF4TjhEdkRCVlhCSkdfcHFwNDU0cTFjZw?oc=5",
+              "source": "Nikkei Asia",
+              "id": "9869241c38624143bf"
+            },
+            {
+              "title": "SK Hynix Trinity Fab: $1B AI Memory Supply Chain - explainx.ai",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXZyeGEwZ3Nka1d1VW8wVXVoemRsREFVZllEUVQxUF9mRjlETHR6ck9kazRBTW96Y1dNTVpRckRLUFlXUUFOMmh4Y0JRTFIzT05IMW90R1VJbGhPWHBaX0hTbjdkNWZBYXBPUGdhSjB5S1o4V2pBWl9icDBEMGhaWmJ6dWYzRGZFM0NZT3l3SHdQN19TZlNV?oc=5",
+              "source": "explainx.ai",
+              "id": "504895074ac8cab144"
+            },
+            {
+              "title": "SK hynix to expand US workforce to deepen ties with key clients - The Korea Times",
+              "date": "2026-11-09",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3luWktDTWczTmdXQ0RmQnNvSDVTa2J4VXN6dXFMS01sbGZjV1NoYlFHenZ0ZGttYi0zQThUVURyakhXcHJrVy14NzAybXNtazFTYklkMUstenhERzJIT2JDaVpHTjYzWVZneXNFSE54c1pXZldFWkF5Mk5kQTlEemxGZk5nbVh4X1JkdWliN0dScmNVV3QxZ0hZQl9zV3RvbXdrMTJmX1YwWnNQbzk3WElpZEIzQzc5VnhJbNIBwgFBVV95cUxQWmQ1SFVqRVo0SVlRWnV1ZWladUw1aWsydGd5dGQ0eWQ0VVUtdWs0RWZ0T3NaMFFrZ3lFR3J5OGozTWdZR3NVeUFPeU5oRWZIdGpqMWNJbjRuNmpYQnB4RVVrUEhaMVpNcGE0eHN6dmI4aWFXX0puSnBVdnRESS00SzBHY1R1TVczSlUwVDNRM2Q4VlhpSlp0X01UZl84UnNLcUhfd1FXT092R3BFTGE5djFiWmFmM0lVNlRoWkI4Ylg0UQ?oc=5",
+              "source": "The Korea Times",
+              "id": "2a1465f868d7d84935"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "940e9dc6401ff792",
+      "company": "Samsung",
+      "topic": "先進封裝／HBM",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 4,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 4,
+          "items": [
+            {
+              "title": "Samsung Exynos 2600 Mobile SoC PoP with FO-WLP and Heat Path Block Packaging Technology - Advanced Packaging Essentials - TechInsights",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnBRanVnbXI5b0o2MmdVZDhOR0NicWJoUEl4Y0lkWC1IUHEyNlA1Wm16N0ZpbG5IUV9LVUxZdnFuY1AzX1lFWk5YY0ZlUGw1VldKQ3ExMDdRVWZtSjBqQm9RZm9oQWVzVVhNYVM1aWRfOEVYVUdsNGRoSnFubDZzZ2tGQmphVnFNQUxQVXAwaU1QajEybU5OODBDUlRMb1lGc2JONDF5Qkt0VWUzenJYT0RwWE8wVF83dDZqQjljLUd6Z3c?oc=5",
+              "source": "TechInsights",
+              "id": "b82db1ea50dc5f20c6"
+            },
+            {
+              "title": "A ‘semiconductor heart’: HBM hub in Chungcheong ... Samsung bets on advanced packaging - 매일경제",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82OE5WYVZzOEgxbzVSVU9LR0pNcnJLVVc4eDhKNzJIZVVoaUVMTlphSWlDSk1BVF82clRLZFFIM2F0T2NLdmhnTk5ocUY5bGRpNU5j?oc=5",
+              "source": "매일경제",
+              "id": "bb811d025b41026084"
+            },
+            {
+              "title": "South Korea’s Lee announces $34B Samsung investment plan for advanced chip packaging - TradingView",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRTE3NVd1VTVuRDZfMGJPUEgzSEZfeTByQnJOandGdzhDV24yd0RHRkZMNm13dEQ2VlJQakJVTzFpTk1OMG5PQWppRjNQUXNyYWRYU20wUy1wRkZKbHg5NVp5V3JodmFKZ1ktQlVqQ1RJLXBILU5OTTFRNi0tUUZScEwwNW1Ib0RiTnY1Y2dFeGliN2RpMmNzaTlUVzhUYmpsb1VQOTlocUJtZjM4cUNyWUFXRTBfdUMtZXZsc0NDTWVKaTEwY2dLZDJNWnZ5RnVZNS1TVG11Wmp1SUhGVEpic2h5SDZZbUVoVHNzYUhPWXM?oc=5",
+              "source": "TradingView",
+              "id": "616a33029662c732f8"
+            },
+            {
+              "title": "[News] Samsung Reportedly Eyes Early 2027 for 3D Cube-H Advanced Packaging Development, Featuring Hybrid Bonding - TrendForce",
+              "date": "2026-11-11",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNejZnYXQ1MEtCYkhDT2tRSDh3R1RxWGZTcTNLZ2NWemtvRncxd0xLZG01cUNvNkJVWVRRVWE0TldmRFRVUE43eVNCQTdwY01NTU9rU05ra0Jwck9HZ0ZFU3dUTmFpQW5HOTNVS19mNURBWnNrWXY1ckJQSUp3a3BBbzRGOWFfWkEzdFcwcEQ5UVdjb1hGVGVCUC0zSXpEWFJ0enM3VTd1ckFGMTVfdVViQ0k3WFlYalBCRGJNSjlyVkdxQXlPckhPQ08wR0dlNkN1Q1NkQmd0LUpKVXZTR0t5Y3VKdERMNi16?oc=5",
+              "source": "TrendForce",
+              "id": "7a7d0c7a369510e88d"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "bf4d6d73e8fbd738",
+      "company": "Lam Research",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 3,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 3,
+          "items": [
+            {
+              "title": "Lam Research Drops as Semiconductor Equipment Stocks Stay Under Pressure - Quiver Quantitative",
+              "date": "2026-11-20",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmpVV1M2NUhuTFR4UDBqODRKbWlzaHprdy14bndITm1YRmdvekhScmU2X0cyQUdNbklWUkRDNm1hekVRSnlKZ2pUWHJuczJCY0kxZjktVnlNdm1BVEdqVlJDazY4WEo0RGNPU3Q4UXQwRWVyT1JndW40aFFSMkRocnBROG5LeEQ0NzgwUnJxd0w4MmpkX3FJNXBRNUlrZFRlM2xGWG1OUlk?oc=5",
+              "source": "Quiver Quantitative",
+              "id": "26182d66c05f740fdf"
+            },
+            {
+              "title": "US semiconductor equipment firm Lam Research to add 200 jobs in Singapore amid AI boom - Singapore Economic Development Board (EDB)",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa2pHWGVqaGNVdkV1UXpSSlA2Nlg0V0QtMGh0UzFQY0FUU2VOSTN6NFFsbW5vMkhxS3BEcWpVdDNpRm5ibVZuQ3hrQUt4cmVCSGVjSnp1eGZTdWJhRlZkaFZ3ejhWQ0d5Tm03R0ItTmFyYmlLenc4cXhKU19BbFVIa3VRdXNvWXRHWTVZSTYzb2RHWHVUZ2ktN2hsdlRvbU1pXzhhajg3WUo2M1N2UGoyZ093T2V5b3J5V25TUVdXXzVENkxhcXg3cnJn?oc=5",
+              "source": "Singapore Economic Development Board (EDB)",
+              "id": "d0dae2e06571943982"
+            },
+            {
+              "title": "Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron - KED Global",
+              "date": "2026-11-09",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOQUh6LW5PWkQxVml6TUFtNnBrb3p5UWk0bTVCVXh5YTViMGRFS3dXOUlXRXUtS3lQcnBDalpabmlLTVFPU3lJZUNaSC1RVTZJamstSmhKUWI5ME5fWVRzTm9pUE1qanViMlRWRzNNMkdydTFPMDN3?oc=5",
+              "source": "KED Global",
+              "id": "e4a6211beb246078b1"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "b26e1f851ee6e4f0",
+      "company": "SK hynix",
+      "topic": "先進封裝／HBM",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 3,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 3,
+          "items": [
+            {
+              "title": "SK hynix’s HBM, developed with local suppliers, helps drive ‘$1 trillion in exports’ - 더글로벌기빙뉴스",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FSlowRGNhYlZENm94QXU4US1vSEMzbUllcnA3SzBudk9iOTFzR0JrZnZ6alJfUTdlU0szQjA1QmRNOUFjMTVkVXRyQTVTM2ZtZ3c2bQ?oc=5",
+              "source": "더글로벌기빙뉴스",
+              "id": "d51d718d9e2b335913"
+            },
+            {
+              "title": "South Korea's SK Hynix Says HBM Drove 42.8% of Chip Exports; 'Trinity Fab' to Broaden Supplier Ecosystem - BigGo Finance",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PbTZNUWpfTzVqRFg2bWpCbWVtS0x1SC1tMEVma0xkNkt4Sjh4OXB0cHNZdUtoUXVEMHlDWlFMQmNJcGRuYmhxSjlGdFhfYkRlSFo2SVZqS3hKX2twYW14eFI2ZTVRMnM4dHVFRWFmQmNEeWNyenc?oc=5",
+              "source": "BigGo Finance",
+              "id": "8495200fc46d32dbf3"
+            },
+            {
+              "title": "[News] SK hynix Reportedly Plans New HBM4 Equipment Orders, with P&T6 in Focus Despite NVIDIA Uncertainty - TrendForce",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGtLQnFrNG1wTDQ1dENSbW1jTUg3Rm9SeE9Ca1RkdENHa0NqVUs0RUpXVEV6b0JNVzlVWnN1OFZKc1hyZXNKMmU2RDV4M1ZzMnh4ekN3TUJ5YnE1YVQ0TV92QUIzOUg4aTlGaHZJZ01mRW5nckFVVC1JQVFwR0NYeFc2d24xd3d1SEJRQ2dtTVgxM0hzb3U3dS1YY0p2bVg4SWIxTXB0X0w3UGF4SDRUU3dVOGUyUkY0QU5vZW5Hc2NVZ2JBUmlPcU9TQmZrSVpPTC1ZcFlJbDZfbVhTWVE?oc=5",
+              "source": "TrendForce",
+              "id": "3920ee6910acd33d14"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "0ce8ad59f279b82d",
+      "company": "GlobalFoundries",
+      "topic": "擴廠／建廠",
+      "location": "紐約",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 3,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 3,
+          "items": [
+            {
+              "title": "GlobalFoundries Breaks Ground on $10B New York Fab - Construction Owners",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0hUdjFRTmNpY2pLOFdIYmVCQlg4ZzdfekIyUmd5NklkVlVhZ2ZqVlFwRG82MWVSVWgwQVdSOXhWU2szclNBWUtObW1UOWR2TjdhcDFkOVpoT2pNZDdzaFVtVkJIUWZTcVZmRkhyRkx4V29ZUWdwUVZMS25iSFg4QUZka1h4alhyTTJkY1VFdXlCUjZlSWtjRGpjcXBFYnBzbUFRNG43ZDBTcFRkdFhiNUE2aw?oc=5",
+              "source": "Construction Owners",
+              "id": "56b0bddff370005757"
+            },
+            {
+              "title": "Inside GlobalFoundries' US$21bn US-Japan Fab in New York - Manufacturing Digital",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOenBRblFhbTZqcmhaZVc1MU1VMlNuWUd1R3h1YVRENnJibXUwTTU4U19ZaWtuUnVNSmk0QkxlREJSUjFOcGx2Zm1xMjdsZF80VzZzNjBYbS1ZX3lBTTlCTGRKd1NBNmlCWlRJTUMxTHlucElLWnREM0dyaEZDa01hRkxCN25NMTVBcXFvU1lFS25TMmJh?oc=5",
+              "source": "Manufacturing Digital",
+              "id": "abfeebae691d40092f"
+            },
+            {
+              "title": "GlobalFoundries starts New York expansion with U.S.-Japan fab - Spectrum News",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTJyaXphS1dnR083alppT0hQWS1MN0ZqUi1naUZGUTB6OHZVN2N3ZEtOeVhGclM3dEdRbHZYdHJvSWM4NzdCQ1V5WlhCUmRWVGlaWFNZb3o3ZElpU3lZN3FkMWlicjVCVEFSNHlwR0hoR1k0YmVLbHpXbk12TXpkSEdzY1VGUkZNdTN1dFdJSjZDOGZSUnoxNjhOV1B0S191bGl2ekE3T1c5d3BEUlhlN1JGWDIzUTI5SmNJ?oc=5",
+              "source": "Spectrum News",
+              "id": "91327ed7c839989c75"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "aadeb18493d2a8c2",
+      "company": "Applied Materials",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 2,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "Applied Materials to Double Equipment Output by 2028 on AI Chip Demand - THE ELEC, Korea Electronics Industry Media",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GcUJ3V0NrdThIZEtXMUpQei1RVjVpSDVSS2Yzc0tmV2FvMDVVRzJtR1FkS2QwX0pHbXBKQmp4bGpONzBsWWZ6M3JTc3ZZXzVlQXZDVlZ2bnRPY2RSbE8tbHdIdDlINjQ?oc=5",
+              "source": "THE ELEC, Korea Electronics Industry Media",
+              "id": "575864ead467c3ce90"
+            },
+            {
+              "title": "Applied Materials' results show strong semiconductor equipment demand, analysts say (AMAT:NASDAQ) - Seeking Alpha",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXBEcHFDWDN4SVBPa2ZLempBZkhzMVk1a0ZTN3Jlall0SWUxMnhUOTB1OXRXYnc1djg4ZUkzbTVuTnR2VDRDNnotZnlmdndzVFJPc3NSQTBWYWdSUGRSYjN3SURuaWxwMkZZSDB2VXpCNTFRdXo2RUZNSDB2MGdvRF8xS0dORlN4TjM4OFpWU251STFrd01kNjBPRDl5MlZ6dk9BWkw0UC1XcFJieFBpeDhzSjBZN3BLMXhV?oc=5",
+              "source": "Seeking Alpha",
+              "id": "f123829580fd923024"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "929747cf7502fd8f",
+      "company": "Micron",
+      "topic": "先進封裝／HBM",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 2,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "Micron Pauses $4.5B Taiwan HBM Plant, Report Says - shattered.io",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFV6em13cGpITmZ2VFh0ZkVhdFR6Z2lmS1ZSR1ZOUlBGaE8xc1ljVm5KU2dqV0VieUhwOUtPZ3BsTE91dkJ1WmVTTEhjS1JacnZnRFBRcEk1Rm9FNEs1c2gzV05DVWR3ZDhkOGdkb0Rwa2szMXh0MS1FazlrNjRsOW5nUWtiQQ?oc=5",
+              "source": "shattered.io",
+              "id": "366ad62af0295337c2"
+            },
+            {
+              "title": "SEC Wins 5.8 Billion Won HBM Inspection Order From Micron - THE ELEC, Korea Electronics Industry Media",
+              "date": "2026-11-10",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BcnlySWFSQkYwdldKUzRmVkNyaVdyeEU5dERrMmhmYk53RUVYUVpHY18wN1JOakZPY2lJT08taXo3RzJENzZhQWFub1VzSmdqTEhDUEVwejZEd255NGRtM05OX28yUTA?oc=5",
+              "source": "THE ELEC, Korea Electronics Industry Media",
+              "id": "d1cc724a3e2093f044"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "32ffc227e7fbea5d",
+      "company": "Micron",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 2,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "DRAM Just Got More Expensive Than AI Memory. Here’s Why Micron Could Soar in 2027 - 24/7 Wall St.",
+              "date": "2026-11-15",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUEk0MzFlS3ZUbzdJbjg3OHlCamtpbjBCYVZmWGNLWXZaZVNnRXlXNXl3aVJ5eFV4SW45UWFKaWY2MnFRTFVUVEItd01xdXk3V1lWZGNEZXNiMXdTc1FfZnRUQWZXdlRyV2x2U1loS3ZGYzRZU0JuTDhUNFV2NW0zTGZjRU5OcnRsYlNzeHl2NTI1U0V1U2N6WmJpRER4cXM1TFdkdlJzYnRpaEZvbUpCV2JCMGU0REptd01HemFoTUU?oc=5",
+              "source": "24/7 Wall St.",
+              "id": "d51cea89eedcd7df4e"
+            },
+            {
+              "title": "AI Semiconductor Giants TSMC, Micron, and UMC Could Consume 15% of Taiwan’s Power by 2030, Greenpeace Warns - Greenpeace",
+              "date": "2026-11-10",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMFJzSzZHV0t6enA3MWduRWZkQ254MUhGYnF1bmpaYjRXbTVqUndSSVk1MTBMcUdFbG1FNjRCRGlUaXpXZmJwRDg5RjdzOUw5dmlHTWQydHliQTZ5YmE4aHpBdk1ybVMtQ243NmJoQTlwRmN0ZUJabDNuLVZOSXE3cXdIcDRPVlFCbjB1TEdhOHhjanNhZ0stLWR0ZDgzZEM4VkNjSXh3eUtiNGUyemNTOXFLOV9udTA0SzNIejNwdlV1QzFFODJockNpM2ZrdFhpbkxvMUYxckhQTnEtV0tvYlAyZFRjZw?oc=5",
+              "source": "Greenpeace",
+              "id": "ca8f8b4b0a8ba017da"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "916a451d3d5d3e0f",
+      "company": "Samsung",
+      "topic": "投資／資本支出",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 2,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "Samsung Begins 144 Trillion Won Investment in South Korea’s Chungcheong Region - THE ELEC, Korea Electronics Industry Media",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTaG83RUNhS2ZlSEN3TGRrRlU3ZTRBeW9CRXhES3hOcE16UkUwd1dMdm5Ibjk3VG1UdlRkeVFTYWpPQTQyY25ycFhrQnBFalZ2MVVqMjQwWWpMQmM2NjlkV25NaDlTUjA?oc=5",
+              "source": "THE ELEC, Korea Electronics Industry Media",
+              "id": "71916a14ebef63f8a1"
+            },
+            {
+              "title": "South Korea’s Lee announces $34B Samsung investment plan for advanced chip packaging - TradingView",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRTE3NVd1VTVuRDZfMGJPUEgzSEZfeTByQnJOandGdzhDV24yd0RHRkZMNm13dEQ2VlJQakJVTzFpTk1OMG5PQWppRjNQUXNyYWRYU20wUy1wRkZKbHg5NVp5V3JodmFKZ1ktQlVqQ1RJLXBILU5OTTFRNi0tUUZScEwwNW1Ib0RiTnY1Y2dFeGliN2RpMmNzaTlUVzhUYmpsb1VQOTlocUJtZjM4cUNyWUFXRTBfdUMtZXZsc0NDTWVKaTEwY2dLZDJNWnZ5RnVZNS1TVG11Wmp1SUhGVEpic2h5SDZZbUVoVHNzYUhPWXM?oc=5",
+              "source": "TradingView",
+              "id": "616a33029662c732f8"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "b8fcb31156386ba4",
+      "company": "牧德",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 2,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 2,
+          "items": [
+            {
+              "title": "【11/12 產業即時新聞】機器視覺/AOI 族群強勢表態，高階檢測需求引爆資金回補，致茂、牧德領軍奔高 - CMoney投資網誌",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2V4MDlXWDN3SmpvRHRFeFlYYzZsd2p3OWx2c1BGVFd3S1puVzI2Rkg2MnZTd2wtd0hrOHdXVGhqSUVxdlpGbnZhb21yUXBQREdwbW92YjVpS0JFaEhuNnlhWnphTDRuQnVRMGd5UllNQm9ndU5NazFpd0s1bDY2QWpwN0RkMkY0cXAxNFFn?oc=5",
+              "source": "CMoney投資網誌",
+              "id": "c5f83ea219a4066dda"
+            },
+            {
+              "title": "檢測廠年底忙翻 牧德訂單能見度已超過1年 - 非凡新聞台",
+              "date": "2026-11-11",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVlN1YzNaTXNBUzRrMjlMTjUxTm8tU2UtVEpJM0x5TmpfZ1NTbWc5Y1pRSWtqM2ZhWWdxZWFyb0twUFQzNkprc21tb05VMXhPSlBHUnVBM0NvVUU?oc=5",
+              "source": "非凡新聞台",
+              "id": "418ca46bb37eba81bf"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "d9c3b341e6328d9c",
+      "company": "ASML",
+      "topic": "投資／資本支出",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "What company Is ASML? Between ASML and AMD, Which Is a Better Investment? - TradingKey",
+              "date": "2026-11-22",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3duTTFjOFlPZVdVLXhlVVRtTkZINEhPcU5xNVB0OU9DU2hUZFA4ZDRpd0RRZmZKNVZqN1ZHRVpKYktVN0NxUVRCNmJYSkhCVXB5VFNSRzloMXRCbjBkOEkwQ0hxeUdpRHhZNTdjZk9nVjBueldpOUZYYWJRcW9maUZBcG1yN1luYWZnZzdFNTE1QUpVRGpFYQ?oc=5",
+              "source": "TradingKey",
+              "id": "c0e9a27e7f580bff91"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "4ea492022e3486bc",
+      "company": "Lam Research",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "US semiconductor equipment firm Lam Research to add 200 jobs in Singapore amid AI boom - Singapore Economic Development Board (EDB)",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa2pHWGVqaGNVdkV1UXpSSlA2Nlg0V0QtMGh0UzFQY0FUU2VOSTN6NFFsbW5vMkhxS3BEcWpVdDNpRm5ibVZuQ3hrQUt4cmVCSGVjSnp1eGZTdWJhRlZkaFZ3ejhWQ0d5Tm03R0ItTmFyYmlLenc4cXhKU19BbFVIa3VRdXNvWXRHWTVZSTYzb2RHWHVUZ2ktN2hsdlRvbU1pXzhhajg3WUo2M1N2UGoyZ093T2V5b3J5V25TUVdXXzVENkxhcXg3cnJn?oc=5",
+              "source": "Singapore Economic Development Board (EDB)",
+              "id": "d0dae2e06571943982"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "8bd789db9ac988fa",
+      "company": "Intel",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Intel Foundry at SEMICON West 2026: Metrology, Packaging Test and AI Yield Control - News and Statistics - IndexBox",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2ltS1R1Zk1sNWl2TjR0SXp5cGFQWk04TV9fVmVYbXJCRUtheEdheFFLbkJxQm5vX25mSDlpYW55M05CQllvMlNQYjN6Nllzbk1FQUdKNGFUMW01UmY1NW5SWFdRc1BESTJfakJYODJ4SkUxWldIRFFUeUsyd2tLejZOVndLYWJxeG5maVVmdUd4SlItRm9lQXVfOVMwTF9tTkdwMF9TbmNWQnhr?oc=5",
+              "source": "IndexBox",
+              "id": "3dcd63a014e1d0ed3c"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "7ae1f075e29eedd7",
+      "company": "Intel",
+      "topic": "先進封裝／HBM",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Intel Foundry at SEMICON West 2026: Metrology, Packaging Test and AI Yield Control - News and Statistics - IndexBox",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2ltS1R1Zk1sNWl2TjR0SXp5cGFQWk04TV9fVmVYbXJCRUtheEdheFFLbkJxQm5vX25mSDlpYW55M05CQllvMlNQYjN6Nllzbk1FQUdKNGFUMW01UmY1NW5SWFdRc1BESTJfakJYODJ4SkUxWldIRFFUeUsyd2tLejZOVndLYWJxeG5maVVmdUd4SlItRm9lQXVfOVMwTF9tTkdwMF9TbmNWQnhr?oc=5",
+              "source": "IndexBox",
+              "id": "3dcd63a014e1d0ed3c"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "0b697ef2e7e877a4",
+      "company": "SK hynix",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "SK Hynix Trinity Fab: $1B AI Memory Supply Chain - explainx.ai",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXZyeGEwZ3Nka1d1VW8wVXVoemRsREFVZllEUVQxUF9mRjlETHR6ck9kazRBTW96Y1dNTVpRckRLUFlXUUFOMmh4Y0JRTFIzT05IMW90R1VJbGhPWHBaX0hTbjdkNWZBYXBPUGdhSjB5S1o4V2pBWl9icDBEMGhaWmJ6dWYzRGZFM0NZT3l3SHdQN19TZlNV?oc=5",
+              "source": "explainx.ai",
+              "id": "504895074ac8cab144"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "be17fb3ec22c9dee",
+      "company": "SK hynix",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "[News] SK hynix Reportedly Plans New HBM4 Equipment Orders, with P&T6 in Focus Despite NVIDIA Uncertainty - TrendForce",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGtLQnFrNG1wTDQ1dENSbW1jTUg3Rm9SeE9Ca1RkdENHa0NqVUs0RUpXVEV6b0JNVzlVWnN1OFZKc1hyZXNKMmU2RDV4M1ZzMnh4ekN3TUJ5YnE1YVQ0TV92QUIzOUg4aTlGaHZJZ01mRW5nckFVVC1JQVFwR0NYeFc2d24xd3d1SEJRQ2dtTVgxM0hzb3U3dS1YY0p2bVg4SWIxTXB0X0w3UGF4SDRUU3dVOGUyUkY0QU5vZW5Hc2NVZ2JBUmlPcU9TQmZrSVpPTC1ZcFlJbDZfbVhTWVE?oc=5",
+              "source": "TrendForce",
+              "id": "3920ee6910acd33d14"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "027c86f2215f8674",
+      "company": "UMC",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "UMC announces new 22nm wafer fab in Singapore - Singapore Economic Development Board (EDB)",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYk1veTJKelFlb3RNMUNPS0VoVUJQcWFXTXNKU0haOHJLRmwtWUpEQmhjU3VDLXJDMl82M1ljbzFyNWhkbDlsNndWOWRiT256UUpMT19VLUwyamdQeW90S3JiVEhQMGtRS1d4T2dOcmhmcWhzLVo5bGFfUjZ0Y3VOV1JuOEdIWVZ5dHA2LTQ0RVMxS1k?oc=5",
+              "source": "Singapore Economic Development Board (EDB)",
+              "id": "3733b71dfd461fd8c5"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "fbcc31e5bc76ef16",
+      "company": "台積電",
+      "topic": "先進封裝／HBM",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+              "date": "2026-11-16",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvb3BvYUYwUWZmNUU2NXE1SUs2N0swekJiYzA3RmNvUU9QcTNpaVQ4d09fSTBoQkd1aUt3VDF1QmpheHh3VlI1SVY3ZTJnOFJzaXRjQkFiS2Zzcjc0NnRPZGlYV0VpRkpKYjFnblI4bDl0VzJWM0E?oc=5",
+              "source": "BigGo Finance",
+              "id": "231c3893f611234353"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "4793102f98e122f1",
+      "company": "SMIC",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "[News] SMIC Sees Capacity Tightness Through 2027, Possibly into 2H28; Equipment Lead Times Stretch to 16–24 Months - TrendForce",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYzZFWkQ5TDBRZTZuSFZCY05IZkV2ZWhvLWNHRnFhN3RXUDc4LUJJWmRUcHpLeGg5LVZ4MHlqdWF3TXJrZ2NObV81R01YbEVzSmF5eHA5XzNNVC1wWEt1dDN6UlV2bG1hczlrQUtHNXdsMkNSeFZwR0gzUWxJQVMzcTRaMTI2VDNhdjlGZXR6YzZINVZPV0liVjlfTFgzaVNzV3ZDTFZBWFZCLWFSTjhQZkxyVVJPQlpJVWI1bWhHM2hmU3hsaGswTzh5SEg0RU9mWUdadk5mbzdpTFFMN1ZzNl9SeWpweVJLX2c?oc=5",
+              "source": "TrendForce",
+              "id": "2eba86e69db18266fb"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "48464f2cb6618020",
+      "company": "台積電",
+      "topic": "擴廠／建廠",
+      "location": "亞利桑那",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "TSMC's Overseas Expansion Pays Off Big: Government Subsidies Hit Record NT$167.586 Billion in First Three Quarters; Arizona Plant Earns NT$53.986 Billion - BigGo Finance",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zajlhNjBRcmt0MmxuWlc2SnZETVYxTWFVaXk4ZUZGUll2R05nX0ctTUZqWkJRam1IaFBJSGdTRXJqcVNzTnBEZFZIZ2p6ODdfUHRvMzFILUdiZWhpYXpWbUZTX0pRZWFwUUF2eGRYS1NzeWxMMmc?oc=5",
+              "source": "BigGo Finance",
+              "id": "254e19eef668ff0c98"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "4fe470e463dbf9bf",
+      "company": "SMIC",
+      "topic": "投資／資本支出",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "SMIC co-CEO sees 2026 revenue topping $12 billion as AI demand stretches chip upcycle - investingLive",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlFZM284UkEyNEF0dzh1bF9pTkNNVnhiaUVhV1hoS2JFeGJIUXZnRldVeEw3VE9yWEdvT0xDZmo2VVl4d2hKOEsxQzZnT082WDFQdlQ0cW8wakluWTYxblBKZ0FVeFRmM1RBTzk5ZzZvLTAtRkxrdlpWbFoxaGhsT01mbmZSZmdZd2k2NHFkcjlLMjJEbUR3RUJNQWhIc28zSjk1M09hVmx0OThveWphd3dRdGtCT01Vc3c?oc=5",
+              "source": "investingLive",
+              "id": "1734485d34b908add9"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "39c51310930cd017",
+      "company": "牧德",
+      "topic": "投資／資本支出",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "【11/12 產業即時新聞】機器視覺/AOI 族群強勢表態，高階檢測需求引爆資金回補，致茂、牧德領軍奔高 - CMoney投資網誌",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2V4MDlXWDN3SmpvRHRFeFlYYzZsd2p3OWx2c1BGVFd3S1puVzI2Rkg2MnZTd2wtd0hrOHdXVGhqSUVxdlpGbnZhb21yUXBQREdwbW92YjVpS0JFaEhuNnlhWnphTDRuQnVRMGd5UllNQm9ndU5NazFpd0s1bDY2QWpwN0RkMkY0cXAxNFFn?oc=5",
+              "source": "CMoney投資網誌",
+              "id": "c5f83ea219a4066dda"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "ddb5abd46a696df5",
+      "company": "Applied Materials",
+      "topic": "投資／資本支出",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Applied Materials Beats Fiscal Q4 Targets On Strong Chip-Gear Sales - Investor's Business Daily",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkNzeHV3cnBHTlZWZXdfUThDY3Nta0RzZnZXRHBzb0NNekhXaHNSX0x5TW45dmZna0NPTU1EeEdwcUxJZnc3NjJmdHZzejVOQmVDYUhNcHlIWkx0ajdVVWVxRXlvRFBYWF9QMkVGUGZOazVwa09nVE0td2kzN2s2bkt2Nmd5UnJHblh3dFhfX2dDMUx0NEFCQlRRSQ?oc=5",
+              "source": "Investor's Business Daily",
+              "id": "282d58f100f0247c06"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "c52974f9002174a9",
+      "company": "SMIC",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "SMIC says AI chip shortage lasts through 2027 as fabs hit 97% use - Startup Fortune",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2g4alJNZWNPYU5lRHdCZ29KRHNiN3p5Vkt0dFNaaG5wMHlQamc2bGhPanhTbWw4ampRT0RXV3JiWkFKQlQ3SElBZ2RPZXZFWmE0a0xHOVQxSTZVN29wdkt1WEJHcWxWM1VqblFndElVZHNqRHpLYnRMTVNWRVJTd3JUaGFwVzdfVkxWTzF1cHVDYUx6cU9n?oc=5",
+              "source": "Startup Fortune",
+              "id": "0f9f6ace86b85a21df"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "dc4a203f488134cb",
+      "company": "台積電",
+      "topic": "投資／資本支出",
+      "location": "",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI - Ars Technica",
+              "date": "2026-11-11",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanhKZDVUckJDOTUyaHpuU1ozRV9Rc1I0czVKZmtueDFsM3pDTjRJZTFMQ0RDREhKcHRtTXIzQ2Zmdm1TWWNGbFN1RUE0dHBjWTNjV1VSR0lLTktuNVRrTnQxY0hfV0VXWUkzRnFyQ2otV0duQjdUVkdFcC1fWm9WQV9MN3k0Y3Y2YTY4d2w0dm56QUVyVlNaTlZmMi1QdTg?oc=5",
+              "source": "Ars Technica",
+              "id": "2b6fd193811613b104"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "3cee914db5848434",
+      "company": "Intel",
+      "topic": "擴廠／建廠",
+      "location": "俄亥俄",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-23",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "How is Intel’s $28B Ohio One Chip Plant: On Track or Derailed? - Construction Review",
+              "date": "2026-11-10",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUEpHWERhcHhOUzBkUXQzX2Vlanp4QzIxRmlZeTNxNnktQUR5OEhqbkZVemFtRGxjc09nSGZRVlJQWmc0SEU1WHMydndFdm95RVJ0OFlGdlVJdkkyejVGQTNPLXo1WnNMRDRTbVhGSXlLeS1uOThxRVFMeHpBT3EtdlE2engtUEFZNVZkd0tMdHhoVUxkcGkycEdTVQ?oc=5",
+              "source": "Construction Review",
+              "id": "1454b21cc03c4d9325"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "5c614f5068998c8f",
+      "company": "日月光",
+      "topic": "投資／資本支出",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 4,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 4,
+          "items": [
+            {
+              "title": "ASE's Taiwan Foredge Electronics Breaks Ground on J Block at Renwu, Investing NT$248.9 Billion to Expand Advanced Testing Base - BigGo Finance",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tSWJyekJfbVlGaTFmOWxTSmZFWEk5SDB1WVJZb2Y1dlZKZXczY1REbU5tWk1qWmFGUlAyNGpKbkU0TllxckxqbF9EdVJVQWtxazhiRGVja0lqaEZiY1BhVDc2aENNTEJkRkFraTByd1Q4WjUwYUE?oc=5",
+              "source": "BigGo Finance",
+              "id": "4fff2d5d2d4ecacd26"
+            },
+            {
+              "title": "ASE invests $3.05 billion in two plants in Taiwan — Taipei Times - UA.NEWS",
+              "date": "2026-11-14",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa291cDVwcXNmZG02MHVuWGxCYjdiU3J3X2RxR3gzRnB4SlRNb1RzbnM2VHRvY2w3ZExhOGZHaFZMYXNWU0JxbXZRenhPSk1ub0VvMy02LW5mUmlraThsWGhjNVhRMEV4YzhTMi1hUW9PYlFieHpiX3lsbVdOSlhSMTVFd3NsVVRmOUZDTm1YdTBva2FpNkhSMQ?oc=5",
+              "source": "UA.NEWS",
+              "id": "01f5e0b2d0ed73784a"
+            },
+            {
+              "title": "ASE Technology's Luzhu Plant Phase 1 Begins Production, Phase 2 Breaks Ground in Taiwan; NT$100 Billion Investment Seen Generating NT$80 Billion in Annual Revenue - BigGo Finance",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSVGNOMENlUG9WNHJhVzFpMjVaZmRUdFdtdVpHTHNBNTBCNmJUOW5XUVhVcVoyN1NXbGVtMTNsbDkzdXZtdkZkZEpXbmpNTHRtMTBydTUzeHh0VGp6UEV2S0Y4ZUxJVHdJWjZKdWtHNEk1Y3hIMXc?oc=5",
+              "source": "BigGo Finance",
+              "id": "fc3e364c704068da22"
+            },
+            {
+              "title": "日月光提高 2026 年資本支出預算至 115 億美元",
+              "date": "2026-10-30",
+              "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/30/2003866836",
+              "source": "Taipei Times",
+              "id": "ase-capex-20261030"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "4236385a73ae7ffe",
+      "company": "日月光",
+      "topic": "擴廠／建廠",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 3,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 3,
+          "items": [
+            {
+              "title": "ASE's Taiwan Foredge Electronics Breaks Ground on J Block at Renwu, Investing NT$248.9 Billion to Expand Advanced Testing Base - BigGo Finance",
+              "date": "2026-11-19",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tSWJyekJfbVlGaTFmOWxTSmZFWEk5SDB1WVJZb2Y1dlZKZXczY1REbU5tWk1qWmFGUlAyNGpKbkU0TllxckxqbF9EdVJVQWtxazhiRGVja0lqaEZiY1BhVDc2aENNTEJkRkFraTByd1Q4WjUwYUE?oc=5",
+              "source": "BigGo Finance",
+              "id": "4fff2d5d2d4ecacd26"
+            },
+            {
+              "title": "ASE invests $3.05 billion in two plants in Taiwan — Taipei Times - UA.NEWS",
+              "date": "2026-11-14",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa291cDVwcXNmZG02MHVuWGxCYjdiU3J3X2RxR3gzRnB4SlRNb1RzbnM2VHRvY2w3ZExhOGZHaFZMYXNWU0JxbXZRenhPSk1ub0VvMy02LW5mUmlraThsWGhjNVhRMEV4YzhTMi1hUW9PYlFieHpiX3lsbVdOSlhSMTVFd3NsVVRmOUZDTm1YdTBva2FpNkhSMQ?oc=5",
+              "source": "UA.NEWS",
+              "id": "01f5e0b2d0ed73784a"
+            },
+            {
+              "title": "ASE Technology's Luzhu Plant Phase 1 Begins Production, Phase 2 Breaks Ground in Taiwan; NT$100 Billion Investment Seen Generating NT$80 Billion in Annual Revenue - BigGo Finance",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSVGNOMENlUG9WNHJhVzFpMjVaZmRUdFdtdVpHTHNBNTBCNmJUOW5XUVhVcVoyN1NXbGVtMTNsbDkzdXZtdkZkZEpXbmpNTHRtMTBydTUzeHh0VGp6UEV2S0Y4ZUxJVHdJWjZKdWtHNEk1Y3hIMXc?oc=5",
+              "source": "BigGo Finance",
+              "id": "fc3e364c704068da22"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "02344d2e99c530b8",
+      "company": "日月光",
+      "topic": "AI／製程",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "ASE Technology: Still Bullish Despite The Ongoing AI Pessimism (NYSE:ASX) - Seeking Alpha",
+              "date": "2026-11-18",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVTBUUzVMeHV0ZTlQWDI1cUJoX2lCajRySmlJLXZ6V3NkYi15WVFad2l0VDNSTlV4bGI1WVBXOGVnZDZQWmFhc2R0dUFIR21ob3l0SWtoY1VRU2FIYVdMY3F1eVE3emFNbzlDeEZ5bjB5Q1ZsMEpvNDQxQWE0QUhHQzJKRk15RUx6MjdmT280X2YzczQ3NUV5dWYzRmxianRRVl9RbWczMA?oc=5",
+              "source": "Seeking Alpha",
+              "id": "17205a8b1e4068efb7"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "2957c416e352e33e",
+      "company": "Samsung",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "Samsung, SK hynix, and Micron form unlikely alliance to standardize robot charging as chipmakers push toward unmanned chip fabs — standard specs would allow manufacturer-agnostic charging equipment - Tom's Hardware",
+              "date": "2026-11-17",
+              "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPZkpzbF9CMl9BMkhqcnk2SGE4Sk9QVWJ6YlYxVzVib052c3NqWUdneUR0U3B3NnJoYzhmYzhTeVVUbWdpc2o3R1owbG9jbEVmZ3djbVdNaWVCRVpEcU1NbVFCTzNMaW5BRzZTQjhaSFcwcXBVZFZPbU94eUpZa1JtSktTalZDQkpCUDRkenpXT0lwb3M5NFN0Snd0OFpWUTljRU80V0UzbWtLVV9scWNkQmV2bFpDT1MwWldESWJTZ1lrbUwtY1UzajUtcHl0QXlMeGQ2dGluNFE1bWNodDFCRldkOVB4X2JTTnN2RjRaUDVuRGs1REZ6RzJNN294TlY3NzEyQXJJZ3hwMDRwVFhwbGxFNkpMZ3ZpdjFhR3lab0xjNE1MOHJXNzU3NmR0S3c3bVZSQUg2aXl6Qlo2NEw3ZU5YR0gxTXdRU3JwOUpkbTZtT25JSUVDZW9vNjhjMExITDVyaTBSYTJwSEk?oc=5",
+              "source": "Tom's Hardware",
+              "id": "a6c5eaa97cd43bde0f"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "bd523e1ac40b15be",
+      "company": "日月光",
+      "topic": "先進封裝／HBM",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "日月光高雄路竹先進封裝廠一期啟用、二期動土",
+              "date": "2026-11-13",
+              "url": "https://www.taiwannews.com.tw/news/6475880",
+              "source": "Taiwan News",
+              "id": "ase-kaohsiung-20261113"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "860fac0690660ec3",
+      "company": "日月光",
+      "topic": "擴廠／建廠",
+      "location": "高雄",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "ASE expands in Kaohsiung with new plant opening - Taiwan News",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyWFIySHFPcHZzS3dOSzBnTmNBa2xQRkxYSXFIZjMzajN3Tk11OHdESTVxaEw3THpNR05fNGlPcjJJYVBTR0NlZTV1QUQ5NjVrc2ZrQg?oc=5",
+              "source": "Taiwan News",
+              "id": "770f5cad88caa88bc1"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "4a067ef3afe54ab6",
+      "company": "日月光",
+      "topic": "投資／資本支出",
+      "location": "高雄",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "ASE investing NT$100 billion in Kaohsiung - Taipei Times",
+              "date": "2026-11-13",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DMTl2eDZzeklWZy1kN25kQm9wMFg2aTUtUlE3ZXhUcW16aGx1MUlLbERYRml6N3RsSC1xVDFKQ3JyUzhNUm53TFlmd05jUlFSNmJhRmROd2pLeDkzck1EQjJzb0U2cGFDSzlDazNCU1YwVTVEYUE?oc=5",
+              "source": "Taipei Times",
+              "id": "14fae60dcdb7bac39b"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "3391a6cf05f9c7fa",
+      "company": "Onto Innovation",
+      "topic": "先進封裝／HBM",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "ONTO Raises Q4 Outlook as AI Packaging Demand Drives Record Growth - TradingView",
+              "date": "2026-11-12",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUR6VlJ2aDVzQTlCeGM4ZE1kdVFBZDhhZEstaEtta3NLTGptOFRpV3pRUGp5a24wZDkxSzVFSVFmT3hSSF9CRlFPOVUyM3VwV2xMaU54VXdfRUNKeVlkNFdkbEJISDhmdlpBeXFhNG4yVFM5ZHFiQUU4LWJ1M01DSGFRTnM3Q012WUxkN2hSVTE5eFMxVTBESjlLd3J1WGJCaWFBSnd2Y2h6VVpqNkFlM2xjR3ZuSWF4MDhDekllTQ?oc=5",
+              "source": "TradingView",
+              "id": "a7151f60a4a02e128a"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    },
+    {
+      "id": "afd1f05b60ec1916",
+      "company": "台積電",
+      "topic": "設備／檢測",
+      "location": "",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "weeks_seen": 1,
+      "headline_count": 1,
+      "change_status": "首次觀察／基準",
+      "change_summary": "目前保存 1 期不同的新聞標題。不同標題不代表廠區或技術真的有進展。",
+      "timeline": [
+        {
+          "week": "2026-11-22",
+          "new_headlines": 1,
+          "items": [
+            {
+              "title": "台積電亞利桑那州第二座晶圓廠進入設備搬入與安裝階段",
+              "date": "2026-10-15",
+              "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
+              "source": "TSMC Q3 2026 Earnings Call",
+              "id": "tsmc-arizona-20261015"
+            }
+          ]
+        }
+      ],
+      "evidence_level": "RSS 標題聚合，未核對全文；並非官方進度"
+    }
+  ]
+}
