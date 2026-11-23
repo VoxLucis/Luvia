@@ -42,6 +42,12 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
         run: python capability_candidates.py
+      - name: Generate Beli Technology decision brief (AI optional)
+        continue-on-error: true # Never interrupt news / archives if the optional AI call fails
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+        run: python beli_brief.py
       - name: Commit weekly archive
         run: |
           git config user.name 'github-actions[bot]'
